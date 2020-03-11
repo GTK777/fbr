@@ -43,7 +43,7 @@
 	 		 	<div class="container">
 	 		 		<div class="section-one-content">
 	 		 			<a href="<?= $pump_1_name ?>" class="catalog-item">
-	 		 				<span class="catalog-item-top"><img src="img/images/<?= $pump_1_name ?>.png" alt="горелки для котлов F.B.R."></span>
+	 		 				<span class="catalog-item-top"><img src="img/images/<?= $pump_1_name ?>.jpg" alt="горелки для котлов F.B.R."></span>
 	 		 				<span class="catalog-item-bottom"><span>Газовые горелки GAS X</span></span>
 	 		 				<span class="go-over-page">Перейти</span>
 	 		 			</a>
@@ -100,12 +100,12 @@
 	 		 			</a>
 	 		 			</a>
 	 		 			<a href="<?= $pump_12_name ?>" class="catalog-item">
-	 		 				<span class="catalog-item-top"><img src="img/images/<?= $pump_12_name ?>.png" alt="горелки для котлов F.B.R."></span>
+	 		 				<span class="catalog-item-top"><img src="img/images/<?= $pump_12_name ?>.jpg" alt="горелки для котлов F.B.R."></span>
 	 		 				<span class="catalog-item-bottom"><span>Газовые горелки GAS P /M EL</span></span>
 	 		 				<span class="go-over-page">Перейти</span>
 	 		 			</a>
 	 		 			<a href="<?= $pump_13_name ?>" class="catalog-item">
-	 		 				<span class="catalog-item-top"><img src="img/images/<?= $pump_13_name ?>.png" alt="горелки для котлов F.B.R."></span>
+	 		 				<span class="catalog-item-top"><img src="img/images/<?= $pump_13_name ?>.jpg" alt="горелки для котлов F.B.R."></span>
 	 		 				<span class="catalog-item-bottom"><span>Газовые горелки HI</span></span>
 	 		 				<span class="go-over-page">Перейти</span>
 	 		 			</a>

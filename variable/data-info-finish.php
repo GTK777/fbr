@@ -62,8 +62,91 @@ return [
 	'gazovye-gorelki-gas-x' => [
 		[
 			'burnersModalName' => 'Газовая горелка FBRGAS X0 CE TC + R. CE D1/2" - S',
-			'burnersModalLink' => 'gas-x0-ce-tc-r-ce-d1-2-s'
+			'burnersModalLink' => 'gas-x0-ce-tc-r-ce-d1-2-s',
+		],
+        [
+			'burnersModalName' => "Газовая горелка GAS X0 CE TL + R. CE D1/2\" - S",
+			'burnersModalLink' => 'gas-x0-ce-tl-r-ce-d1-2-s'
+        ],
+        [
+			'burnersModalName' => "Газовая горелка GAS X1 CE TC + R. CE D1/2\" -S",
+			'burnersModalLink' => 'gas-x1-ce-tc-r-ce-d1-2-s'
+        ],
+        [
+			'burnersModalName' => "Газовая горелка GAS X1 CE TL + R. CE D1/2\" -S",
+			'burnersModalLink' => 'gas-x1-ce-tl-r-ce-d1-2-s'
+        ],
+        [
+			'burnersModalName' => "Газовая горелка GAS X2 CE TC + R. CE D3/4\"- S",
+			'burnersModalLink' => 'gas-x2-ce-tc-r-ce-d3-4-s'
+        ],
+        [
+			'burnersModalName' => "Газовая горелка GAS X2 CE TL + R. CE D3/4\"- S",
+			'burnersModalLink' => 'gas-x2-ce-tl-r-ce-d3-4-s'
+        ],
+        [
+			'burnersModalName' => "Газовая горелка GAS X3 CE TC + R. CE D1\"- S",
+			'burnersModalLink' => 'gas-x3-ce-tc-r-ce-d1-s'
+        ],
+        [
+			'burnersModalName' => "Газовая горелка GAS X3 CE TL + R. CE D1\"- S",
+			'burnersModalLink' => 'gas-x3-ce-tl-r-ce-d1-s'
+        ],
+        [
+			'burnersModalName' => "Газовая горелка GAS X3 CE TC + R. CE-CT D1\"- S",
+			'burnersModalLink' => 'gas-x3-ce-tc-r-ce-ct-d1-s'
+        ],
+        [
+			'burnersModalName' => "Газовая горелка GAS X3 CE TL + R. CE-CT D1\"- S",
+			'burnersModalLink' => 'gas-x3-ce-tl-r-ce-ct-d1-s'
+        ],
+        [
+			'burnersModalName' => "Газовая горелка GAS X4 CE TC + R. CE D1\"- S",
+			'burnersModalLink' => 'gas-x4-ce-tc-r-ce-d1-s'
+        ],
+        [
+			'burnersModalName' => "Газовая горелка GAS X4 CE TL + R. CE D1\"- S",
+			'burnersModalLink' => 'gas-x4-ce-tl-r-ce-d1-s'
+        ],
+        [
+			'burnersModalName' => "Газовая горелка GAS X4 CE TC + R. CE-CT D1\"- S",
+			'burnersModalLink' => 'gas-x4-ce-tc-r-ce-ct-d1-s'
+        ],
+        [
+			'burnersModalName' => "Газовая горелка GAS X4 CE TL + R. CE-CT D1\"- S",
+			'burnersModalLink' => 'gas-x4-ce-tl-r-ce-ct-d1-s'
+        ],
+        [
+			'burnersModalName' => "Газовая горелка GAS X5 CE TC + R. CE D1\"-S",
+			'burnersModalLink' => 'gas-x5-ce-tc-r-ce-d1-s'
+        ],
+        [
+			'burnersModalName' => "Газовая горелка GAS X5 CE TL + R. CE D1\"-S",
+			'burnersModalLink' => 'gas-x5-ce-tl-r-ce-d1-s'
+        ],
+        [
+			'burnersModalName' => "Газовая горелка GAS X5 CE TC + R. CE D1\"1/4-S",
+			'burnersModalLink' => 'gas-x5-ce-tc-r-ce-d11-4-s'
+        ],
+        [
+			'burnersModalName' => "Газовая горелка GAS X5 CE TC + R. CE-CT D1\"-S",
+			'burnersModalLink' => 'gas-x5-ce-tc-r-ce-ct-d1-s'
+        ],
+        [
+			'burnersModalName' => "Газовая горелка GAS X5 CE TL + R. CE D1\"1/4-S",
+			'burnersModalLink' => 'gas-x5-ce-tl-r-ce-d11-4-s'
+        ],
+        [
+			'burnersModalName' => "Газовая горелка GAS X5 CE TL + R. CE-CT D1\"-S",
+			'burnersModalLink' => 'gas-x5-ce-tl-r-ce-ct-d1-s'
+        ],
+        [
+			'burnersModalName' => "Газовая горелка GAS X5 CE TC + R. CE-CT D1\"1/4-S",
+			'burnersModalLink' => 'gas-x5-ce-tc-r-ce-ct-d11-4-s'
+        ],
+        [
+			'burnersModalName' => "Газовая горелка GAS X5 CE TL + R. CE-CT D1\"1/4-S",
+			'burnersModalLink' => 'gas-x5-ce-tl-r-ce-ct-d11-4-s'
 		],
 	],	
 ];	
-
