@@ -148,5 +148,81 @@ return [
 			'burnersModalName' => "Газовая горелка GAS X5 CE TL + R. CE-CT D1\"1/4-S",
 			'burnersModalLink' => 'gas-x5-ce-tl-r-ce-ct-d11-4-s'
 		],
+	],
+	'gazovye-gorelki-gas-x-f' => [
+		[
+			'burnersModalName' => 'Газовая горелка GAS X 1 CE F + R. CE D1/2" - S',
+			'burnersModalLink' => 'gas-x-1-ce-f-r-ce-d1-2-s',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS X 2 CE F + R. CE D3/4"- S',
+			'burnersModalLink' => 'gas-x-2-ce-f-r-ce-d3-4-s',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS X 3 CE F + R. CE D1"- S',
+			'burnersModalLink' => 'gas-x-3-ce-f-r-ce-d1-s',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS X 4 CE F + R. CE D1"- S',
+			'burnersModalLink' => 'gas-x-4-ce-f-r-ce-d1-s',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS X 3 CE F + R. CE-CT D1"- S',
+			'burnersModalLink' => 'gas-x-3-ce-f-r-ce-ct-d1-s',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS X 4 CE F + R. CE-CT D1"- S',
+			'burnersModalLink' => 'gas-x-4-ce-f-r-ce-ct-d1-s',
+		],
 	],	
-];	
+	'gazovye-gorelki-gas-xp' => [
+		[
+			'burnersModalName' => 'Газовая горелка GAS XP 60 CE TC + R. CE D1"-S',
+			'burnersModalLink' => 'gas-xp-60-ce-tc-r-ce-d1-s',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS XP 60 CE TL + R. CE D1"-S',
+			'burnersModalLink' => 'gas-xp-60-ce-tl-r-ce-d1-s',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS XP 60 CE TC + R. CE D1" 1/2-FS40',
+			'burnersModalLink' => 'gas-xp-60-ce-tc-r-ce-d1-1-2-fs40',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS XP 60 CE TL + R. CE D1" 1/2-FS40',
+			'burnersModalLink' => 'gas-xp-60-ce-tl-r-ce-d1-1-2-fs40',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS XP 60 CE TC + R. CE D1" 1/2-FS50',
+			'burnersModalLink' => 'gas-xp-60-ce-tc-r-ce-d1-1-2-fs50',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS XP 60 CE TL + R. CE D1" 1/2-FS50',
+			'burnersModalLink' => 'gas-xp-60-ce-tl-r-ce-d1-1-2-fs50',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS XP 60 CE TC + R. CE-CT D1"-S',
+			'burnersModalLink' => 'gas-xp-60-ce-tc-r-ce-ct-d1-s',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS XP 60 CE TL + R. CE-CT D1"-S',
+			'burnersModalLink' => 'gas-xp-60-ce-tl-r-ce-ct-d1-s',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS XP 60 CE TC + R. CE-CT D1" 1/2-FS40',
+			'burnersModalLink' => 'gas-xp-60-ce-tc-r-ce-ct-d1-1-2-fs40',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS XP 60 CE TL + R. CE-CT D1" 1/2-FS40',
+			'burnersModalLink' => 'gas-xp-60-ce-tl-r-ce-ct-d1-1-2-fs40',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS XP 60 CE TC + R. CE-CT D1" 1/2-FS50',
+			'burnersModalLink' => 'gas-xp-60-ce-tc-r-ce-ct-d1-1-2-fs50',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS XP 60 CE TL + R. CE-CT D1" 1/2-FS50',
+			'burnersModalLink' => 'gas-xp-60-ce-tl-r-ce-ct-d1-1-2-fs50',
+		],
+	],	
+];
