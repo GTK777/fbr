@@ -10,12 +10,12 @@
 						<h6>НАВИГАЦИЯ</h6>
 						<ul class="footer menu-list">
 							<li class="menu-list-item"><a href="/" class="menu-list-item-link">Главная</a></li>
-							<li class="menu-list-item"><a href="catalog" class="menu-list-item-link">Каталог</a></li>
-							<li class="menu-list-item"><a href="spare-parts" class="menu-list-item-link">Запчасти</a></li>
-							<li class="menu-list-item"><a href="delivery" class="menu-list-item-link">Доставка и оплата</a></li>
-							<li class="menu-list-item"><a href="about-us" class="menu-list-item-link">О нас</a></li>
-							<li class="menu-list-item"><a href="contacts" class="menu-list-item-link">Контакты</a></li>
-							<li class="menu-list-item"><a href="requisites" class="menu-list-item-link">Реквизиты</a></li>
+							<li class="menu-list-item"><a href="http://fbr/catalog.php" class="menu-list-item-link">Каталог</a></li>
+							<li class="menu-list-item"><a href="http://fbr/spare-parts" class="menu-list-item-link">Запчасти</a></li>
+							<li class="menu-list-item"><a href="http://fbr/delivery" class="menu-list-item-link">Доставка и оплата</a></li>
+							<li class="menu-list-item"><a href="http://fbr/about-us" class="menu-list-item-link">О нас</a></li>
+							<li class="menu-list-item"><a href="http://fbr/contacts" class="menu-list-item-link">Контакты</a></li>
+							<li class="menu-list-item"><a href="http://fbr/requisites" class="menu-list-item-link">Реквизиты</a></li>
 						</ul>
 					</div>
 					<div class="footer-content-right">
