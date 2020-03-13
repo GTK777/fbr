@@ -61,7 +61,7 @@
 return [
 	'gazovye-gorelki-gas-x' => [
 		[
-			'burnersModalName' => 'Газовая горелка FBRGAS X0 CE TC + R. CE D1/2" - S',
+			'burnersModalName' => 'Газовая горелка GAS X0 CE TC + R. CE D1/2" - S',
 			'burnersModalLink' => 'gas-x0-ce-tc-r-ce-d1-2-s',
 		],
         [

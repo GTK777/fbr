@@ -1,7 +1,7 @@
 <?php
     require "variable/title.php"; // title and description
-    $title = "$producteTitle_1_1";
-    $description = "$producteDesc_1_1"; 
+    $title = "$producteTitle_1_8";
+    $description = "$producteDesc_1_8"; 
 
     require "header.php";
     require "variable/data-description.php";
@@ -14,10 +14,10 @@
 
     $modification = require("variable/data-info-finish.php");
     $dataDesc = require("variable/data-description.php");
-    $modificationModal = $modification["gazovye-gorelki-gas-x"][0];
+    $modificationModal = $modification["gazovye-gorelki-gas-x"][7];
     
-    $modalPumpDesc = $modalPumpDesc_1;
-    $modalPumpTable = $modalPumpTable_1;
+    $modalPumpDesc = $modalPumpDesc_8;
+    $modalPumpTable = $modalPumpTable_8;
 ?>
     <main class="main">
         <div class="black-bg-about-us"></div>

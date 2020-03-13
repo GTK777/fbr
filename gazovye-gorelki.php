@@ -16,7 +16,7 @@
 						<a href="catalog" class="bread-crumbs-link bread-crumbs-link-next">Каталог</a>
 					</li>
 					<li class="bread-crumbs-item">
-						<a href="gazovye-gorelki" class="bread-crumbs-link bread-crumbs-link-now">Газовые горелки FBR</a>
+						<a href="gazovye-gorelki" class="bread-crumbs-link bread-crumbs-link-now">Газовые горелки</a>
 					</li>
 	 			</ul>
 	 		</div>

@@ -11,13 +11,12 @@
     
     $dataLink = require "variable/data-info.php";
     $dataLinkAll = $dataLink["gazovye-gorelki"];
+    
+    $modalPump = $data["pumpModal_r_5"][0];
 
     $modification = require("variable/data-info-finish.php");
     $dataDesc = require("variable/data-description.php");
     $modificationModal = $modification["gazovye-gorelki-gas-x"][0];
-    
-    $modalPumpDesc = $modalPumpDesc_1;
-    $modalPumpTable = $modalPumpTable_1;
 ?>
     <main class="main">
         <div class="black-bg-about-us"></div>
@@ -33,11 +32,11 @@
                         </li>
                         </li>
                         <li class="bread-crumbs-item">
-                            <a href="gazovye-gorelki-gas-x" class="bread-crumbs-link bread-crumbs-link-next bread-crumbs-link-spare-parts">F.B.R. GAS X</a>
+                            <a href="gazovye-gorelki-gas-x" class="bread-crumbs-link bread-crumbs-link-next bread-crumbs-link-spare-parts">FBR GAS X</a>
                         </li>
                         <li class="bread-crumbs-item">
                             <a href="" class="bread-crumbs-link bread-crumbs-link-now">
-                            <?= $modificationModal["burnersModalName"] ?></a>
+                            Горелка FBR <?= $modalPump["pumpModalName_1"] ?></a>
                         </li>
                     </ul> 
                 </div>
@@ -51,29 +50,14 @@
                     </div>
                     <div class="burners-modal-info__content-right">
                         <h1 class="burners-modal-info__content-right_title"><?= $modificationModal["burnersModalName"] ?></h1>
-                        <?= $modalPumpDesc ?>
-                        
-                        <span class="name-producte name-producte-page-p"><?= $modificationModal["burnersModalName"] ?></span>
-                        <span class="vendor-code-producte vendor-code-producte-page-p">-</span>
-                         <div class="to-order-block to-order-block-sp">
-                            <button class="to-order">Заказать в один клик</button>
-                            <span class="quantity-of-goods all-quantity-of-goods">
-                                <span class="minus">-</span>
-                                <span class="number">0</span>
-                                <span class="plus">+</span>
-                            </span>
-                            <span class="add-to-shopping-сart to-order-block-sp-stop"></span>
-                        </div>
+                        <?= $modalPumpDesc_1 ?>
+                         
+                      <div class="to-order-block">
+                            <button class="to-order">Заказать</button>
+                      </div>
                     </div>
                 </div>
 
-
-
-                <div class="specifications burners-modal-info__content-right_block-list" id="specification" role="tabpanel" aria-labelledby="specification-tab">
-
-                    <h5 class="burners-modal-info__content-right_description title-desc">Xарактеристики:</h5><?= $modalPumpTable ?>
-
-                </div>
                 <!-- Main block - Link on other pumps - Start --> 
                     <div class="section-link-on-o-p">
                         <div class="content-main-line">
@@ -105,6 +89,20 @@
                         </div>
                     </div>
                 <!-- Main block - Link on other pumps - Finish --> 
+                <div class="photo-block">
+                    <div class="picture-performance-block picture-block">
+                        <img src="img/picture/<?= $modificationModal["burnersModalLink"] ?>.jpg" alt="Горелки FBR">
+                    </div>
+                    <div class="picture-performance-block performance-block">
+                        <img src="img/performance/<?= $modificationModal["burnersModalLink"] ?>.jpg" alt="Горелки FBR">
+                    </div>
+                </div>
+
+                <div class="specifications burners-modal-info__content-right_block-list" id="specification" role="tabpanel" aria-labelledby="specification-tab">
+
+                    <h5 class="burners-modal-info__content-right_description title-desc">Xарактеристики:</h5><?= $modalPumpTable_1 ?>
+
+                </div>
             </div>
         </section> 
     </main>

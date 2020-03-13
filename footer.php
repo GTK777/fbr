@@ -191,5 +191,39 @@
 	 	</div>
 	 	<!-- Form on producte page - Finish -->
 
+		 <div class="order-in-one-click-block close-window">
+ 	 			<div class="container">
+ 	 				<div class="order-in-one-click-content">
+ 	 					<div class="info-order-list">
+ 	 						<span class="info-order-list__title">Прожалуйста, проверьте ваш заказ:</span>
+ 	 					</div>
+ 	 					<form action="" class="order-in-one-click-form">
+ 		 					<div class="order-in-one-click-content-left">
+ 		 						<span>Введите контактную информауию:</span>
+ 		 						<span class="content-right-description">* Поля обязательные для заполнения</span>
+ 		 						<span class="title-input">*Имя:</span>
+ 								<input type="text" class="order-in-one-click-input order-in-one-click-name" name="name" required>
+ 								<span class="title-input">*Телефон:</span>	
+ 								<input type="text" class="order-in-one-click-input order-in-one-click-phone" name="phone" required>	
+ 								<span class="title-input">*Email:</span>
+ 								<input type="text" class="order-in-one-click-input order-in-one-click-email" name="email" required>
+ 								<span class="title-input">Примечание:</span>
+ 								<textarea class="order-in-one-click-input order-in-one-click-text" name="note"></textarea>		
+ 		 					</div>
+ 		 					<input type="submit" class="order-in-one-click-submit" value="Оформить заказ">
+ 		 					<span class="processing-consent">**Нажимая на кнопку, вы даете согласие на обработку своих персональных данных.</span>
+ 	 					</form>
+ 	  					<span class="close-window-btn close-window-btn-sp"></span>
+ 	 				</div>
+ 	 			</div>
+ 	 		</div>
+			
+			<div class="error-goods-container">
+				<div class="error-goods">
+					<img src="img/icon/warning.svg" alt="Запчасти для горелок Lamborghini">
+					<span class="close-error-goods"></span>
+					<span class="text-error-goods"></span>
+				</div>
+			</div>
 </body>
 </html>

@@ -30,6 +30,7 @@
 	<!-- script -->
 	<script src="libs/jquery/dist/jquery.min.js" defer></script>
 	<script src="js/script.js" defer></script>
+	<script src="js/spare-parts.js" defer></script>
 
 
 </head>
@@ -85,6 +86,10 @@
 						<span></span>
 						<span></span>
 						<span></span>
+					</div>
+					<div class="basket-block basket-block-in-header">
+						<span class="basket"></span>
+						<span class="basket-number ">0</span>
 					</div>
 				</div>
 			</div>

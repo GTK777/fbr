@@ -339,47 +339,6 @@ function highlightCheckboxNo() {
   $('checkbox-743284:checkbox').prop('checked', false);
 }
 
-function checkTheFormToFillOut() {
-  var inputNameVal = document.querySelectorAll('.required-form-field').value.replace(/ /g, "").length;
-  // var inputEmailVal = document.querySelector('.theme-input-email').value.replace(/ /g, "").length;
-  // var inputTelVal = document.querySelector('.theme-input-tel').value.replace(/ /g, "").length;
-  // var inputTextateaVal = document.querySelector('.theme-input-main-textarea').value.replace(/ /g, "").length;
-  console.log(inputNameVal);
-  // if(inputNameVal === 0) {
-  //   $('.theme-input-name').addClass('blank-field-form-border');
-  //   if($('.theme-input-name-block .blank-field-form-text').length < 1) {
-  //     $('.theme-input-name').parent().prepend('<span class="blank-field-form-text">ПОЖАЛУЙСТА, ВВЕДИТЕ СВОЕ ИМЯ</span>');
-  //   }
-  //   return false;
-  // };
-
-  // if(inputEmailVal === 0) {
-  //   $('.theme-input-email').addClass('blank-field-form-border');
-  //   if($('.theme-input-email-block .blank-field-form-text').length < 1) {
-  //     $('.theme-input-email').parent().prepend('<span class="blank-field-form-text">ПОЖАЛУЙСТА, ВВЕДИТЕ СВОЙ EMAIL</span>');
-  //   }
-  //   return false;
-  // };
-
-  // if(inputTelVal === 0) {
-  //   $('.theme-input-tel').addClass('blank-field-form-border');
-  //   if($('.theme-input-tel-block .blank-field-form-text').length < 1) {
-  //     $('.theme-input-tel').parent().prepend('<span class="blank-field-form-text">ПОЖАЛУЙСТА, ВВЕДИТЕ СВОЙ ТЕЛЕФОН</span>');
-  //   }
-  //   return false;
-  // };
-
-  // if(inputTextateaVal === 0) {
-  //   $('.theme-input-main-textarea').addClass('blank-field-form-border');
-  //   if($('.theme-input-main-textarea-block .blank-field-form-text').length < 1) {
-  //     $('.theme-input-main-textarea').parent().prepend('<span class="blank-field-form-text">ПОЖАЛУЙСТА, ВВЕДИТЕ СВОЕ сообщение</span>');
-  //   }
-  //   return false;
-  // };
-
-  return false;
-};
-
 var arrModification = $('.burners-modal__content_link');
 var arrModificationTable = $('.table-modification-choise');
 

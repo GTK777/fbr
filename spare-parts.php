@@ -99,7 +99,7 @@
  				</div>
  			</div>
  		</div>
-		<script src="js/spare-parts.js" defer></script>
+		<script src="js/oninput.js" defer></script>
 <?php 
 	require 'footer.php';
 ?>
