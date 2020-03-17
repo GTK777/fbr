@@ -31,7 +31,6 @@
                         <li class="bread-crumbs-item">
                             <a href="gazovye-gorelki" class="bread-crumbs-link bread-crumbs-link-next bread-crumbs-link-spare-parts">Газовые горелки</a>
                         </li>
-                        </li>
                         <li class="bread-crumbs-item">
                             <a href="gazovye-gorelki-gas-x" class="bread-crumbs-link bread-crumbs-link-next bread-crumbs-link-spare-parts">F.B.R. GAS X</a>
                         </li>

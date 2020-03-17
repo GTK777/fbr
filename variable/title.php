@@ -2,134 +2,124 @@
 // ------------------------- Начало основных страниц -------------------------
 
 // Страница:
-//
+// index.php
 
-$mainTitle = "";
-$mainDesc = "";
-
-// Страница:
-//
-
-$pumpMainTitle_1 = "";
-$pumpMainDesc_1 = "";
+$mainTitle = "Главаня";
+$mainDesc = "Главаня";
 
 // Страница:
-//
+// spare-parts.php
 
-$pumpMainTitle_2 = "";
-$pumpMainDesc_2 = "";
-
-// Страница:
-//
-
-$pumpMainTitle_3 = "";
-$pumpMainDesc_3 = "";
+$sparePartsTitle = "Запчасти";
+$sparePartsDesc = "Запчасти";
 
 // Страница:
-//
+// catalog.php
 
-$pumpMainTitle_4 = "";
-$pumpMainDesc_4 = "";
-// Страница:
-//
-
-$pumpMainTitle_5 = "";
-$pumpMainDesc_5 = "";
+$catalogPartsTitle = "Каталог";
+$catalogPartsDesc = "Каталог";
 
 // Страница:
-//
+// delivery.php
 
-$pumpMainTitle_6 = "";
-$pumpMainDesc_6 = "";
-
-// Страница:
-//
-
-$pumpMainTitle_7 = "";
-$pumpMainDesc_7 = "";
+$deliveryPartsTitle = "Доставка";
+$deliveryPartsDesc = "Доставка";
 
 // Страница:
-//
+// about-us.php
 
-$pumpMainTitle_8 = "";
-$pumpMainDesc_8 = "";
-
-// Страница:
-//
-
-$pumpMainTitle_9 = "";
-
-$pumpMainDesc_9 = "";
+$aboutUsTitle = "О нас";
+$aboutUsDesc = "О нас";
 
 // Страница:
-//
+// contacts.php
 
-$pumpMainTitle_10 = "";
-$pumpMainDesc_10 = "";
-
-// Страница:
-//
-
-$pumpMainTitle_11 = "";
-$pumpMainDesc_11 = "";
-
-// Страница:
-//
-
-$sparePartsTitle = "";
-
-$sparePartsDesc = "";
-
-// Страница:
-//
-
-$catalogPartsTitle = "";
-$catalogPartsDesc = "";
-
-// Страница:
-//
-
-$deliveryPartsTitle = "";
-$deliveryPartsDesc = "";
-
-// Страница:
-//
-
-$aboutUsTitle = "";
-$aboutUsDesc = "";
-
-// Страница:
-//
-
-$contactsTitle = "";
-$contactsDesc = "";
+$contactsTitle = "Контакты";
+$contactsDesc = "Контакты";
 
 
 // Страница:
-//
+// requisites.php
 
-$requisitesTitle = "";
-$requisitesDesc = "";
-
-// Страница:
-//
-
-$politikaTitle = "";
-$politikaDescription = "";
+$requisitesTitle = "Реквизиты";
+$requisitesDesc = "Реквизиты";
 
 // Страница:
-//
+// politika.php
 
-$error_404_Title = "";
-$error_404_Description = "";
+$politikaTitle = "Политика";
+$politikaDescription = "Политика";
+
+// Страница:
+// 404.php
+
+$error_404_Title = "404";
+$error_404_Description = "404";
 
 // ------------------------- Конец основных страниц -------------------------
 
 
 // ------------------------- Начало страниц каталога -------------------------
 
+// Страница:
+//gazovye-gorelki.php
+
+$producteTitle_1 = "Основная 1";
+$producteDesc_1 = "Основная 1";
+
+// ------------------------- Начало страниц разделов каталога -------------------------
+
+
+// Страница: Газовые горелки F.B.R. GAS X
+// gazovye-gorelki-gas-x.php
+
+$producteSectionTitle_1_1 = "Секция 1";
+$producteSectiomDescription_1_1 = "Секция 1";
+
+// Страница: Газовые горелки F.B.R. GAS X
+// gazovye-gorelki-gas-x.php
+
+$producteSectionTitle_1_2 = "Секция 2";
+$producteSectiomDescription_1_2 = "Секция 2";
+
+$producteSectionTitle_1_3 = "Секция 3";
+$producteSectiomDescription_1_3 = "Секция 3";
+
+$producteSectionTitle_1_4 = "Секция 4";
+$producteSectiomDescription_1_4 = "Секция 4";
+
+$producteSectionTitle_1_5 = "Секция 5";
+$producteSectiomDescription_1_5 = "Секция 5";
+
+$producteSectionTitle_1_6 = "Секция 6";
+$producteSectiomDescription_1_6 = "Секция 6";
+
+$producteSectionTitle_1_7 = "Секция 7";
+$producteSectiomDescription_1_7 = "Секция 7";
+
+$producteSectionTitle_1_8 = "Секция 8";
+$producteSectiomDescription_1_8 = "Секция 8";
+
+$producteSectionTitle_1_9 = "Секция 9";
+$producteSectiomDescription_1_9 = "Секция 9";
+
+$producteSectionTitle_1_10 = "Секция 10";
+$producteSectiomDescription_1_10 = "Секция 10";
+
+$producteSectionTitle_1_11 = "Секция 11";
+$producteSectiomDescription_1_11 = "Секция 11";
+
+$producteSectionTitle_1_12 = "Секция 12";
+$producteSectiomDescription_1_12 = "Секция 12";
+
+$producteSectionTitle_1_13 = "Секция 13";
+$producteSectiomDescription_1_13 = "Секция 13";
+
+// ------------------------- Конец страниц разделов каталога -------------------------
 
 // --------- БЛОК (Газовые горелки F.B.R. GAS X) Начало ---------
+
+
 
 // Страница:
 //

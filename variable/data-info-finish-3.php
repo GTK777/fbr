@@ -1,248 +1,275 @@
 <?
 
-// Водогрейные котлы Lamboghini
-
-$industrialEquipment_1_name = "megaprex-nn-92-1890";
-$industrialEquipment_2_name = "megaprex-nn-2360-6000";
-$industrialEquipment_3_name = "prex-h-3-ln";
+// Мазутные горелки
+$pump_1_name = "mazutnye-gorelki-fnl";
+$pump_2_name = "mazutnye-gorelki-fndl";
+$pump_3_name = "mazutnye-gorelki-fnp-2";
+$pump_4_name = "mazutnye-gorelki-fndp-2";
+$pump_5_name = "mazutnye-gorelki-fndp-3";
+$pump_6_name = "mazutnye-gorelki-fndp-m";
+$pump_7_name = "mazutnye-gorelki-fndp-m-el";
+$pump_8_name = "mazutnye-gorelki-hi";
 
 return [
-
-	'burnersIndustrialModal_megaprex_nn_92_1890' => [   
-
+	'mazutnye-gorelki-fnl' => [
 		[
-			'burnersModalName' => 'MEGAPREX N 92N',
-			'burnersModalLink' => 'megaprex-n-92-n'
+			'burnersModalName' => 'Мазутная горелка FNL 8 TC',
+			'burnersModalLink' => 'fnl-8-tc',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNL 8 TL',
+			'burnersModalLink' => 'fnl-8-tl',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNL 16 TC',
+			'burnersModalLink' => 'fnl-16-tc',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNL 16 TL',
+			'burnersModalLink' => 'fnl-16-tl',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNL 25 TC',
+			'burnersModalLink' => 'fnl-25-tc',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNL 25 TL',
+			'burnersModalLink' => 'fnl-25-tl',
 		],
 
+	],
+	'mazutnye-gorelki-fndl' => [
 		[
-			'burnersModalName' => 'MEGAPREX N 107N',
-			'burnersModalLink' => 'megaprex-n-107-n'
+			'burnersModalName' => 'Мазутная горелка FNDL 8 TC',
+			'burnersModalLink' => 'fndl-8-tc',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNDL 8 TL',
+			'burnersModalLink' => 'fndl-8-tl',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNDL 16 TC',
+			'burnersModalLink' => 'fndl-16-tc',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNDL 16 TL',
+			'burnersModalLink' => 'fndl-16-tl',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNDL 25 TC',
+			'burnersModalLink' => 'fndl-25-tc',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNDL 25 TL',
+			'burnersModalLink' => 'fndl-25-tl',
 		],
 
+	],
+	'mazutnye-gorelki-fnp-2' => [
 		[
-			'burnersModalName' => 'MEGAPREX N 152N',
-			'burnersModalLink' => 'megaprex-n-152-n'
+			'burnersModalName' => 'Мазутная горелка FNP 25/2 TC',
+			'burnersModalLink' => 'fnp-25 2-tc',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNP 25/2 TL',
+			'burnersModalLink' => 'fnp-25 2-tl',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNP 45/2 TC',
+			'burnersModalLink' => 'fnp-45 2-tc',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNP 45/2 TL',
+			'burnersModalLink' => 'fnp-45 2-tl',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNP 70/2 TC',
+			'burnersModalLink' => 'fnp-70 2-tc',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNP 70/2 TL',
+			'burnersModalLink' => 'fnp-70 2-tl',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNP 100/2 TC',
+			'burnersModalLink' => 'fnp-100 2-tc',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNP 100/2 TL',
+			'burnersModalLink' => 'fnp-100 2-tl',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNP 125/2 TC',
+			'burnersModalLink' => 'fnp-125 2-tc',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNP 125/2 TL',
+			'burnersModalLink' => 'fnp-125 2-tl',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNP 150/2 TC',
+			'burnersModalLink' => 'fnp-150 2-tc',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNP 150/2 TL',
+			'burnersModalLink' => 'fnp-150 2-tl',
 		],
 
+	],
+	'mazutnye-gorelki-fndp-2-2' => [
 		[
-			'burnersModalName' => 'MEGAPREX N 190N',
-			'burnersModalLink' => 'megaprex-n-190-n'
+			'burnersModalName' => 'Мазутная горелка FNDP 100/2 TC',
+			'burnersModalLink' => 'fndp-100-2-tc',
 		],
-
 		[
-			'burnersModalName' => 'MEGAPREX N 240N',
-			'burnersModalLink' => 'megaprex-n-240-n'
+			'burnersModalName' => 'Мазутная горелка FNDP 100/2 TL',
+			'burnersModalLink' => 'fndp-100-2-tl',
 		],
-
 		[
-			'burnersModalName' => 'MEGAPREX N 300N',
-			'burnersModalLink' => 'megaprex-n-300-n'
+			'burnersModalName' => 'Мазутная горелка FNDP 125/2 TC',
+			'burnersModalLink' => 'fndp-125-2-tc',
 		],
-
 		[
-			'burnersModalName' => 'MEGAPREX N 350N',
-			'burnersModalLink' => 'megaprex-n-350-n'
+			'burnersModalName' => 'Мазутная горелка FNDP 125/2 TL',
+			'burnersModalLink' => 'fndp-125-2-tl',
 		],
-
 		[
-			'burnersModalName' => 'MEGAPREX N 399N',
-			'burnersModalLink' => 'megaprex-n-399-n'
+			'burnersModalName' => 'Мазутная горелка FNDP 125/2 TC',
+			'burnersModalLink' => 'fndp-125-2-tc',
 		],
-
 		[
-			'burnersModalName' => 'MEGAPREX N 525N',
-			'burnersModalLink' => 'megaprex-n-525-n'
+			'burnersModalName' => 'Мазутная горелка FNDP 125/2 TL',
+			'burnersModalLink' => 'fndp-125-2-tl',
 		],
-
 		[
-			'burnersModalName' => 'MEGAPREX N 600N',
-			'burnersModalLink' => 'megaprex-n-600-n'
+			'burnersModalName' => 'Мазутная горелка FNDP 150/2 TC',
+			'burnersModalLink' => 'fndp-150-2-tc',
 		],
-
 		[
-			'burnersModalName' => 'MEGAPREX N 720N',
-			'burnersModalLink' => 'megaprex-n-720-n'
-		],
-
-		[
-			'burnersModalName' => 'MEGAPREX N 820N',
-			'burnersModalLink' => 'megaprex-n-820-n'
-		],
-
-		[
-			'burnersModalName' => 'MEGAPREX N 940N',
-			'burnersModalLink' => 'megaprex-n-940-n'
-		],
-
-		[
-			'burnersModalName' => 'MEGAPREX N 1060N',
-			'burnersModalLink' => 'megaprex-n-1060-n'
-		],
-
-		[
-			'burnersModalName' => 'MEGAPREX N 1250N',
-			'burnersModalLink' => 'megaprex-n-1250-n'
-		],
-
-		[
-			'burnersModalName' => 'MEGAPREX N 1480N',
-			'burnersModalLink' => 'megaprex-n-1480n'
-		],
-
-		[
-			'burnersModalName' => 'MEGAPREX N 1600N',
-			'burnersModalLink' => 'megaprex-n-1600-n'
-		],
-
-		[
-			'burnersModalName' => 'MEGAPREX N 1890N',
-			'burnersModalLink' => 'megaprex-n-1890-n'
+			'burnersModalName' => 'Мазутная горелка FNDP 150/2 TL',
+			'burnersModalLink' => 'fndp-150-2-tl',
 		],
 	],
-
-	'burnersIndustrialModal_megaprex_nn_2360_6000' => [   
-
+	'mazutnye-gorelki-fndp-2' => [
 		[
-			'burnersModalName' => 'MEGAPREX N 2360N',
-			'burnersModalLink' => 'megaprex-n-2360-n'
+			'burnersModalName' => 'Мазутная горелка FNDP 70/2 TL',
+			'burnersModalLink' => 'fndp-70-2-tl',
 		],
-
 		[
-			'burnersModalName' => 'MEGAPREX N 3000N',
-			'burnersModalLink' => 'megaprex-n-3000-n'
+			'burnersModalName' => 'Мазутная горелка FNDP 25/2 TC',
+			'burnersModalLink' => 'fndp-25-2-tc',
 		],
-
 		[
-			'burnersModalName' => 'MEGAPREX N 3600N',
-			'burnersModalLink' => 'megaprex-n-3600-n'
+			'burnersModalName' => 'Мазутная горелка FNDP 25/2 TL',
+			'burnersModalLink' => 'fndp-25-2-tl',
 		],
-
 		[
-			'burnersModalName' => 'MEGAPREX N 4000N',
-			'burnersModalLink' => 'megaprex-n-4000-n'
+			'burnersModalName' => 'Мазутная горелка FNDP 45/2 TC',
+			'burnersModalLink' => 'fndp-45-2-tc',
 		],
-
 		[
-			'burnersModalName' => 'MEGAPREX N 4500N',
-			'burnersModalLink' => 'megaprex-n-4500-n'
+			'burnersModalName' => 'Мазутная горелка FNDP 45/2 TL',
+			'burnersModalLink' => 'fndp-45-2-tl',
 		],
-
 		[
-			'burnersModalName' => 'MEGAPREX N 5000N',
-			'burnersModalLink' => 'megaprex-n-5000-n'
-		],
-
-		[
-			'burnersModalName' => 'MEGAPREX N 6000N',
-			'burnersModalLink' => 'megaprex-n-6000-n'
+			'burnersModalName' => 'Мазутная горелка FNDP 70/2 TC',
+			'burnersModalLink' => 'fndp-70-2-tc',
 		],
 	],
-
-	'burnersIndustrialModal_prex_h3_ln' => [   
-
+	'mazutnye-gorelki-fndp-3' => [
 		[
-			'burnersModalName' => 'PREX H3 70 LN',
-			'burnersModalLink' => 'prex-h3-70-ln'
+			'burnersModalName' => 'Мазутная горелка FNDP 190/3 TL',
+			'burnersModalLink' => 'fndp-190-3-tl',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNDP 250/3 TL',
+			'burnersModalLink' => 'fndp-250-3-tl',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNDP 350/3 TL',
+			'burnersModalLink' => 'fndp-350-3-tl',
 		],
 
+	],
+	'mazutnye-gorelki-fndp-m-2' => [
 		[
-			'burnersModalName' => 'PREX H3 92 LN',
-			'burnersModalLink' => 'prex-h3-92-ln'
+			'burnersModalName' => 'Мазутная горелка FNDP 190/M TL MEC',
+			'burnersModalLink' => 'fndp-190-m-tl-mec',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNDP 250/M TL MEC',
+			'burnersModalLink' => 'fndp-250-m-tl-mec',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNDP 350/M TL MEC',
+			'burnersModalLink' => 'fndp-350-m-tl-mec',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNDP 450/M TL MEC',
+			'burnersModalLink' => 'fndp-450-m-tl-mec',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNDP 550/M TL MEC',
+			'burnersModalLink' => 'fndp-550-m-tl-mec',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNDP 650/M TL MEC',
+			'burnersModalLink' => 'fndp-650-m-tl-mec',
 		],
 
+	],
+	'mazutnye-gorelki-fndp-m' => [
 		[
-			'burnersModalName' => 'PREX H3 107 LN',
-			'burnersModalLink' => 'prex-h3-107-ln'
+			'burnersModalName' => 'Мазутная горелка FNDP 70/M TC',
+			'burnersModalLink' => 'fndp-70-m-tc',
 		],
-
 		[
-			'burnersModalName' => 'PREX H3 152 LN',
-			'burnersModalLink' => 'prex-h3-152-ln'
+			'burnersModalName' => 'Мазутная горелка FNDP 70/M TL',
+			'burnersModalLink' => 'fndp-70-m-tl',
 		],
-
 		[
-			'burnersModalName' => 'PREX H3 190 LN',
-			'burnersModalLink' => 'prex-h3-190-ln'
+			'burnersModalName' => 'Мазутная горелка FNDP 100/M TC',
+			'burnersModalLink' => 'fndp-100-m-tc',
 		],
-
 		[
-			'burnersModalName' => 'PREX H3 240 LN',
-			'burnersModalLink' => 'prex-h3-240-ln'
+			'burnersModalName' => 'Мазутная горелка FNDP 100/M TL',
+			'burnersModalLink' => 'fndp-100-m-tl',
 		],
-
 		[
-			'burnersModalName' => 'PREX H3 320 LN',
-			'burnersModalLink' => 'prex-h3-320-ln'
+			'burnersModalName' => 'азутная горелка FNDP 125/M TC',
+			'burnersModalLink' => 'fndp-125-m-tc',
 		],
-
 		[
-			'burnersModalName' => 'PREX H3 399 LN',
-			'burnersModalLink' => 'prex-h3-399-ln'
+			'burnersModalName' => 'Мазутная горелка FNDP 125/M TL',
+			'burnersModalLink' => 'fndp-125-m-tl',
 		],
-
 		[
-			'burnersModalName' => 'PREX H3 500 LN',
-			'burnersModalLink' => 'prex-h3-500-ln'
-		],
-
-		[
-			'burnersModalName' => 'PREX H3 600 LN',
-			'burnersModalLink' => 'prex-h3-600-ln'
-		],
-
-		[
-			'burnersModalName' => 'PREX H3 720 LN',
-			'burnersModalLink' => 'prex-h3-720-ln'
-		],
-
-		[
-			'burnersModalName' => 'PREX H3 820 LN',
-			'burnersModalLink' => 'prex-h3-820-ln'
-		],
-
-		[
-			'burnersModalName' => 'PREX H3 940 LN',
-			'burnersModalLink' => 'prex-h3-940-ln'
-		],
-
-		[
-			'burnersModalName' => 'PREX H3 1060 LN',
-			'burnersModalLink' => 'prex-h3-1060-ln'
-		],
-
-		[
-			'burnersModalName' => 'PREX H3 1250 LN',
-			'burnersModalLink' => 'prex-h3-1250-ln'
-		],
-
-		[
-			'burnersModalName' => 'PREX H3 1480 LN',
-			'burnersModalLink' => 'prex-h3-1480-ln'
-		],
-
-		[
-			'burnersModalName' => 'PREX H3 1890 LN',
-			'burnersModalLink' => 'prex-h3-1890-ln'
-		],
-
-
-		[
-			'burnersModalName' => 'PREX H3 2360 LN',
-			'burnersModalLink' => 'prex-h3-2360-ln'
-		],
-
-		[
-			'burnersModalName' => 'PREX H3 2800 LN',
-			'burnersModalLink' => 'prex-h3-2800-ln'
-		],
-
-
-		[
-			'burnersModalName' => 'PREX H3 3200 LN',
-			'burnersModalLink' => 'prex-h3-3200-ln'
+			'burnersModalName' => 'Мазутная горелка FNDP 150/M TC',
+			'burnersModalLink' => 'fndp-150-m-tc',
 		],
 	],
+	'mazutnye-gorelki-fndp-m-el' => [
+		[
+			'burnersModalName' => 'Мазутная горелка FNDP 750/M TL EL',
+			'burnersModalLink' => 'fndp-750-m-tl-el',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNDP 1000/M TL EL',
+			'burnersModalLink' => 'fndp-1000-m-tl-el',
+		],
+		[
+			'burnersModalName' => 'Мазутная горелка FNDP 1250/M TL EL',
+			'burnersModalLink' => 'fndp-1250-m-tl-el',
+		],
 
-]; 
+	],
+	'mazutnye-gorelki-hi' => [
+		[
+			'burnersModalName' => 'Мазутные промышленные горелки серии HI',
+			'burnersModalLink' => 'mazutnye-promyshlennye-gorelki-serii-hi',
+		],
 
+	],
+]	
+
+?>

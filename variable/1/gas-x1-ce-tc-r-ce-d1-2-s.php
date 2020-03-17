@@ -52,7 +52,6 @@
                     <div class="burners-modal-info__content-right">
                         <h1 class="burners-modal-info__content-right_title"><?= $modificationModal["burnersModalName"] ?></h1>
                         <?= $modalPumpDesc ?>
-                        
                         <span class="name-producte name-producte-page-p"><?= $modificationModal["burnersModalName"] ?></span>
                         <span class="vendor-code-producte vendor-code-producte-page-p">-</span>
                          <div class="to-order-block to-order-block-sp">

@@ -2,117 +2,66 @@
 'pusk','pusk1','pusk2' | foreach { new-item -path C:\open_server\OSPanel\domains\fbr\variable\stop\$_.php } 
 
 
-'gas-x0-ce-tc-r-ce-d1-2-s','gas-x0-ce-tl-r-ce-d1-2-s','gas-x1-ce-tc-r-ce-d1-2-s','gas-x1-ce-tl-r-ce-d1-2-s','gas-x2-ce-tc-r-ce-d3-4-s','gas-x2-ce-tl-r-ce-d3-4-s','gas-x3-ce-tl-r-ce-ct-d1-s','gas-x3-ce-tc-r-ce-ct-d1-s','gas-x4-ce-tc-r-ce-ct-d1-s','gas-x4-ce-tl-r-ce-ct-d1-s','gas-x5-ce-tc-r-ce-d11-4-s','gas-x5-ce-tc-r-ce-ct-d1-s','gas-x5-ce-tl-r-ce-d11-4-s','gas-x5-ce-tl-r-ce-ct-d1-s','gas-x5-ce-tc-r-ce-ct-d11-4-s','gas-x5-ce-tl-r-ce-ct-d11-4-s','gas-x3-ce-tc-r-ce-d1-s','gas-x3-ce-tl-r-ce-d1-s','gas-x4-ce-tc-r-ce-d1-s','gas-x4-ce-tl-r-ce-d1-s','gas-x5-ce-tc-r-ce-d1-s','gas-x5-ce-tl-r-ce-d1-s' | foreach { new-item -path c:\open_server\OSPanel\domains\fbr\variable\1\$_.php -value '<?php
-	require "variable/title.php"; // title and description
-	$title = "$producteTitle_1_2";
-	$description = "$producteDesc_1_2"; 
 
+'mazutnye-gorelki-fndl','mazutnye-gorelki-fnp-2','mazutnye-gorelki-fndp-2','mazutnye-gorelki-fndp-3','mazutnye-gorelki-fndp-m','mazutnye-gorelki-fndp-m-el','mazutnye-gorelki-hi' | foreach { new-item -path c:\open_server\OSPanel\domains\fbr\variable\3\$_.php -value '<?php
+	require "variable/title.php";
+	$title = "$pumpMainTitle_1";
+	$description = "$pumpMainDesc_1"; 
 	require "header.php";
+	require "variable/data-info-finish-3.php";
 	require "variable/data-description.php";
 
-	require "variable/data-info-finish.php";
-	$data = require "variable/data-info-finish.php";
-	
-	$dataLink = require "variable/data-info.php";
-	$dataLinkAll = $dataLink["gazovye-gorelki"];
-
-	$modification = require("variable/data-info-finish.php");
-	$dataDesc = require("variable/data-description.php");
-    $modificationModal = $modification["gazovye-gorelki-gas-x"][1];
+	$data = require("variable/data-info-finish-3.php");
+    $burnersModal = $data["dizelnye-gorelki-g-22"];
     
-    $modalPumpDesc = $modalPumpDesc_2;
-    $modalPumpTable = $modalPumpTable_2;
+    $nameBurnsPage = "F.B.R. G 22";
 ?>
-	<main class="main">
-		<div class="black-bg-about-us"></div>
-		<section class="bread-crumbs-section bg-none">
-			<div class="container">
-				<div class="bread-crumbs-content">
-					<ul class="bread-crumbs-list">
-						<li class="bread-crumbs-item">
-							<a href="catalog" class="bread-crumbs-link bread-crumbs-link-next bread-crumbs-link-spare-parts">Каталог</a>
-						</li>
-						<li class="bread-crumbs-item">
-							<a href="gazovye-gorelki" class="bread-crumbs-link bread-crumbs-link-next bread-crumbs-link-spare-parts">Газовые горелки</a>
-						</li>
-						</li>
-						<li class="bread-crumbs-item">
-							<a href="gazovye-gorelki-gas-x" class="bread-crumbs-link bread-crumbs-link-next bread-crumbs-link-spare-parts">F.B.R. GAS X</a>
-						</li>
-						<li class="bread-crumbs-item">
-							<a href="" class="bread-crumbs-link bread-crumbs-link-now">
-							<?= $modificationModal["burnersModalName"] ?></a>
-						</li>
-					</ul> 
-				</div>
-			</div>
-		</section>
-		<section class="burners-modal">
-			<div class="container">
-				<div class="burners-modal-info__content">
-					<div class="burners-modal-info__content-left">
-						<img src="img/images/<?= $modificationModal["burnersModalLink"] ?>.jpg" alt="Горелки FBR">
-					</div>
-					<div class="burners-modal-info__content-right">
-						<h1 class="burners-modal-info__content-right_title"><?= $modificationModal["burnersModalName"] ?></h1>
-						<?= $modalPumpDesc_1 ?>
-						
-						<span class="name-producte name-producte-page-p"><?= $modificationModal["burnersModalName"] ?></span>
-						<span class="vendor-code-producte vendor-code-producte-page-p">-</span>
-					 	<div class="to-order-block to-order-block-sp">
-							<button class="to-order">Заказать в один клик</button>
-							<span class="quantity-of-goods all-quantity-of-goods">
-								<span class="minus">-</span>
-								<span class="number">0</span>
-								<span class="plus">+</span>
-							</span>
-							<span class="add-to-shopping-сart to-order-block-sp-stop"></span>
+
+<main class="main pb25">
+	<section class="bread-crumbs-section">
+	 	<div class="container">
+	 		<div class="bread-crumbs-content">
+	 			<ul class="bread-crumbs-list">
+					<li class="bread-crumbs-item"><a href="catalog" class="bread-crumbs-link bread-crumbs-link-next">Каталог</a></li>
+					<li class="bread-crumbs-item">
+						<a href="dizelnye-gorelki" class="bread-crumbs-link bread-crumbs-link-next">Дизельные горелки F.B.R.</a>
+					</li>
+					<li class="bread-crumbs-item"><a href="dizelnye-gorelki-g-s-2003" class="bread-crumbs-link bread-crumbs-link-now"><?= $nameBurnsPage ?></a></li>
+	 			</ul>
+	 		</div>
+	 	</div>
+	 </section> 
+
+	 		 <section class="section section-one section-one-text-center">
+	 		 	<div class="container">
+	 		 		<h1>Двухступенчатые дизельные горелки <?= $nameBurnsPage ?></h1>
+	 		 		<div class="text-title-category">
+	 		 			<div class="left">
+	 		 				<p>Являются широко востребованными во всех отраслях, предусматривающих откачку газов, воздуха и смесей. Используются в качестве насосов предварительного разряжения в вакуумных установках. Производительность обеспечивается в области низкого и среднего вакуума.</p>
+			 				<p>Пластинчато-роторная технология значительно упрощает структуру насосов.</p>
+							<p>Высокий КПД вакуумирования в условиях постоянной эксплуатации осуществляется за счет циркулирующей жидкой смазки, взаимодействующих материалов и точного исполнения.</p>
 						</div>
-					</div>
-				</div>
+			 		 	<div class="right">
+			 		 		<p>Очиститель масла современной технологии очистки со встроенным возвратом обеспечивает чистую работу и не содержащий масла выпуск газов. В случае, если насос оснащается газобалластным клапаном, можно увеличить откачиваемое количество пара.</p>
+							<p>Обратный клапан на впускном фланце не допускает стекания воздуха обратно в вакуумную камеру после выключения оборудования.</p>
+			 		 		<p>Если вы не смогли найти нужную модель, звоните по телефону  <b>+7 (495)-131-57-49</b> или напишите на почту <b>gtksnab@mail.ru</b>.</p>
+	 		 			</div>
+	 		 		</div>
+	 		 	</div>
 
-
-
-				<div class="specifications burners-modal-info__content-right_block-list" id="specification" role="tabpanel" aria-labelledby="specification-tab">
-
-					<h5 class="burners-modal-info__content-right_description title-desc">Xарактеристики:</h5><?= $modalPumpTable_1 ?>
-
-				</div>
-				<!-- Main block - Link on other pumps - Start --> 
-					<div class="section-link-on-o-p">
-						<div class="content-main-line">
-							<div class="main-block-link main-block-link-first"> 
-								<span class="main-line-block main-line-block-first">
-									<span class="main-block-link-title"><a href="gazovye-gorelki">Газовые горелки:</a></span>
-										<? foreach ($dataLinkAll as $key) { ?>
-											<a href="<?= $key["pumpModalLink"] ?>" class="main-line-link"><?= $key["pumpModalName"] ?></a>
-											<span class="main-line-space"> , </span>
-										<? } ?>
-								</span>
-							</div>
-							<div class="main-block-link-last">
-								<span class="main-line-block main-line-block-last">
-									<span class="main-line-link-title main-block-link-title">Другие разделы:</span>
-									<a href="gazovye-gorelki" class="main-line-link">Газовые горелки</a>
-									<span class="main-line-space"> , </span>
-									<a href="dizelnye-gorelki" class="main-line-link">Дизельные горелки</a>
-									<span class="main-line-space"> , </span>
-									<a href="mazutnye-gorelki" class="main-line-link">Мазутные горелки</a>
-									<span class="main-line-space"> , </span>
-									<a href="gazodizelnye-gorelki" class="main-line-link">Газодизельные горелки</a>
-									<span class="main-line-space"> , </span>
-									<a href="gazomazutnye-gorelki" class="main-line-link">Газомазутные горелки</a>
-									<span class="main-line-space"> , </span>
-									<a href="spare-parts" class="main-line-link">Запчасти</a>
-								</span>
-							</div>
-						</div>
-					</div>
-				<!-- Main block - Link on other pumps - Finish --> 
-			</div>
-		</section> 
-	</main>
-
+	 		 	<div class="container">
+	 		 		<div class="section-one-content">
+						<? foreach ($burnersModal as $key) { ?>
+							<a href="<?= $key["burnersModalLink"] ?>" class="catalog-item">
+								<span class="catalog-item-top"><img src="img/images/<?= $key["burnersModalLink"] ?>.png" alt="Газовые горелки F.B.R. GAS X"></span>
+								<span class="catalog-item-bottom"><span><?= $key["burnersModalName"] ?></span></span>
+								<span class="go-over-page">Перейти</span>
+							</a>
+						<? } ?>
+	 		 		</div>
+	 		 	</div>
+	 		 </section>
+	 	</main>
 
 <?php 
 	require "footer.php";
