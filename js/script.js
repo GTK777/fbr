@@ -393,23 +393,23 @@ for(var i = 0; i < mainLineBlockLast_2.length; i++) {
 
 /* --------------------------- 11. Добавляем ссылку на источник при копировании с сайта  --------------------------- */
 
-function MyCopyText() {
-var target_text = window.getSelection(),
-add_text = '<br><br> Источник: ' + document.location.href,
-out_text = target_text + add_text,
-fake = document.createElement('div');
-fake.style.position = 'absolute';
-fake.style.left = '-99999px';
-document.body.appendChild(fake);
-fake.innerHTML = out_text;
-target_text.selectAllChildren(fake);
-window.setTimeout(function() {
-document.body.removeChild(fake);
-}, 100);
-}
-document.addEventListener('copy', MyCopyText);
+// function MyCopyText() {
+// var target_text = window.getSelection(),
+// add_text = '<br><br> Источник: ' + document.location.href,
+// out_text = target_text + add_text,
+// fake = document.createElement('div');
+// fake.style.position = 'absolute';
+// fake.style.left = '-99999px';
+// document.body.appendChild(fake);
+// fake.innerHTML = out_text;
+// target_text.selectAllChildren(fake);
+// window.setTimeout(function() {
+// document.body.removeChild(fake);
+// }, 100);
+// }
+// document.addEventListener('copy', MyCopyText);
 
-// 12. Запрет на ввод символов в форме
+/* ---------------------------  12. Запрет на ввод символов в форме  --------------------------- */
 
 $('.theme-input-phone').on('input', function() {
   var tip = $(this).val();

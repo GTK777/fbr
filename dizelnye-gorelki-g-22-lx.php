@@ -1,7 +1,7 @@
 <?php
     require "variable/title.php";
-    $title = "$pumpMainTitle_1";
-    $description = "$pumpMainDesc_1"; 
+    $title = "$producteSectionTitle_2_11";
+    $description = "$producteSectiomDescription_2_11"; 
     require "header.php";
     require "variable/data-info-finish-2.php";
     require "variable/data-description.php";

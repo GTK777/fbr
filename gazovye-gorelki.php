@@ -16,7 +16,7 @@
 						<a href="catalog" class="bread-crumbs-link bread-crumbs-link-next">Каталог</a>
 					</li>
 					<li class="bread-crumbs-item">
-						<a href="gazovye-gorelki" class="bread-crumbs-link bread-crumbs-link-now">Газовые горелки</a>
+						<a href="gazovye-gorelki" class="bread-crumbs-link bread-crumbs-link-now">Газовые горелки F.B.R.</a>
 					</li>
 	 			</ul>
 	 		</div>
@@ -25,7 +25,7 @@
 
 	 		 <section class="section section-one section-one-text-center">
 	 		 	<div class="container">
-	 		 		<h1>Газовые горелки для котлов F.B.R.</h1>
+	 		 		<h1>Газовые горелки F.B.R.</h1>
 	 		 		<div class="text-title-category">
 	 		 			<div class="left">
 	 		 				<p>Являются широко востребованными во всех отраслях, предусматривающих откачку газов, воздуха и смесей. Используются в качестве насосов предварительного разряжения в вакуумных установках. Производительность обеспечивается в области низкого и среднего вакуума.</p>
