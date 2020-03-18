@@ -1,6 +1,6 @@
 <?
 
-// Масляные пластинчато-роторные вакуумные насосы
+// Газовые горелки F.B.R. GAS X
 
 $modalPumpDesc_1 = '<p class="burners-modal-info__content-right_description main-desc">Одноступенчатая газовая горелка мощностью от 12 до 34 кВт.
 Вариант газовой арматуры, используемый для горелок < 1,2 МВт (не имеет устройства контроля герметичности и реле максимального давления газа).
@@ -135,27 +135,178 @@ $modalPumpTable_21 = '21';
 $modalPumpDesc_22 = '<p class="burners-modal-info__content-right_description main-desc">22</p>';
 $modalPumpTable_22 = '22'; 
 
-$modalPumpDesc_23 = '<p class="burners-modal-info__content-right_description main-desc">22</p>';
-$modalPumpTable_23 = ''; 
 
-$modalPumpDesc_24 = '<p class="burners-modal-info__content-right_description main-desc">23</p>';
-$modalPumpTable_24 = ''; 
 
-$modalPumpDesc_25 = '<p class="burners-modal-info__content-right_description main-desc">24</p>';
-$modalPumpTable_25 = ''; 
+// Газовые горелки F.B.R. GAS X F
 
-$modalPumpDesc_26 = '<p class="burners-modal-info__content-right_description main-desc"></p>';
-$modalPumpTable_26 = ''; 
+$modalPumpDesc_2_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_2_1 = '1';
 
-$modalPumpDesc_27 = '<p class="burners-modal-info__content-right_description main-desc"></p>';
-$modalPumpTable_27 = ''; 
+$modalPumpDesc_2_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_2_2 = '2'; 
 
-$modalPumpDesc_28 = '<p class="burners-modal-info__content-right_description main-desc"></p>';
-$modalPumpTable_28 = ''; 
+$modalPumpDesc_2_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_2_3 = '3'; 
 
-$modalPumpDesc_29 = '<p class="burners-modal-info__content-right_description main-desc"></p>';
-$modalPumpTable_29 = ''; 
+$modalPumpDesc_2_4 = '<p class="burners-modal-info__content-right_description main-desc">4</p>';
+$modalPumpTable_2_4 = '4'; 
 
-$modalPumpDesc_30 = '<p class="burners-modal-info__content-right_description main-desc"></p>';
-$modalPumpTable_30 = ''; 
+$modalPumpDesc_2_5 = '<p class="burners-modal-info__content-right_description main-desc">5</p>';
+$modalPumpTable_2_5 = '5'; 
 
+$modalPumpDesc_2_6 = '<p class="burners-modal-info__content-right_description main-desc">6</p>';
+$modalPumpTable_2_6 = '6'; 
+
+
+// Газовые горелки F.B.R. GAS XP
+
+$modalPumpDesc_3_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_3_1 = '1';
+
+$modalPumpDesc_3_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_3_2 = '2'; 
+
+$modalPumpDesc_3_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_3_3 = '3'; 
+
+$modalPumpDesc_3_4 = '<p class="burners-modal-info__content-right_description main-desc">4</p>';
+$modalPumpTable_3_4 = '4'; 
+
+$modalPumpDesc_3_5 = '<p class="burners-modal-info__content-right_description main-desc">5</p>';
+$modalPumpTable_3_5 = '5'; 
+
+$modalPumpDesc_3_6 = '<p class="burners-modal-info__content-right_description main-desc">6</p>';
+$modalPumpTable_3_6 = '6'; 
+
+$modalPumpDesc_3_7 = '<p class="burners-modal-info__content-right_description main-desc">7</p>';
+$modalPumpTable_3_7 = '7';
+
+$modalPumpDesc_3_8 = '<p class="burners-modal-info__content-right_description main-desc">8</p>';
+$modalPumpTable_3_8 = '8'; 
+
+$modalPumpDesc_3_9 = '<p class="burners-modal-info__content-right_description main-desc">9</p>';
+$modalPumpTable_3_9 = '9'; 
+
+$modalPumpDesc_3_10 = '<p class="burners-modal-info__content-right_description main-desc">10</p>';
+$modalPumpTable_3_10 = '10'; 
+
+$modalPumpDesc_3_11 = '<p class="burners-modal-info__content-right_description main-desc">11</p>';
+$modalPumpTable_3_11 = '11'; 
+
+$modalPumpDesc_3_12 = '<p class="burners-modal-info__content-right_description main-desc">12</p>';
+$modalPumpTable_3_12 = '12'; 
+
+//  Газовые горелки F.B.R. GAS /C
+
+$modalPumpDesc_4_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_4_1 = '1';
+
+$modalPumpDesc_4_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_4_2 = '2'; 
+
+
+//  Газовые горелки F.B.R. GAS X0 THLS
+
+$modalPumpDesc_5_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_5_1 = '1';
+
+
+//  Газовые горелки F.B.R. GAS X /2
+
+$modalPumpDesc_6_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_6_1 = '1';
+
+$modalPumpDesc_6_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_6_2 = '2'; 
+
+$modalPumpDesc_6_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_6_3 = '3'; 
+
+$modalPumpDesc_6_4 = '<p class="burners-modal-info__content-right_description main-desc">4</p>';
+$modalPumpTable_6_4 = '4'; 
+
+$modalPumpDesc_6_5 = '<p class="burners-modal-info__content-right_description main-desc">5</p>';
+$modalPumpTable_6_5 = '5'; 
+
+$modalPumpDesc_6_6 = '<p class="burners-modal-info__content-right_description main-desc">6</p>';
+$modalPumpTable_6_6 = '6'; 
+
+$modalPumpDesc_6_7 = '<p class="burners-modal-info__content-right_description main-desc">7</p>';
+$modalPumpTable_6_7 = '7'; 
+
+$modalPumpDesc_6_8 = '<p class="burners-modal-info__content-right_description main-desc">8</p>';
+$modalPumpTable_6_8 = '8'; 
+
+$modalPumpDesc_6_9 = '<p class="burners-modal-info__content-right_description main-desc">9</p>';
+$modalPumpTable_6_9 = '9'; 
+
+$modalPumpDesc_6_10 = '<p class="burners-modal-info__content-right_description main-desc">10</p>';
+$modalPumpTable_6_10 = '10'; 
+
+$modalPumpDesc_6_11 = '<p class="burners-modal-info__content-right_description main-desc">11</p>';
+$modalPumpTable_6_11 = '11'; 
+
+$modalPumpDesc_6_12 = '<p class="burners-modal-info__content-right_description main-desc">12</p>';
+$modalPumpTable_6_12 = '12'; 
+
+$modalPumpDesc_6_13 = '<p class="burners-modal-info__content-right_description main-desc">13</p>';
+$modalPumpTable_6_13 = '13'; 
+
+$modalPumpDesc_6_14 = '<p class="burners-modal-info__content-right_description main-desc">14</p>';
+$modalPumpTable_6_14 = '14'; 
+
+$modalPumpDesc_6_15 = '<p class="burners-modal-info__content-right_description main-desc">15</p>';
+$modalPumpTable_6_15 = '15'; 
+
+$modalPumpDesc_6_16 = '<p class="burners-modal-info__content-right_description main-desc">16</p>';
+$modalPumpTable_6_16 = '16'; 
+
+$modalPumpDesc_6_17 = '<p class="burners-modal-info__content-right_description main-desc">17</p>';
+$modalPumpTable_6_17 = '17'; 
+
+$modalPumpDesc_6_18 = '<p class="burners-modal-info__content-right_description main-desc">18</p>';
+$modalPumpTable_6_18 = '18'; 
+
+$modalPumpDesc_6_19 = '<p class="burners-modal-info__content-right_description main-desc">19</p>';
+$modalPumpTable_6_19 = '19'; 
+
+$modalPumpDesc_6_20 = '<p class="burners-modal-info__content-right_description main-desc">20</p>';
+$modalPumpTable_6_20 = '20'; 
+
+//  Газовые горелки F.B.R. GAS XP /2
+
+$modalPumpDesc_7_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_7_1 = '1';
+
+$modalPumpDesc_7_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_7_2 = '2'; 
+
+$modalPumpDesc_7_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_7_3 = '3'; 
+
+$modalPumpDesc_7_4 = '<p class="burners-modal-info__content-right_description main-desc">4</p>';
+$modalPumpTable_7_4 = '4'; 
+
+$modalPumpDesc_7_5 = '<p class="burners-modal-info__content-right_description main-desc">5</p>';
+$modalPumpTable_7_5 = '5'; 
+
+$modalPumpDesc_7_6 = '<p class="burners-modal-info__content-right_description main-desc">6</p>';
+$modalPumpTable_7_6 = '6'; 
+
+$modalPumpDesc_7_7 = '<p class="burners-modal-info__content-right_description main-desc">7</p>';
+$modalPumpTable_7_7 = '7'; 
+
+$modalPumpDesc_7_8 = '<p class="burners-modal-info__content-right_description main-desc">8</p>';
+$modalPumpTable_7_8 = '8'; 
+
+$modalPumpDesc_7_9 = '<p class="burners-modal-info__content-right_description main-desc">9</p>';
+$modalPumpTable_7_9 = '9'; 
+
+$modalPumpDesc_7_10 = '<p class="burners-modal-info__content-right_description main-desc">10</p>';
+$modalPumpTable_7_10 = '10'; 
+
+$modalPumpDesc_7_11 = '<p class="burners-modal-info__content-right_description main-desc">11</p>';
+$modalPumpTable_7_11 = '11'; 
+
+$modalPumpDesc_7_12 = '<p class="burners-modal-info__content-right_description main-desc">12</p>';
+$modalPumpTable_7_12 = '12'; 

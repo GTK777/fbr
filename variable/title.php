@@ -531,40 +531,40 @@ $producteDesc_1_22 = "22";
 // --------- БЛОК (Газовые горелки F.B.R. GAS X F) Начало ---------
 
 // Страница:
-//
+// gas-x-1-ce-f-r-ce-d1-2-s.php
 
-$producteTitle_2_1 = "";
-$producteDesc_2_1 = "";
-
-// Страница:
-//
-
-$producteTitle_2_2 = "";
-$producteDesc_2_2 = "";
+$producteTitle_2_1 = "2 - 1";
+$producteDesc_2_1 = "2 - 1";
 
 // Страница:
-//
+// gas-x-2-ce-f-r-ce-d3-4-s.php
 
-$producteTitle_2_3 = "";
-$producteDesc_2_3 = "";
-
-// Страница:
-//
-
-$producteTitle_2_4 = "";
-$producteDesc_2_4 = "";
+$producteTitle_2_2 = "2 - 2";
+$producteDesc_2_2 = "2 - 2";
 
 // Страница:
-//
+// gas-x-3-ce-f-r-ce-ct-d1-s.php
 
-$producteTitle_2_5 = "";
-$producteDesc_2_5 = "";
+$producteTitle_2_3 = "2 - 3";
+$producteDesc_2_3 = "2 - 3";
 
 // Страница:
-//
+// gas-x-3-ce-f-r-ce-d1-s.php
 
-$producteTitle_2_6 = "";
-$producteDesc_2_6 = "";
+$producteTitle_2_4 = "2 - 4";
+$producteDesc_2_4 = "2 - 4";
+
+// Страница:
+// gas-x-4-ce-f-r-ce-ct-d1-s.php
+
+$producteTitle_2_5 = "2 - 5";
+$producteDesc_2_5 = "2 - 5";
+
+// Страница:
+// gas-x-4-ce-f-r-ce-d1-s.php
+
+$producteTitle_2_6 = "2 - 6";
+$producteDesc_2_6 = "2 - 6";
 
 
 // --------- БЛОК (Газовые горелки F.B.R. GAS X F) Конец --------
@@ -573,76 +573,76 @@ $producteDesc_2_6 = "";
 
 
 // Страница:
-//
+// gas-xp-60-ce-tc-r-ce-ct-d1-1-2-fs40.php
 
-$producteTitle_3_1 = "";
-$producteDesc_3_1 = "";
-
-// Страница:
-//
-
-$producteTitle_3_2 = "";
-$producteDesc_3_2 = "";
+$producteTitle_3_1 = "3 - 1";
+$producteDesc_3_1 = "3 - 1";
 
 // Страница:
-//
+// gas-xp-60-ce-tc-r-ce-ct-d1-1-2-fs50.php
 
-$producteTitle_3_3 = "";
-$producteDesc_3_3 = "";
-
-// Страница:
-//
-
-$producteTitle_3_4 = "";
-$producteDesc_3_4 = "";
+$producteTitle_3_2 = "3 - 2";
+$producteDesc_3_2 = "3 - 2";
 
 // Страница:
-//
+// gas-xp-60-ce-tc-r-ce-ct-d1-s.php
 
-$producteTitle_3_5 = "";
-$producteDesc_3_5 = "";
-
-// Страница:
-//
-
-$producteTitle_3_6 = "";
-$producteDesc_3_6 = "";
+$producteTitle_3_3 = "3 - 3";
+$producteDesc_3_3 = "3 - 3";
 
 // Страница:
-//
+// gas-xp-60-ce-tc-r-ce-d1-1-2-fs40.php
 
-$producteTitle_3_7 = "";
-$producteDesc_3_7 = "";
-
-// Страница:
-//
-
-$producteTitle_3_8 = "";
-$producteDesc_3_8 = "";
+$producteTitle_3_4 = "3 - 4";
+$producteDesc_3_4 = "3 - 4";
 
 // Страница:
-//
+// gas-xp-60-ce-tc-r-ce-d1-1-2-fs50.php
 
-$producteTitle_3_9 = "";
-$producteDesc_3_9 = "";
-
-// Страница:
-//
-
-$producteTitle_3_10 = "";
-$producteDesc_3_10 = "";
+$producteTitle_3_5 = "3 - 5";
+$producteDesc_3_5 = "3 - 5";
 
 // Страница:
-//
+// gas-xp-60-ce-tc-r-ce-d1-s.php
 
-$producteTitle_3_11 = "";
-$producteDesc_3_11 = "";
+$producteTitle_3_6 = "3 - 6";
+$producteDesc_3_6 = "3 - 6";
 
 // Страница:
-//
+// gas-xp-60-ce-tl-r-ce-ct-d1-1-2-fs40.php
 
-$producteTitle_3_12 = "";
-$producteDesc_3_12 = "";
+$producteTitle_3_7 = "3 - 7";
+$producteDesc_3_7 = "3 - 7";
+
+// Страница:
+// gas-xp-60-ce-tl-r-ce-ct-d1-1-2-fs50.php
+
+$producteTitle_3_8 = "3 - 8";
+$producteDesc_3_8 = "3 - 8";
+
+// Страница:
+// gas-xp-60-ce-tl-r-ce-ct-d1-s.php
+
+$producteTitle_3_9 = "3 - 9";
+$producteDesc_3_9 = "3 - 9";
+
+// Страница:
+// gas-xp-60-ce-tl-r-ce-d1-1-2-fs40.php
+
+$producteTitle_3_10 = "3 - 10";
+$producteDesc_3_10 = "3 - 10";
+
+// Страница:
+// gas-xp-60-ce-tl-r-ce-d1-1-2-fs50.php
+
+$producteTitle_3_11 = "3 - 11";
+$producteDesc_3_11 = "3 - 11";
+
+// Страница:
+// gas-xp-60-ce-tl-r-ce-d1-s.php
+
+$producteTitle_3_12 = "3 - 12";
+$producteDesc_3_12 = "3 - 12";
 
 
 // --------- БЛОК (Газовые горелки F.B.R. GAS XP) Конец --------
@@ -652,17 +652,17 @@ $producteDesc_3_12 = "";
 
 
 // Страница:
-//
+// gas-1-c-tc.php
 
-$producteTitle_4_1 = "";
-$producteDesc_4_1 = "";
+$producteTitle_4_1 = "4 - 1";
+$producteDesc_4_1 = "4 - 1";
 
 
 // Страница:
-//
+// gas-2-c-tc.php
 
-$producteTitle_4_2 = "";
-$producteDesc_4_2 = "";
+$producteTitle_4_2 = "4 - 2";
+$producteDesc_4_2 = "4 - 2";
 
 
 // --------- БЛОК (Газовые горелки F.B.R. GAS /C) Конец --------
@@ -670,61 +670,154 @@ $producteDesc_4_2 = "";
 // --------- БЛОК (Газовые горелки F.B.R. GAS X0 THLS) Начало ---------
 
 // Страница:
-//
+// gas-x0-thls.php
 
-$producteTitle_5_1 = "";
-$producteDesc_5_1 = "";
+$producteTitle_5_1 = "5 - 1";
+$producteDesc_5_1 = "5 - 1";
 
 
 // --------- БЛОК (Газовые горелки F.B.R. GAS X0 THLS) Конец --------
 
 // --------- БЛОК (Газовые горелки F.B.R. GAS X /2) Начало ---------
 
+// Страница:
+// gas-x-1-2-ce-tc-r-ce-d1-2-s.php
+
+$producteTitle_6_1 = "6 - 1";
+$producteDesc_6_1 = "6 - 1";
+
 
 // Страница:
-//
+// gas-x-1-2-ce-tl-r-ce-d1-2-s.php
 
-$producteTitle_6_1 = "";
-$producteDesc_6_1 = "";
+$producteTitle_6_2 = "6 - 2";
+$producteDesc_6_2 = "6 - 2";
 
-$producteTitle_6_2 = "";
-$producteDesc_6_2 = "";
 
-$producteTitle_6_3 = "";
-$producteDesc_6_3 = "";
+// Страница:
+// gas-x-2-2-ce-tc-r-ce-d3-4-fs25.php
 
-$producteTitle_6_4 = "";
-$producteDesc_6_4 = "";
+$producteTitle_6_3 = "6 - 3";
+$producteDesc_6_3 = "6 - 3";
 
-$producteTitle_6_5 = "";
-$producteDesc_6_5 = "";
 
-$producteTitle_6_6 = "";
-$producteDesc_6_6 = "";
+// Страница:
+// gas-x-2-2-ce-tl-r-ce-d3-4-fs25.php
 
-$producteTitle_6_7 = "";
-$producteDesc_6_7 = "";
+$producteTitle_6_4 = "6 - 4";
+$producteDesc_6_4 = "6 - 4";
 
-$producteTitle_6_1 = "";
-$producteDesc_6_1 = "";
 
-$producteTitle_6_1 = "";
-$producteDesc_6_1 = "";
+// Страница:
+// gas-x-3-2-ce-tc-r-ce-ct-d1-s.php
 
-$producteTitle_6_1 = "";
-$producteDesc_6_1 = "";
+$producteTitle_6_5 = "6 - 5";
+$producteDesc_6_5 = "6 - 5";
 
-$producteTitle_6_1 = "";
-$producteDesc_6_1 = "";
 
-$producteTitle_6_1 = "";
-$producteDesc_6_1 = "";
+// Страница:
+// gas-x-3-2-ce-tc-r-ce-d1-s.php
 
-$producteTitle_6_1 = "";
-$producteDesc_6_1 = "";
+$producteTitle_6_6 = "6 - 6";
+$producteDesc_6_6 = "6 - 6";
 
-$producteTitle_6_1 = "";
-$producteDesc_6_1 = "";
+
+// Страница:
+// gas-x-3-2-ce-tl-r-ce-ct-d1-s.php
+
+$producteTitle_6_7 = "6 - 7";
+$producteDesc_6_7 = "6 - 7";
+
+
+// Страница:
+// gas-x-3-2-ce-tl-r-ce-d1-s.php
+
+$producteTitle_6_8 = "6 - 8";
+$producteDesc_6_8 = "6 - 8";
+
+
+// Страница:
+// gas-x-4-2-ce-tc-r-ce-ct-d1-s.php
+
+$producteTitle_6_9 = "6 - 9";
+$producteDesc_6_9 = "6 - 9";
+
+
+// Страница:
+// gas-x-4-2-ce-tc-r-ce-d1-s.php
+
+$producteTitle_6_10 = "6 - 10";
+$producteDesc_6_10 = "6 - 10";
+
+
+// Страница:
+// gas-x-4-2-ce-tl-r-ce-ct-d1-s.php
+
+$producteTitle_6_11 = "6 - 11";
+$producteDesc_6_11 = "6 - 11";
+
+
+// Страница:
+// gas-x-4-2-ce-tl-r-ce-d1-s.php
+
+$producteTitle_6_12 = "6 - 12";
+$producteDesc_6_12 = "6 - 12";
+
+
+// Страница:
+// gas-x5-2-ce-tc-r-ce-ct-d1-s.php
+
+$producteTitle_6_13 = "6 - 13";
+$producteDesc_6_13 = "6 - 13";
+
+
+// Страница:
+// gas-x5-2-ce-tc-r-ce-ct-d11-4-s.php
+
+$producteTitle_6_14 = "6 - 14";
+$producteDesc_6_14 = "6 - 14";
+
+
+// Страница:
+// gas-x5-2-ce-tc-r-ce-d1-s.php
+
+$producteTitle_6_15 = "6 - 15";
+$producteDesc_6_15 = "6 - 15";
+
+
+// Страница:
+// gas-x5-2-ce-tc-r-ce-d11-4-s.php
+
+$producteTitle_6_16 = "6 - 16";
+$producteDesc_6_16 = "6 - 16";
+
+
+// Страница:
+// gas-x5-2-ce-tl-r-ce-ct-d1-s.php
+
+$producteTitle_6_17 = "6 - 17";
+$producteDesc_6_17 = "6 - 17";
+
+
+// Страница:
+// gas-x5-2-ce-tl-r-ce-ct-d11-4-s.php
+
+$producteTitle_6_18 = "6 - 18";
+$producteDesc_6_18 = "6 - 18";
+
+
+// Страница:
+// gas-x5-2-ce-tl-r-ce-d1-s.php
+
+$producteTitle_6_19 = "6 - 19";
+$producteDesc_6_19 = "6 - 19";
+
+
+// Страница:
+// gas-x5-2-ce-tl-r-ce-d11-4-s.php
+
+$producteTitle_6_20 = "6 - 20";
+$producteDesc_6_20 = "6 - 20";
 
 
 // --------- БЛОК (Газовые горелки F.B.R. GAS X /2) Конец --------
@@ -733,178 +826,77 @@ $producteDesc_6_1 = "";
 
 
 // Страница:
-//
+// gas-xp-60-2-ce-tc-r-ce-ct-d1-s
 
-$producteTitle_7_1 = "";
-$producteDesc_7_1 = "";
-
-// Страница:
-//
-
-$producteTitle_7_2 = "";
-$producteDesc_7_2 = "";
+$producteTitle_7_1 = "7 - 1";
+$producteDesc_7_1 = "7 - 1";
 
 // Страница:
-//
+// gas-xp-60-2-ce-tc-r-ce-ct-d11-2-fs40
 
-$producteTitle_7_3 = "";
-$producteDesc_7_3 = "";
-
-// Страница:
-//
-
-$producteTitle_7_4 = "";
-$producteDesc_7_4 = "";
+$producteTitle_7_2 = "7 - 2";
+$producteDesc_7_2 = "7 - 2";
 
 // Страница:
-//
+// gas-xp-60-2-ce-tc-r-ce-ct-d11-2-fs50
 
-$producteTitle_7_5 = "";
-$producteDesc_7_5 = "";
-
-// Страница:
-//
-
-$producteTitle_7_6 = "";
-$producteDesc_7_6 = "";
+$producteTitle_7_3 = "7 - 3";
+$producteDesc_7_3 = "7 - 3";
 
 // Страница:
-//
+// gas-xp-60-2-ce-tc-r-ce-d1-s
 
-$producteTitle_7_7 = "";
-$producteDesc_7_7 = "";
-
-// Страница:
-//
-
-$producteTitle_7_8 = "";
-$producteDesc_7_8 = "";
+$producteTitle_7_4 = "7 - 4";
+$producteDesc_7_4 = "7 - 4";
 
 // Страница:
-//
+// gas-xp-60-2-ce-tc-r-ce-d11-2-fs40
 
-$producteTitle_7_9 = "";
-$producteDesc_7_9 = "";
-
-// Страница:
-//
-
-$producteTitle_7_10 = "";
-$producteDesc_7_10 = "";
+$producteTitle_7_5 = "7 - 5";
+$producteDesc_7_5 = "7 - 5";
 
 // Страница:
-//
+// gas-xp-60-2-ce-tc-r-ce-d11-2-fs50
 
-$producteTitle_7_11 = "";
-$producteDesc_7_11 = "";
-
-// Страница:
-//
-
-$producteTitle_7_12 = "";
-$producteDesc_7_12 = "";
+$producteTitle_7_6 = "7 - 6";
+$producteDesc_7_6 = "7 - 6";
 
 // Страница:
-//
+// gas-xp-60-2-ce-tl-r-ce-ct-d1-s
 
-$producteTitle_7_13 = "";
-$producteDesc_7_13 = "";
-
-// Страница:
-//
-
-$producteTitle_7_14 = "";
-$producteDesc_7_14 = "";
+$producteTitle_7_7 = "7 - 7";
+$producteDesc_7_7 = "7 - 7";
 
 // Страница:
-//
+// gas-xp-60-2-ce-tl-r-ce-ct-d11-2-fs40
 
-$producteTitle_7_15 = "";
-$producteDesc_7_15 = "";
-
-// Страница:
-//
-
-$producteTitle_7_16 = "";
-$producteDesc_7_16 = "";
+$producteTitle_7_8 = "7 - 8";
+$producteDesc_7_8 = "7 - 8";
 
 // Страница:
-//
+// gas-xp-60-2-ce-tl-r-ce-ct-d11-2-fs50
 
-$producteTitle_7_17 = "";
-$producteDesc_7_17 = "";
-
-// Страница:
-//
-
-$producteTitle_7_18 = "";
-$producteDesc_7_18 = "";
+$producteTitle_7_9 = "7 - 9";
+$producteDesc_7_9 = "7 - 9";
 
 // Страница:
-//
+// gas-xp-60-2-ce-tl-r-ce-d1-s
 
-$producteTitle_7_19 = "";
-$producteDesc_7_19 = "";
-
-// Страница:
-//
-
-$producteTitle_7_20 = "";
-$producteDesc_7_20 = "";
+$producteTitle_7_10 = "7 - 10";
+$producteDesc_7_10 = "7 - 10";
 
 // Страница:
-//
+// gas-xp-60-2-ce-tl-r-ce-d11-2-fs40
 
-$producteTitle_7_21 = "";
-$producteDesc_7_21 = "";
-
-// Страница:
-//
-
-$producteTitle_7_22 = "";
-$producteDesc_7_22 = "";
+$producteTitle_7_11 = "7 - 11";
+$producteDesc_7_11 = "7 - 11";
 
 // Страница:
-//
+// gas-xp-60-2-ce-tl-r-ce-d11-2-fs50
 
-$producteTitle_7_23 = "";
-$producteDesc_7_23 = "";
+$producteTitle_7_12 = "7 - 12";
+$producteDesc_7_12 = "7 - 12";
 
-// Страница:
-//
-
-$producteTitle_7_24 = "";
-$producteDesc_7_24 = "";
-
-// Страница:
-//
-
-$producteTitle_7_25 = "";
-$producteDesc_7_25 = "";
-
-// Страница:
-//
-
-$producteTitle_7_26 = "";
-$producteDesc_7_26 = "";
-
-// Страница:
-//
-
-$producteTitle_7_27 = "";
-$producteDesc_7_27 = "";
-
-// Страница:
-//
-
-$producteTitle_7_28 = "";
-$producteDesc_7_28 = "";
-
-// Страница:
-//
-
-$producteTitle_7_29 = "";
-$producteDesc_7_29 = "";
 
 // --------- БЛОК () Конец --------
 

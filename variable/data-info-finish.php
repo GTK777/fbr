@@ -201,7 +201,7 @@ return [
 	'gazovye-gorelki-gas-x-2' => [
 		[
 			'burnersModalName' => 'Газовая горелка GAS X 1/2 CE TC + R. CE D1/2" - S',
-			'burnersModalLink' => 'gas-x-1 2-ce-tc-r-ce-d1-2-s',
+			'burnersModalLink' => 'gas-x-1-2-ce-tc-r-ce-d1-2-s',
 		],
 		[
 			'burnersModalName' => 'Газовая горелка GAS X 1/2 CE TL + R. CE D1/2" - S',
