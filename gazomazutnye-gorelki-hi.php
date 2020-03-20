@@ -9,7 +9,7 @@
 	$data = require('variable/data-info-finish-4.php');
     $burnersModal = $data['gazomazutnye-gorelki-hi'];
     
-    $nameSectionPage = "F.B.R. KN /M";
+    $nameSectionPage = "F.B.R. HI";
 ?>
 
 <main class="main pb25">
@@ -29,7 +29,7 @@
 
 	 		 <section class="section section-one section-one-text-center">
 	 		 	<div class="container">
-	 		 		<h1>Газомазутные горелки F.B.R. KN /M</h1>
+	 		 		<h1>Газомазутные горелки F.B.R. HI</h1>
 	 		 		<div class="text-title-category">
 	 		 			<div class="left">
 	 		 				<p>Являются широко востребованными во всех отраслях, предусматривающих откачку газов, воздуха и смесей. Используются в качестве насосов предварительного разряжения в вакуумных установках. Производительность обеспечивается в области низкого и среднего вакуума.</p>

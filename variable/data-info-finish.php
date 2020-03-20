@@ -192,12 +192,6 @@ return [
 			'burnersModalLink' => 'gas-2-c-tc',
 		],
 	],	
-	'gazovye-gorelki-gas-thls' => [
-		[
-			'burnersModalName' => 'Газовая горелка GAS X0 THLS',
-			'burnersModalLink' => 'gas-x0-thls',
-		],
-	],	
 	'gazovye-gorelki-gas-x-2' => [
 		[
 			'burnersModalName' => 'Газовая горелка GAS X 1/2 CE TC + R. CE D1/2" - S',
@@ -498,7 +492,7 @@ return [
 		[
 			'burnersModalName' => 'Газовая горелка GAS P 150/2 CE TL + R. CE-CT DN80-FS80',
 			'burnersModalLink' => 'gas-p-150-2-ce-tl-r-ce-ct-dn80-fs80',
-		],
+		],	
 		[
 			'burnersModalName' => 'Газовая горелка GAS P 190/2 CE + R. N D2"',
 			'burnersModalLink' => 'gas-p-190-2-ce-r-n-d2',
@@ -564,96 +558,54 @@ return [
 			'burnersModalLink' => 'gas-p-250-2-ce-r-ce-ct-dn100-fs100',
 		],
 	],
-	'gazovye-gorelki-gas-p-m-el' => [
-		[
-			'burnersModalName' => 'Газовая горелка GAS P 750/M CE EL + R. CE-CT DN65-S-F65',
-			'burnersModalLink' => 'gas-p-750 m-ce-el-r-ce-ct-dn65-s-f65',
-		],
-		[
-			'burnersModalName' => 'Газовая горелка GAS P 750/M CE EL + R. CE-CT DN80-S-F80',
-			'burnersModalLink' => 'gas-p-750 m-ce-el-r-ce-ct-dn80-s-f80',
-		],
-		[
-			'burnersModalName' => 'Газовая горелка GAS P 750/M CE EL + R. CE-CT DN100-S-F100',
-			'burnersModalLink' => 'gas-p-750 m-ce-el-r-ce-ct-dn100-s-f100',
-		],
-		[
-			'burnersModalName' => 'Газовая горелка GAS P 1000/M CE EL + R. CE-CT DN80-S-F80',
-			'burnersModalLink' => 'gas-p-1000 m-ce-el-r-ce-ct-dn80-s-f80',
-		],
-		[
-			'burnersModalName' => 'Газовая горелка GAS P 1000/M CE EL + R. CE-CT DN100-S-F100',
-			'burnersModalLink' => 'gas-p-1000 m-ce-el-r-ce-ct-dn100-s-f100',
-		],
-		[
-			'burnersModalName' => 'Газовая горелка GAS P 750/M CE EL + R. CE-CT DN125-S-F125',
-			'burnersModalLink' => 'gas-p-750 m-ce-el-r-ce-ct-dn125-s-f125',
-		],
-		[
-			'burnersModalName' => 'Газовая горелка GAS P 1000/M CE EL + R. CE-CT DN125-S-F125',
-			'burnersModalLink' => 'gas-p-1000 m-ce-el-r-ce-ct-dn125-s-f125',
-		],
-		[
-			'burnersModalName' => 'Газовая горелка GAS P 1250/M CE EL + R. CE-CT DN80-S-F80',
-			'burnersModalLink' => 'gas-p-1250 m-ce-el-r-ce-ct-dn80-s-f80',
-		],
-		[
-			'burnersModalName' => 'Газовая горелка GAS P 1250/M CE EL + R. CE-CT DN100-S-F100',
-			'burnersModalLink' => 'gas-p-1250 m-ce-el-r-ce-ct-dn100-s-f100',
-		],
-		[
-			'burnersModalName' => 'Газовая горелка GAS P 1250/M CE EL + R. CE-CT DN125-S-F125',
-			'burnersModalLink' => 'gas-p-1250 m-ce-el-r-ce-ct-dn125-s-f125',
-		],
-	],
 	'gazovye-gorelki-hi' => [
 		[
-			'burnersModalName' => 'HI-GAS P190/M CE TL	',
-			'burnersModalLink' => 'hi-gas-p190 m-ce-tl	',
+			'burnersModalName' => 'HI-GAS P190/M CE TL',
+			'burnersModalLink' => 'hi-gas-p190-m-ce-tl',
 		],
 		[
-			'burnersModalName' => 'HI-GAS P250/M CE TL	',
-			'burnersModalLink' => 'hi-gas-p250 m-ce-tl	',
+			'burnersModalName' => 'HI-GAS P250/M CE TL',
+			'burnersModalLink' => 'hi-gas-p250-m-ce-tl',
 		],
 		[
-			'burnersModalName' => 'HI-GAS P300/M CE TL	',
-			'burnersModalLink' => 'hi-gas-p300 m-ce-tl	',
+			'burnersModalName' => 'HI-GAS P300/M CE TL',
+			'burnersModalLink' => 'hi-gas-p300-m-ce-tl',
 		],
 		[
-			'burnersModalName' => 'HI-GAS P350/M CE TL	',
-			'burnersModalLink' => 'hi-gas-p350 m-ce-tl	',
+			'burnersModalName' => 'HI-GAS P350/M CE TL',
+			'burnersModalLink' => 'hi-gas-p350-m-ce-tl',
 		],
 		[
-			'burnersModalName' => 'HI-GAS P450/M CE TL	',
-			'burnersModalLink' => 'hi-gas-p450 m-ce-tl	',
+			'burnersModalName' => 'HI-GAS P450/M CE TL',
+			'burnersModalLink' => 'hi-gas-p450-m-ce-tl',
 		],
 		[
-			'burnersModalName' => 'HI-GAS P550/M CE TL	',
-			'burnersModalLink' => 'hi-gas-p550 m-ce-tl	',
+			'burnersModalName' => 'HI-GAS P550/M CE TL',
+			'burnersModalLink' => 'hi-gas-p550-m-ce-tl',
 		],
 		[
-			'burnersModalName' => 'HI-GAS P650/M CE TL	',
-			'burnersModalLink' => 'hi-gas-p650 m-ce-tl	',
+			'burnersModalName' => 'HI-GAS P650/M CE TL',
+			'burnersModalLink' => 'hi-gas-p650-m-ce-tl',
 		],
 		[
-			'burnersModalName' => 'HI-GAS P750/M CE TL	',
-			'burnersModalLink' => 'hi-gas-p750 m-ce-tl	',
+			'burnersModalName' => 'HI-GAS P750/M CE TL',
+			'burnersModalLink' => 'hi-gas-p750-m-ce-tl',
 		],
 		[
 			'burnersModalName' => 'HI-GAS P1000/M CE TL',
-			'burnersModalLink' => 'hi-gas-p1000 m-ce-tl',
+			'burnersModalLink' => 'hi-gas-p1000-m-ce-tl',
 		],
 		[
 			'burnersModalName' => 'HI-GAS P1300/M CE TL',
-			'burnersModalLink' => 'hi-gas-p1300 m-ce-tl',
+			'burnersModalLink' => 'hi-gas-p1300-m-ce-tl',
 		],
 		[
 			'burnersModalName' => 'HI-GAS P1500/M CE TL',
-			'burnersModalLink' => 'hi-gas-p1500 m-ce-tl',
+			'burnersModalLink' => 'hi-gas-p1500-m-ce-tl',
 		],
 		[
 			'burnersModalName' => 'HI-GAS P1800/M CE TL',
-			'burnersModalLink' => 'hi-gas-p1800 m-ce-tl',
+			'burnersModalLink' => 'hi-gas-p1800-m-ce-tl',
 		],
 	],
 	'gazovye-gorelki-gas-x-m' => [
@@ -1160,7 +1112,55 @@ return [
 			'burnersModalName' => "Газовая горелка GAS P 1250/M CE MEC + R. CE-CT DN125-S-F125",
 			'burnersModalLink' => 'gas-p-1250-m-ce-mec-r-ce-ct-dn125-s-f125',
 		]
-	]			
+	],
+	'gazovye-gorelki-gas-p-m-el' => [
+		[
+			'burnersModalName' => 'Газовая горелка GAS P 750/M CE EL + R. CE-CT DN65-S-F65',
+			'burnersModalLink' => 'gas-p-750-m-ce-el-r-ce-ct-dn65-s-f65',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS P 750/M CE EL + R. CE-CT DN80-S-F80',
+			'burnersModalLink' => 'gas-p-750-m-ce-el-r-ce-ct-dn80-s-f80',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS P 750/M CE EL + R. CE-CT DN100-S-F100',
+			'burnersModalLink' => 'gas-p-750-m-ce-el-r-ce-ct-dn100-s-f100',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS P 1000/M CE EL + R. CE-CT DN80-S-F80',
+			'burnersModalLink' => 'gas-p-1000-m-ce-el-r-ce-ct-dn80-s-f80',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS P 1000/M CE EL + R. CE-CT DN100-S-F100',
+			'burnersModalLink' => 'gas-p-1000-m-ce-el-r-ce-ct-dn100-s-f100',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS P 750/M CE EL + R. CE-CT DN125-S-F125',
+			'burnersModalLink' => 'gas-p-750-m-ce-el-r-ce-ct-dn125-s-f125',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS P 1000/M CE EL + R. CE-CT DN125-S-F125',
+			'burnersModalLink' => 'gas-p-1000-m-ce-el-r-ce-ct-dn125-s-f125',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS P 1250/M CE EL + R. CE-CT DN80-S-F80',
+			'burnersModalLink' => 'gas-p-1250-m-ce-el-r-ce-ct-dn80-s-f80',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS P 1250/M CE EL + R. CE-CT DN100-S-F100',
+			'burnersModalLink' => 'gas-p-1250-m-ce-el-r-ce-ct-dn100-s-f100',
+		],
+		[
+			'burnersModalName' => 'Газовая горелка GAS P 1250/M CE EL + R. CE-CT DN125-S-F125',
+			'burnersModalLink' => 'gas-p-1250-m-ce-el-r-ce-ct-dn125-s-f125',
+		],
+	],	
+	'gazovye-gorelki-gas-thls' => [
+		[
+			'burnersModalName' => 'Газовая горелка GAS X0 THLS',
+			'burnersModalLink' => 'gas-x0-thls',
+		],
+	],			
 ];
 
 

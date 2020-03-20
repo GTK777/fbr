@@ -7,7 +7,7 @@
 	require 'variable/data-description.php';
 
 	$data = require('variable/data-info-finish.php');
-	$burnersModal = $data['gazovye-gorelki-gas-xp-2'];
+	$burnersModal = $data['gazovye-gorelki-gas-p-m-el'];
 ?>
 
 <main class="main pb25">

@@ -119,7 +119,7 @@ return [
 		[
 			'burnersModalName' => 'Комбинированная горелка KN750/M TL EL + R. CE-CT DN125-S-F125',
 			'burnersModalLink' => 'kn750-m-tl-el-r-ce-ct-dn125-s-f125',
-		],
+		], 
 		[
 			'burnersModalName' => 'Комбинированная горелка KN1000/M TL EL+ R. CE-CT DN125-S-F125',
 			'burnersModalLink' => 'kn1000-m-tl-el-r-ce-ct-dn125-s-f125',
@@ -132,7 +132,7 @@ return [
 	'gazomazutnye-gorelki-hi' => [
 		[
 			'burnersModalName' => 'HI-KN /M TL',
-			'burnersModalLink' => 'hi-kn- m-tl',
+			'burnersModalLink' => 'hi-kn-m-tl',
 		],
     ],
 ]    

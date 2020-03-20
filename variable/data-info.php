@@ -55,6 +55,20 @@ return [
 			'pumpModalLink' => 'gazovye-gorelki-hi' 
 		],	
 	],
+	'gazomazutnye-gorelki' => [
+		[
+			'pumpModalName' => 'F.B.R. KN /M',
+			'pumpModalLink' => 'gazomazutnye-gorelki-kn-m' 
+		],
+		[
+			'pumpModalName' => 'F.B.R. KN /M EL',
+			'pumpModalLink' => 'gazomazutnye-gorelki-kn-m-el' 
+		],
+		[
+			'pumpModalName' => 'F.B.R. HI',
+			'pumpModalLink' => 'gazomazutnye-gorelki-hi' 
+		],
+	]	
 ];	
 
 

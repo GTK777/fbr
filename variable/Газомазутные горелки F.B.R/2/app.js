@@ -1,26 +1,26 @@
 var fs = require("fs");
 
-var ds33 =  ['gas-p-70-2-ce-tc-r-ce-d11-2-fs50.php', 'gas-p-70-2-ce-tl-r-ce-d11-2-fs50.php', 'gas-p-70-2-ce-tc-r-ce-d2-fs50.php', 'gas-p-70-2-ce-tl-r-ce-d2-fs50.php', 'gas-p-70-2-ce-tc-r-ce-ct-d2-fs50.php', 'gas-p-70-2-ce-tl-r-ce-ct-d2-fs50.php', 'gas-p-100-2-ce-tc-r-ce-d11-2-fs50.php', 'gas-p-100-2-ce-tl-r-ce-d11-2-fs50.php', 'gas-p-100-2-ce-tc-r-ce-d2-fs50.php', 'gas-p-100-2-ce-tl-r-ce-d2-fs50.php', 'gas-p-100-2-ce-tc-r-ce-ct-d11-2-fs50.php', 'gas-p-100-2-ce-tl-r-ce-ct-d11-2-fs50.php', 'gas-p-100-2-ce-tc-r-ce-ct-d2-fs50.php', 'gas-p-100-2-ce-tl-r-ce-ct-d2-fs50.php', 'gas-p-100-2-ce-tc-r-ce-dn65-fs65.php', 'gas-p-100-2-ce-tl-r-ce-dn65-fs65.php', 'gas-p-100-2-ce-tc-r-ce-ct-dn65-fs65.php', 'gas-p-100-2-ce-tl-r-ce-ct-dn65-fs65.php', 'gas-p-150-2-ce-03-tc-r-n-d2.php', 'gas-p-150-2-ce-03-tl-r-n-d2.php', 'gas-p-150-2-ce-tc-r-n-d2.php', 'gas-p-150-2-ce-tl-r-n-d2.php', 'gas-p-150-2-ce-03-tc-r-ce-ct-d2-fs50.php', 'gas-p-150-2-ce-03-tl-r-ce-ct-d2-fs50.php', 'gas-p-150-2-ce-tc-r-ce-ct-d2-fs50.php', 'gas-p-150-2-ce-03-tc-r-n-dn65.php', 'gas-p-150-2-ce-tl-r-ce-ct-d2-fs50.php', 'gas-p-150-2-ce-03-tl-r-n-dn65.php', 'gas-p-150-2-ce-tc-r-n-dn65.php', 'gas-p-150-2-ce-tl-r-n-dn65.php', 'gas-p-150-2-ce-03-tc-r-n-dn80.php', 'gas-p-150-2-ce-03-tl-r-n-dn80.php', 'gas-p-150-2-ce-03-tc-r-ce-ct-dn65-fs65.php', 'gas-p-150-2-ce-03-tl-r-ce-ct-dn65-fs65.php', 'gas-p-150-2-ce-tc-r-n-dn80.php', 'gas-p-150-2-ce-tl-r-n-dn80.php', 'gas-p-150-2-ce-tc-r-ce-ct-dn65-fs65.php', 'gas-p-150-2-ce-tl-r-ce-ct-dn65-fs65.php', 'gas-p-150-2-ce-03-tc-r-ce-ct-dn80-fs80.php', 'gas-p-150-2-ce-03-tl-r-ce-ct-dn80-fs80.php', 'gas-p-150-2-ce-tl-r-ce-ct-dn80-fs80.php', 'gas-p-190-2-ce-r-n-d2.php', 'gas-p-190-2-ce-r-ce-ct-d2-fs50.php', 'gas-p-190-2-ce-r-n-dn65.php', 'gas-p-190-2-ce-r-ce-ct-dn65-fs65.php', 'gas-p-190-2-ce-r-n-dn80.php', 'gas-p-250-2-ce-r-n-d2.php', 'gas-p-250-2-ce-r-ce-ct-d2-fs50.php', 'gas-p-250-2-ce-r-n-dn65.php', 'gas-p-250-2-ce-r-n-dn80.php', 'gas-p-250-2-ce-r-ce-ct-dn65-fs65.php', 'gas-p-190-2-ce-r-ce-ct-dn80-fs80.php', 'gas-p-190-2-ce-r-n-dn100.php', 'gas-p-250-2-ce-r-ce-ct-dn80-fs80.php', 'gas-p-250-2-ce-r-n-dn100.php', 'gas-p-190-2-ce-r-ce-ct-dn100-fs100.php', 'gas-p-250-2-ce-r-ce-ct-dn100-fs100.php'];
+var ds33 =  ['hi-kn- m-tl'];
 
 for(var i = 0, b = 1; ds33.length > i; i++, b++) {
     fs.writeFile(ds33[i], '<?php' +
-    ' require ' + '"variable/title.php";' +  
-    '$title = "$producteTitle_8_' + b + '";' +
-    '$description = "$producteDesc_8_' + b + '";' + 
+    ' require ' + '"variable/title-2.php";' +  
+    '$title = "$producteTitle_3_' + b + '";' +  // меняем цифру
+    '$description = "$producteDesc_3_' + b + '";' +  // меняем цифру
     'require "header.php";' +
     'require "variable/data-description.php";' +
 
-    'require "variable/data-info-finish.php";' +
-    '$data = require "variable/data-info-finish.php";' +
+    'require "variable/data-info-finish-4.php";' +
+    '$data = require "variable/data-info-finish-4.php";' +
     
     '$dataLink = require "variable/data-info.php";' +
-    '$dataLinkAll = $dataLink["gazovye-gorelki"];' +
+    '$dataLinkAll = $dataLink["gazomazutnye-gorelki"];' +
 
-    '$modification = require("variable/data-info-finish.php");' +
+    '$modification = require("variable/data-info-finish-4.php");' +
     '$dataDesc = require("variable/data-description.php");' +
-    '$modificationModal = $modification["gazovye-gorelki-gas-p-2"][' + i + '];' +
-    '$modalPumpDesc = $modalPumpDesc_8_' + b + ';' +
-    '$modalPumpTable = $modalPumpTable_8_' + b + ';' +
+    '$modificationModal = $modification["gazomazutnye-gorelki-hi"][' + i + '];' + // меняем серию
+    '$modalPumpDesc = $modalPumpDesc_4_3_' + b + ';' + // меняем цифру
+    '$modalPumpTable = $modalPumpTable_4_3_' + b + ';' + // меняем цифру
 '?>' +
 '<!-- main block start -->' + 
 		'<main class="main">' +
@@ -34,11 +34,11 @@ for(var i = 0, b = 1; ds33.length > i; i++, b++) {
 								'<a href="catalog" class="bread-crumbs-link bread-crumbs-link-next bread-crumbs-link-spare-parts">Каталог</a>' +
 							'</li>' +
 							'<li class="bread-crumbs-item">' +
-								'<a href="gazovye-gorelki" class="bread-crumbs-link bread-crumbs-link-next bread-crumbs-link-spare-parts">Газовые горелки F.B.R.</a>' +
+								'<a href="gazomazutnye-gorelki" class="bread-crumbs-link bread-crumbs-link-next bread-crumbs-link-spare-parts">Газомазутные горелки F.B.R.</a>' +
 							'</li>' +
 							'</li>' +
 							'<li class="bread-crumbs-item">' +
-								'<a href="gazovye-gorelki-gas-p-2" class="bread-crumbs-link bread-crumbs-link-next bread-crumbs-link-spare-parts">F.B.R. GAS P /2</a>' +
+								'<a href="gazomazutnye-gorelki-hi" class="bread-crumbs-link bread-crumbs-link-next bread-crumbs-link-spare-parts">F.B.R. HI</a>' + // меняем ссылку и название
 							'</li>' +
 							'<li class="bread-crumbs-item">' +
 								'<a href="" class="bread-crumbs-link bread-crumbs-link-now">' +
@@ -54,7 +54,7 @@ for(var i = 0, b = 1; ds33.length > i; i++, b++) {
 					'<!-- Main block - about product-block start -->' +
 					'<div class="burners-modal-info__content">' +
 						'<div class="burners-modal-info__content-left">' +
-							'<img src="img/images/<?= $modificationModal["burnersModalLink"] ?>.png" alt="Горелки FBR">' +
+							'<img src="img/images/<?= $modificationModal["burnersModalLink"] ?>.jpg" alt="<?= $modificationModal["burnersModalName"] ?>">' +
 						'</div>' +
 						'<div class="burners-modal-info__content-right">' +
 							'<h1 class="burners-modal-info__content-right_title"><?= $modificationModal["burnersModalName"] ?></h1>' +
@@ -93,15 +93,15 @@ for(var i = 0, b = 1; ds33.length > i; i++, b++) {
 							'<div class="main-block-link-last">' +
 								'<span class="main-line-block main-line-block-last">' +
 									'<span class="main-line-link-title main-block-link-title">Другие разделы:</span>' +
-									'<a href="gazovye-gorelki" class="main-line-link">Газовые горелки</a>' +
+									'<a href="gazovye-gorelki" class="main-line-link">Газовые горелки F.B.R.</a>' +
 									'<span class="main-line-space"> , </span>' +
-									'<a href="dizelnye-gorelki" class="main-line-link">Дизельные горелки</a>' +
+									'<a href="dizelnye-gorelki" class="main-line-link">Дизельные горелки F.B.R.</a>' +
 									'<span class="main-line-space"> , </span>' +
-									'<a href="mazutnye-gorelki" class="main-line-link">Мазутные горелки</a>' +
+									'<a href="mazutnye-gorelki" class="main-line-link">Мазутные горелки F.B.R.</a>' +
 									'<span class="main-line-space"> , </span>' +
-									'<a href="gazodizelnye-gorelki" class="main-line-link">Газодизельные горелки</a>' +
+									'<a href="gazodizelnye-gorelki" class="main-line-link">Газодизельные горелки F.B.R.</a>' +
 									'<span class="main-line-space"> , </span>' +
-									'<a href="gazomazutnye-gorelki" class="main-line-link">Газомазутные горелки</a>' +
+									'<a href="gazomazutnye-gorelki" class="main-line-link">Газомазутные горелки F.B.R.</a>' +
 									'<span class="main-line-space"> , </span>' +
 									'<a href="spare-parts" class="main-line-link">Запчасти</a>' +
 								'</span>' +
