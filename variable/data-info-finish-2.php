@@ -301,10 +301,6 @@ return [
 			'burnersModalLink' => 'fgp-50-2-tc',
 		],
 		[
-			'burnersModalName' => '	Дизельная горелка FGP 50/2 TC EVO',
-			'burnersModalLink' => 'fgp-50-2-tc-evo',
-		],
-		[
 			'burnersModalName' => '	Дизельная горелка FGP 50/2 TL',
 			'burnersModalLink' => 'fgp-50-2-tl',
 		],

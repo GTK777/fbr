@@ -1531,11 +1531,570 @@ $producteDesc_10_12 = '10 - 12';
 
 // --------- БЛОК (Газовые горелки F.B.R. GAS P /M) Начало --------
 
+
 // Страница:
 //
 
-$producteTitle_11_1 = "";
-$producteDesc_11_1 = "";
+$producteTitle_11_1 = '11 - 1';
+$producteDesc_11_1 = '11 - 1';
+
+// Страница:
+//
+
+$producteTitle_11_2 = '11 - 2';
+$producteDesc_11_2 = '11 - 2';
+
+// Страница:
+//
+
+$producteTitle_11_3 = '11 - 3';
+$producteDesc_11_3 = '11 - 3';
+
+// Страница:
+//
+
+$producteTitle_11_4 = '11 - 4';
+$producteDesc_11_4 = '11 - 4';
+
+// Страница:
+//
+
+$producteTitle_11_5 = '11 - 5';
+$producteDesc_11_5 = '11 - 5';
+
+// Страница:
+//
+
+$producteTitle_11_6 = '11 - 6';
+$producteDesc_11_6 = '11 - 6';
+
+// Страница:
+//
+
+$producteTitle_11_7 = '11 - 7';
+$producteDesc_11_7 = '11 - 7';
+
+// Страница:
+//
+
+$producteTitle_11_8 = '11 - 8';
+$producteDesc_11_8 = '11 - 8';
+
+// Страница:
+//
+
+$producteTitle_11_9 = '11 - 9';
+$producteDesc_11_9 = '11 - 9';
+
+// Страница:
+//
+
+$producteTitle_11_10 = '11 - 10';
+$producteDesc_11_10 = '11 - 10';
+
+// Страница:
+//
+
+$producteTitle_11_11 = '11 - 11';
+$producteDesc_11_11 = '11 - 11';
+
+// Страница:
+//
+
+$producteTitle_11_12 = '11 - 12';
+$producteDesc_11_12 = '11 - 12';
+
+// Страница:
+//
+
+$producteTitle_11_13 = '11 - 13';
+$producteDesc_11_13 = '11 - 13';
+
+// Страница:
+//
+
+$producteTitle_11_14 = '11 - 14';
+$producteDesc_11_14 = '11 - 14';
+
+// Страница:
+//
+
+$producteTitle_11_15 = '11 - 15';
+$producteDesc_11_15 = '11 - 15';
+
+// Страница:
+//
+
+$producteTitle_11_16 = '11 - 16';
+$producteDesc_11_16 = '11 - 16';
+
+// Страница:
+//
+
+$producteTitle_11_17 = '11 - 17';
+$producteDesc_11_17 = '11 - 17';
+
+// Страница:
+//
+
+$producteTitle_11_18 = '11 - 18';
+$producteDesc_11_18 = '11 - 18';
+
+// Страница:
+//
+
+$producteTitle_11_19 = '11 - 19';
+$producteDesc_11_19 = '11 - 19';
+
+// Страница:
+//
+
+$producteTitle_11_20 = '11 - 20';
+$producteDesc_11_20 = '11 - 20';
+
+// Страница:
+//
+
+$producteTitle_11_21 = '11 - 21';
+$producteDesc_11_21 = '11 - 21';
+
+// Страница:
+//
+
+$producteTitle_11_22 = '11 - 22';
+$producteDesc_11_22 = '11 - 22';
+
+// Страница:
+//
+
+$producteTitle_11_23 = '11 - 23';
+$producteDesc_11_23 = '11 - 23';
+
+// Страница:
+//
+
+$producteTitle_11_24 = '11 - 24';
+$producteDesc_11_24 = '11 - 24';
+
+// Страница:
+//
+
+$producteTitle_11_25 = '11 - 25';
+$producteDesc_11_25 = '11 - 25';
+
+// Страница:
+//
+
+$producteTitle_11_26 = '11 - 26';
+$producteDesc_11_26 = '11 - 26';
+
+// Страница:
+//
+
+$producteTitle_11_27 = '11 - 27';
+$producteDesc_11_27 = '11 - 27';
+
+// Страница:
+//
+
+$producteTitle_11_28 = '11 - 28';
+$producteDesc_11_28 = '11 - 28';
+
+// Страница:
+//
+
+$producteTitle_11_29 = '11 - 29';
+$producteDesc_11_29 = '11 - 29';
+
+// Страница:
+//
+
+$producteTitle_11_30 = '11 - 30';
+$producteDesc_11_30 = '11 - 30';
+
+// Страница:
+//
+
+$producteTitle_11_31 = '11 - 31';
+$producteDesc_11_31 = '11 - 31';
+
+// Страница:
+//
+
+$producteTitle_11_32 = '11 - 32';
+$producteDesc_11_32 = '11 - 32';
+
+// Страница:
+//
+
+$producteTitle_11_33 = '11 - 33';
+$producteDesc_11_33 = '11 - 33';
+
+// Страница:
+//
+
+$producteTitle_11_34 = '11 - 34';
+$producteDesc_11_34 = '11 - 34';
+
+// Страница:
+//
+
+$producteTitle_11_35 = '11 - 35';
+$producteDesc_11_35 = '11 - 35';
+
+// Страница:
+//
+
+$producteTitle_11_36 = '11 - 36';
+$producteDesc_11_36 = '11 - 36';
+
+// Страница:
+//
+
+$producteTitle_11_37 = '11 - 37';
+$producteDesc_11_37 = '11 - 37';
+
+// Страница:
+//
+
+$producteTitle_11_38 = '11 - 38';
+$producteDesc_11_38 = '11 - 38';
+
+// Страница:
+//
+
+$producteTitle_11_39 = '11 - 39';
+$producteDesc_11_39 = '11 - 39';
+
+// Страница:
+//
+
+$producteTitle_11_40 = '11 - 40';
+$producteDesc_11_40 = '11 - 40';
+
+// Страница:
+//
+
+$producteTitle_11_41 = '11 - 41';
+$producteDesc_11_41 = '11 - 41';
+
+// Страница:
+//
+
+$producteTitle_11_42 = '11 - 42';
+$producteDesc_11_42 = '11 - 42';
+
+// Страница:
+//
+
+$producteTitle_11_43 = '11 - 43';
+$producteDesc_11_43 = '11 - 43';
+
+// Страница:
+//
+
+$producteTitle_11_44 = '11 - 44';
+$producteDesc_11_44 = '11 - 44';
+
+// Страница:
+//
+
+$producteTitle_11_45 = '11 - 45';
+$producteDesc_11_45 = '11 - 45';
+
+// Страница:
+//
+
+$producteTitle_11_46 = '11 - 46';
+$producteDesc_11_46 = '11 - 46';
+
+// Страница:
+//
+
+$producteTitle_11_47 = '11 - 47';
+$producteDesc_11_47 = '11 - 47';
+
+// Страница:
+//
+
+$producteTitle_11_48 = '11 - 48';
+$producteDesc_11_48 = '11 - 48';
+
+// Страница:
+//
+
+$producteTitle_11_49 = '11 - 49';
+$producteDesc_11_49 = '11 - 49';
+
+// Страница:
+//
+
+$producteTitle_11_50 = '11 - 50';
+$producteDesc_11_50 = '11 - 50';
+
+// Страница:
+//
+
+$producteTitle_11_51 = '11 - 51';
+$producteDesc_11_51 = '11 - 51';
+
+// Страница:
+//
+
+$producteTitle_11_52 = '11 - 52';
+$producteDesc_11_52 = '11 - 52';
+
+// Страница:
+//
+
+$producteTitle_11_53 = '11 - 53';
+$producteDesc_11_53 = '11 - 53';
+
+// Страница:
+//
+
+$producteTitle_11_54 = '11 - 54';
+$producteDesc_11_54 = '11 - 54';
+
+// Страница:
+//
+
+$producteTitle_11_55 = '11 - 55';
+$producteDesc_11_55 = '11 - 55';
+
+// Страница:
+//
+
+$producteTitle_11_56 = '11 - 56';
+$producteDesc_11_56 = '11 - 56';
+
+// Страница:
+//
+
+$producteTitle_11_57 = '11 - 57';
+$producteDesc_11_57 = '11 - 57';
+
+// Страница:
+//
+
+$producteTitle_11_58 = '11 - 58';
+$producteDesc_11_58 = '11 - 58';
+
+// Страница:
+//
+
+$producteTitle_11_59 = '11 - 59';
+$producteDesc_11_59 = '11 - 59';
+
+// Страница:
+//
+
+$producteTitle_11_60 = '11 - 60';
+$producteDesc_11_60 = '11 - 60';
+
+// Страница:
+//
+
+$producteTitle_11_61 = '11 - 61';
+$producteDesc_11_61 = '11 - 61';
+
+// Страница:
+//
+
+$producteTitle_11_62 = '11 - 62';
+$producteDesc_11_62 = '11 - 62';
+
+// Страница:
+//
+
+$producteTitle_11_63 = '11 - 63';
+$producteDesc_11_63 = '11 - 63';
+
+// Страница:
+//
+
+$producteTitle_11_64 = '11 - 64';
+$producteDesc_11_64 = '11 - 64';
+
+// Страница:
+//
+
+$producteTitle_11_65 = '11 - 65';
+$producteDesc_11_65 = '11 - 65';
+
+// Страница:
+//
+
+$producteTitle_11_66 = '11 - 66';
+$producteDesc_11_66 = '11 - 66';
+
+// Страница:
+//
+
+$producteTitle_11_67 = '11 - 67';
+$producteDesc_11_67 = '11 - 67';
+
+// Страница:
+//
+
+$producteTitle_11_68 = '11 - 68';
+$producteDesc_11_68 = '11 - 68';
+
+// Страница:
+//
+
+$producteTitle_11_69 = '11 - 69';
+$producteDesc_11_69 = '11 - 69';
+
+// Страница:
+//
+
+$producteTitle_11_70 = '11 - 70';
+$producteDesc_11_70 = '11 - 70';
+
+// Страница:
+//
+
+$producteTitle_11_71 = '11 - 71';
+$producteDesc_11_71 = '11 - 71';
+
+// Страница:
+//
+
+$producteTitle_11_72 = '11 - 72';
+$producteDesc_11_72 = '11 - 72';
+
+// Страница:
+//
+
+$producteTitle_11_73 = '11 - 73';
+$producteDesc_11_73 = '11 - 73';
+
+// Страница:
+//
+
+$producteTitle_11_74 = '11 - 74';
+$producteDesc_11_74 = '11 - 74';
+
+// Страница:
+//
+
+$producteTitle_11_75 = '11 - 75';
+$producteDesc_11_75 = '11 - 75';
+
+// Страница:
+//
+
+$producteTitle_11_76 = '11 - 76';
+$producteDesc_11_76 = '11 - 76';
+
+// Страница:
+//
+
+$producteTitle_11_77 = '11 - 77';
+$producteDesc_11_77 = '11 - 77';
+
+// Страница:
+//
+
+$producteTitle_11_78 = '11 - 78';
+$producteDesc_11_78 = '11 - 78';
+
+// Страница:
+//
+
+$producteTitle_11_79 = '11 - 79';
+$producteDesc_11_79 = '11 - 79';
+
+// Страница:
+//
+
+$producteTitle_11_80 = '11 - 80';
+$producteDesc_11_80 = '11 - 80';
+
+// Страница:
+//
+
+$producteTitle_11_81 = '11 - 81';
+$producteDesc_11_81 = '11 - 81';
+
+// Страница:
+//
+
+$producteTitle_11_82 = '11 - 82';
+$producteDesc_11_82 = '11 - 82';
+
+// Страница:
+//
+
+$producteTitle_11_83 = '11 - 83';
+$producteDesc_11_83 = '11 - 83';
+
+// Страница:
+//
+
+$producteTitle_11_84 = '11 - 84';
+$producteDesc_11_84 = '11 - 84';
+
+// Страница:
+//
+
+$producteTitle_11_85 = '11 - 85';
+$producteDesc_11_85 = '11 - 85';
+
+// Страница:
+//
+
+$producteTitle_11_86 = '11 - 86';
+$producteDesc_11_86 = '11 - 86';
+
+// Страница:
+//
+
+$producteTitle_11_87 = '11 - 87';
+$producteDesc_11_87 = '11 - 87';
+
+// Страница:
+//
+
+$producteTitle_11_88 = '11 - 88';
+$producteDesc_11_88 = '11 - 88';
+
+// Страница:
+//
+
+$producteTitle_11_89 = '11 - 89';
+$producteDesc_11_89 = '11 - 89';
+
+// Страница:
+//
+
+$producteTitle_11_90 = '11 - 90';
+$producteDesc_11_90 = '11 - 90';
+
+// Страница:
+//
+
+$producteTitle_11_91 = '11 - 91';
+$producteDesc_11_91 = '11 - 91';
+
+// Страница:
+//
+
+$producteTitle_11_92 = '11 - 92';
+$producteDesc_11_92 = '11 - 92';
+
+// Страница:
+//
+
+$producteTitle_11_93 = '11 - 93';
+$producteDesc_11_93 = '11 - 93';
+
+// Страница:
+//
+
+$producteTitle_11_94 = '11 - 94';
+$producteDesc_11_94 = '11 - 94';
 
 // --------- БЛОК (Газовые горелки F.B.R. GAS P /M) Конец --------
 
@@ -1544,8 +2103,62 @@ $producteDesc_11_1 = "";
 // Страница:
 //
 
-$producteTitle_12_1 = "";
-$producteDesc_12_1 = "";
+$producteTitle_12_1 = '12 - 1';
+$producteDesc_12_1 = '12 - 1';
+
+// Страница:
+//
+
+$producteTitle_12_2 = '12 - 2';
+$producteDesc_12_2 = '12 - 2';
+
+// Страница:
+//
+
+$producteTitle_12_3 = '12 - 3';
+$producteDesc_12_3 = '12 - 3';
+
+// Страница:
+//
+
+$producteTitle_12_4 = '12 - 4';
+$producteDesc_12_4 = '12 - 4';
+
+// Страница:
+//
+
+$producteTitle_12_5 = '12 - 5';
+$producteDesc_12_5 = '12 - 5';
+
+// Страница:
+//
+
+$producteTitle_12_6 = '12 - 6';
+$producteDesc_12_6 = '12 - 6';
+
+// Страница:
+//
+
+$producteTitle_12_7 = '12 - 7';
+$producteDesc_12_7 = '12 - 7';
+
+// Страница:
+//
+
+$producteTitle_12_8 = '12 - 8';
+$producteDesc_12_8 = '12 - 8';
+
+// Страница:
+//
+
+$producteTitle_12_9 = '12 - 9';
+$producteDesc_12_9 = '12 - 9';
+
+// Страница:
+//
+
+$producteTitle_12_10 = '12 - 10';
+$producteDesc_12_10 = '12 - 10';
 
 // --------- БЛОК (Газовые горелки F.B.R. GAS P /M EL) Конец --------
 
@@ -1554,8 +2167,74 @@ $producteDesc_12_1 = "";
 // Страница:
 //
 
-$producteTitle_13_1 = "";
-$producteDesc_13_1 = "";
+$producteTitle_13_1 = '13 - 1';
+$producteDesc_13_1 = '13 - 1';
+
+// Страница:
+//
+
+$producteTitle_13_2 = '13 - 2';
+$producteDesc_13_2 = '13 - 2';
+
+// Страница:
+//
+
+$producteTitle_13_3 = '13 - 3';
+$producteDesc_13_3 = '13 - 3';
+
+// Страница:
+//
+
+$producteTitle_13_4 = '13 - 4';
+$producteDesc_13_4 = '13 - 4';
+
+// Страница:
+//
+
+$producteTitle_13_5 = '13 - 5';
+$producteDesc_13_5 = '13 - 5';
+
+// Страница:
+//
+
+$producteTitle_13_6 = '13 - 6';
+$producteDesc_13_6 = '13 - 6';
+
+// Страница:
+//
+
+$producteTitle_13_7 = '13 - 7';
+$producteDesc_13_7 = '13 - 7';
+
+// Страница:
+//
+
+$producteTitle_13_8 = '13 - 8';
+$producteDesc_13_8 = '13 - 8';
+
+// Страница:
+//
+
+$producteTitle_13_9 = '13 - 9';
+$producteDesc_13_9 = '13 - 9';
+
+// Страница:
+//
+
+$producteTitle_13_10 = '13 - 10';
+$producteDesc_13_10 = '13 - 10';
+
+// Страница:
+//
+
+$producteTitle_13_11 = '13 - 11';
+$producteDesc_13_11 = '13 - 11';
+
+// Страница:
+//
+
+$producteTitle_13_12 = '13 - 12';
+$producteDesc_13_12 = '13 - 12';
 
 // --------- БЛОК (Газовые горелки F.B.R. HI) Конец --------
 

@@ -7,7 +7,7 @@
 	require 'variable/data-description.php';
 
 	$data = require('variable/data-info-finish-2.php');
-    $burnersModal = $data['dizelnye-gorelki-g-sr-lx'];
+    $burnersModal = $data['dizelnye-gorelki-g-s-lx'];
     
     $nameBurnsPage = "F.B.R. G S LX";
 ?>

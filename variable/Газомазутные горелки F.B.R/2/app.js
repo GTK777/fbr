@@ -1,6 +1,6 @@
 var fs = require("fs");
 
-var ds33 =  ['hi-kn- m-tl'];
+var ds33 =  ['hi-kn-m-tl.php'];
 
 for(var i = 0, b = 1; ds33.length > i; i++, b++) {
     fs.writeFile(ds33[i], '<?php' +
@@ -8,7 +8,7 @@ for(var i = 0, b = 1; ds33.length > i; i++, b++) {
     '$title = "$producteTitle_3_' + b + '";' +  // меняем цифру
     '$description = "$producteDesc_3_' + b + '";' +  // меняем цифру
     'require "header.php";' +
-    'require "variable/data-description.php";' +
+    'require "variable/data-description-gaz-maz.php";' +
 
     'require "variable/data-info-finish-4.php";' +
     '$data = require "variable/data-info-finish-4.php";' +
@@ -17,7 +17,7 @@ for(var i = 0, b = 1; ds33.length > i; i++, b++) {
     '$dataLinkAll = $dataLink["gazomazutnye-gorelki"];' +
 
     '$modification = require("variable/data-info-finish-4.php");' +
-    '$dataDesc = require("variable/data-description.php");' +
+    '$dataDesc = require("variable/data-description-gaz-maz.php");' +
     '$modificationModal = $modification["gazomazutnye-gorelki-hi"][' + i + '];' + // меняем серию
     '$modalPumpDesc = $modalPumpDesc_4_3_' + b + ';' + // меняем цифру
     '$modalPumpTable = $modalPumpTable_4_3_' + b + ';' + // меняем цифру

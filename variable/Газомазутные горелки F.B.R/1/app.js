@@ -8,7 +8,7 @@ for(var i = 0, b = 1; ds33.length > i; i++, b++) {
     '$title = "$producteTitle_1_' + b + '";' +  // меняем цифру
     '$description = "$producteDesc_1_' + b + '";' +  // меняем цифру
     'require "header.php";' +
-    'require "variable/data-description.php";' +
+    'require "variable/data-description-gaz-maz.php";' +
 
     'require "variable/data-info-finish-4.php";' +
     '$data = require "variable/data-info-finish-4.php";' +
@@ -17,7 +17,7 @@ for(var i = 0, b = 1; ds33.length > i; i++, b++) {
     '$dataLinkAll = $dataLink["gazomazutnye-gorelki"];' +
 
     '$modification = require("variable/data-info-finish-4.php");' +
-    '$dataDesc = require("variable/data-description.php");' +
+    '$dataDesc = require("variable/data-description-gaz-maz.php");' +
     '$modificationModal = $modification["gazomazutnye-gorelki-kn-m"][' + i + '];' + // меняем серию
     '$modalPumpDesc = $modalPumpDesc_4_1_' + b + ';' + // меняем цифру
     '$modalPumpTable = $modalPumpTable_4_1_' + b + ';' + // меняем цифру

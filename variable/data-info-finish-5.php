@@ -198,7 +198,7 @@ return [
 		],
 		[
 			'burnersModalName' => 'Комбинированная горелка K650/M TL MEC + R. CE-CT DN100-F100-S100',
-			'burnersModalLink' => 'k650-m-tl-mec-r-ce-ct-dn100-f100-s1',
+			'burnersModalLink' => 'k650-m-tl-mec-r-ce-ct-dn100-f100-s100',
 		],
 	],
 	'gazodizelnye-gorelki-k-m' => [
@@ -363,16 +363,6 @@ return [
 			'burnersModalLink' => 'k550-m-tl-mec-r-ce-ct-dn100-f100-s100',
 		],
 	],
-	'gazodizelnye-gorelki-k-m-el-2' => [
-		[
-			'burnersModalName' => 'Комбинированная горелка K1250/M TL EL+ R. CE-CT DN100-S-F100',
-			'burnersModalLink' => 'k1250-m-tl-el+-r-ce-ct-dn100-s-f100',
-		],
-		[
-			'burnersModalName' => 'Комбинированная горелка K1250/M TL EL+ R. CE-CT DN125-S-F125',
-			'burnersModalLink' => 'k1250-m-tl-el+-r-ce-ct-dn125-s-f12',
-		],
-	],
 	'gazodizelnye-gorelki-k-m-el' => [
 		[
 			'burnersModalName' => 'Комбинированная горелка K750/M TL EL + R. CE-CT DN65-S-F65',
@@ -406,10 +396,18 @@ return [
 			'burnersModalName' => 'Комбинированная горелка K1250/M TL EL + R. CE-CT DN80-S-F80',
 			'burnersModalLink' => 'k1250-m-tl-el-r-ce-ct-dn80-s-f80',
 		],
+		[
+			'burnersModalName' => 'Комбинированная горелка K1250/M TL EL+ R. CE-CT DN100-S-F100',
+			'burnersModalLink' => 'k1250-m-tl-el+-r-ce-ct-dn100-s-f100',
+		],
+		[
+			'burnersModalName' => 'Комбинированная горелка K1250/M TL EL+ R. CE-CT DN125-S-F125',
+			'burnersModalLink' => 'k1250-m-tl-el+-r-ce-ct-dn125-s-f12',
+		],
 	],
 	'gazodizelnye-gorelki-hi' => [
 		[
-			'burnersModalName' => 'HI-K /M TL',
+			'burnersModalName' => 'Комбинированная горелка HI-K /M TL',
 			'burnersModalLink' => 'gazodizelnye-gorelki-hi-k-m-tl',
 		],
 	],

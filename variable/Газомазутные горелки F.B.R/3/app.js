@@ -45,7 +45,7 @@ for(var i = 0, b = 1; ds33.length > i; i++, b++) {
 								'<?= $modificationModal["burnersModalName"] ?></a>' +
 							'</li>' +
 						'</ul> ' +
-					'</div>' +
+					'</div>'
 				'</div>' +
 			'</section>' +
 			'<!-- Main block - bread crumbs-block finish -->   ' +
@@ -54,7 +54,7 @@ for(var i = 0, b = 1; ds33.length > i; i++, b++) {
 					'<!-- Main block - about product-block start -->' +
 					'<div class="burners-modal-info__content">' +
 						'<div class="burners-modal-info__content-left">' +
-							'<img src="img/images/<?= $modificationModal["burnersModalLink"] ?>.jpg" alt="<?= $modificationModal["burnersModalName"] ?>">' +
+							'<img src="img/images/gazodizelnye-gorelki-gm-x.jpg" alt="<?= $modificationModal["burnersModalName"] ?>">' +
 						'</div>' +
 						'<div class="burners-modal-info__content-right">' +
 							'<h1 class="burners-modal-info__content-right_title"><?= $modificationModal["burnersModalName"] ?></h1>' +

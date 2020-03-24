@@ -8,7 +8,7 @@ for(var i = 0, b = 1; ds33.length > i; i++, b++) {
     '$title = "$producteTitle_1_' + b + '";' +  // меняем цифру
     '$description = "$producteDesc_1_' + b + '";' +  // меняем цифру
     'require "header.php";' +
-    'require "variable/data-description.php";' +
+    'require "variable/data-description-gaz-diz.php";' +
 
     'require "variable/data-info-finish-5.php";' +
     '$data = require "variable/data-info-finish-5.php";' +
@@ -17,7 +17,7 @@ for(var i = 0, b = 1; ds33.length > i; i++, b++) {
     '$dataLinkAll = $dataLink["gazodizelnye-gorelki"];' +
 
     '$modification = require("variable/data-info-finish-5.php");' +
-    '$dataDesc = require("variable/data-description.php");' +
+    '$dataDesc = require("variable/data-description-gaz-diz.php");' +
     '$modificationModal = $modification["gazodizelnye-gorelki-gm-x"][' + i + '];' + // меняем серию
     '$modalPumpDesc = $modalPumpDesc_5_1_' + b + ';' + // меняем цифру
     '$modalPumpTable = $modalPumpTable_5_1_' + b + ';' + // меняем цифру
@@ -54,7 +54,7 @@ for(var i = 0, b = 1; ds33.length > i; i++, b++) {
 					'<!-- Main block - about product-block start -->' +
 					'<div class="burners-modal-info__content">' +
 						'<div class="burners-modal-info__content-left">' +
-							'<img src="img/images/<?= $modificationModal["burnersModalLink"] ?>.jpg" alt="<?= $modificationModal["burnersModalName"] ?>">' +
+							'<img src="img/images/gazodizelnye-gorelki-gm-x.jpg" alt="<?= $modificationModal["burnersModalName"] ?>">' +
 						'</div>' +
 						'<div class="burners-modal-info__content-right">' +
 							'<h1 class="burners-modal-info__content-right_title"><?= $modificationModal["burnersModalName"] ?></h1>' +

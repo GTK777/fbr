@@ -36,7 +36,6 @@ return [
 			'burnersModalName' => 'Мазутная горелка FNL 25 TL',
 			'burnersModalLink' => 'fnl-25-tl',
 		],
-
 	],
 	'mazutnye-gorelki-fndl' => [
 		[
@@ -68,51 +67,51 @@ return [
 	'mazutnye-gorelki-fnp-2' => [
 		[
 			'burnersModalName' => 'Мазутная горелка FNP 25/2 TC',
-			'burnersModalLink' => 'fnp-25 2-tc',
+			'burnersModalLink' => 'fnp-25-2-tc',
 		],
 		[
 			'burnersModalName' => 'Мазутная горелка FNP 25/2 TL',
-			'burnersModalLink' => 'fnp-25 2-tl',
+			'burnersModalLink' => 'fnp-25-2-tl',
 		],
 		[
 			'burnersModalName' => 'Мазутная горелка FNP 45/2 TC',
-			'burnersModalLink' => 'fnp-45 2-tc',
+			'burnersModalLink' => 'fnp-45-2-tc',
 		],
 		[
 			'burnersModalName' => 'Мазутная горелка FNP 45/2 TL',
-			'burnersModalLink' => 'fnp-45 2-tl',
+			'burnersModalLink' => 'fnp-45-2-tl',
 		],
 		[
 			'burnersModalName' => 'Мазутная горелка FNP 70/2 TC',
-			'burnersModalLink' => 'fnp-70 2-tc',
+			'burnersModalLink' => 'fnp-70-2-tc',
 		],
 		[
 			'burnersModalName' => 'Мазутная горелка FNP 70/2 TL',
-			'burnersModalLink' => 'fnp-70 2-tl',
+			'burnersModalLink' => 'fnp-70-2-tl',
 		],
 		[
 			'burnersModalName' => 'Мазутная горелка FNP 100/2 TC',
-			'burnersModalLink' => 'fnp-100 2-tc',
+			'burnersModalLink' => 'fnp-100-2-tc',
 		],
 		[
 			'burnersModalName' => 'Мазутная горелка FNP 100/2 TL',
-			'burnersModalLink' => 'fnp-100 2-tl',
+			'burnersModalLink' => 'fnp-100-2-tl',
 		],
 		[
 			'burnersModalName' => 'Мазутная горелка FNP 125/2 TC',
-			'burnersModalLink' => 'fnp-125 2-tc',
+			'burnersModalLink' => 'fnp-125-2-tc',
 		],
 		[
 			'burnersModalName' => 'Мазутная горелка FNP 125/2 TL',
-			'burnersModalLink' => 'fnp-125 2-tl',
+			'burnersModalLink' => 'fnp-125-2-tl',
 		],
 		[
 			'burnersModalName' => 'Мазутная горелка FNP 150/2 TC',
-			'burnersModalLink' => 'fnp-150 2-tc',
+			'burnersModalLink' => 'fnp-150-2-tc',
 		],
 		[
 			'burnersModalName' => 'Мазутная горелка FNP 150/2 TL',
-			'burnersModalLink' => 'fnp-150 2-tl',
+			'burnersModalLink' => 'fnp-150-2-tl',
 		],
 
 	],
@@ -124,14 +123,6 @@ return [
 		[
 			'burnersModalName' => 'Мазутная горелка FNDP 100/2 TL',
 			'burnersModalLink' => 'fndp-100-2-tl',
-		],
-		[
-			'burnersModalName' => 'Мазутная горелка FNDP 125/2 TC',
-			'burnersModalLink' => 'fndp-125-2-tc',
-		],
-		[
-			'burnersModalName' => 'Мазутная горелка FNDP 125/2 TL',
-			'burnersModalLink' => 'fndp-125-2-tl',
 		],
 		[
 			'burnersModalName' => 'Мазутная горелка FNDP 125/2 TC',

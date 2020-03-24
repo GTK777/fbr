@@ -2,13 +2,13 @@
 
 // Газовые горелки F.B.R. GAS X
 
-$modalPumpDesc_1 = '<p class="burners-modal-info__content-right_description main-desc">Одноступенчатая газовая горелка мощностью от 12 до 34 кВт.
+$modalPumpDesc_1_1 = '<p class="burners-modal-info__content-right_description main-desc">Одноступенчатая газовая горелка мощностью от 12 до 34 кВт.
 Вариант газовой арматуры, используемый для горелок < 1,2 МВт (не имеет устройства контроля герметичности и реле максимального давления газа).
 Оснащена короткой пламенной трубой.
 В комплекте с газовой арматурой.</p>';
 
 
-$modalPumpTable_1 = '<div class="Properties">
+$modalPumpTable_1_1 = '<div class="Properties">
 				<div class="PropertyItem">
 	<div class="Name">Артикул</div>
 	<div class="Value">002301R053202</div>
@@ -72,68 +72,68 @@ $modalPumpTable_1 = '<div class="Properties">
 			</div>
 ';
 
-$modalPumpDesc_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
-$modalPumpTable_2 = '2'; 
+$modalPumpDesc_1_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_1_2 = '2'; 
 
-$modalPumpDesc_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
-$modalPumpTable_3 = '3'; 
+$modalPumpDesc_1_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_1_3 = '3'; 
 
-$modalPumpDesc_4 = '<p class="burners-modal-info__content-right_description main-desc">4</p>';
-$modalPumpTable_4 = '4'; 
+$modalPumpDesc_1_4 = '<p class="burners-modal-info__content-right_description main-desc">4</p>';
+$modalPumpTable_1_4 = '4'; 
 
-$modalPumpDesc_5 = '<p class="burners-modal-info__content-right_description main-desc">5</p>';
-$modalPumpTable_5 = '5'; 
+$modalPumpDesc_1_5 = '<p class="burners-modal-info__content-right_description main-desc">5</p>';
+$modalPumpTable_1_5 = '5'; 
 
-$modalPumpDesc_6 = '<p class="burners-modal-info__content-right_description main-desc">6</p>';
-$modalPumpTable_6 = '6'; 
+$modalPumpDesc_1_6 = '<p class="burners-modal-info__content-right_description main-desc">6</p>';
+$modalPumpTable_1_6 = '6'; 
 
-$modalPumpDesc_7 = '<p class="burners-modal-info__content-right_description main-desc">7</p>';
-$modalPumpTable_7 = '7'; 
+$modalPumpDesc_1_7 = '<p class="burners-modal-info__content-right_description main-desc">7</p>';
+$modalPumpTable_1_7 = '7'; 
 
-$modalPumpDesc_8 = '<p class="burners-modal-info__content-right_description main-desc">8</p>';
-$modalPumpTable_8 = '8'; 
+$modalPumpDesc_1_8 = '<p class="burners-modal-info__content-right_description main-desc">8</p>';
+$modalPumpTable_1_8 = '8'; 
 
-$modalPumpDesc_9 = '<p class="burners-modal-info__content-right_description main-desc">9</p>';
-$modalPumpTable_9 = '9'; 
+$modalPumpDesc_1_9 = '<p class="burners-modal-info__content-right_description main-desc">9</p>';
+$modalPumpTable_1_9 = '9'; 
 
-$modalPumpDesc_10 = '<p class="burners-modal-info__content-right_description main-desc">10</p>';
-$modalPumpTable_10 = '10'; 
+$modalPumpDesc_1_10 = '<p class="burners-modal-info__content-right_description main-desc">10</p>';
+$modalPumpTable_1_10 = '10'; 
 
-$modalPumpDesc_11 = '<p class="burners-modal-info__content-right_description main-desc">11</p>';
-$modalPumpTable_11 = '11'; 
+$modalPumpDesc_1_11 = '<p class="burners-modal-info__content-right_description main-desc">11</p>';
+$modalPumpTable_1_11 = '11'; 
 
-$modalPumpDesc_12 = '<p class="burners-modal-info__content-right_description main-desc">12</p>';
-$modalPumpTable_12 = '12'; 
+$modalPumpDesc_1_12 = '<p class="burners-modal-info__content-right_description main-desc">12</p>';
+$modalPumpTable_1_12 = '12'; 
 
-$modalPumpDesc_13 = '<p class="burners-modal-info__content-right_description main-desc">13</p>';
-$modalPumpTable_13 = '13'; 
+$modalPumpDesc_1_13 = '<p class="burners-modal-info__content-right_description main-desc">13</p>';
+$modalPumpTable_1_13 = '13'; 
 
-$modalPumpDesc_14 = '<p class="burners-modal-info__content-right_description main-desc">14</p>';
-$modalPumpTable_14 = '14'; 
+$modalPumpDesc_1_14 = '<p class="burners-modal-info__content-right_description main-desc">14</p>';
+$modalPumpTable_1_14 = '14'; 
 
-$modalPumpDesc_15 = '<p class="burners-modal-info__content-right_description main-desc">15</p>';
-$modalPumpTable_15 = '15'; 
+$modalPumpDesc_1_15 = '<p class="burners-modal-info__content-right_description main-desc">15</p>';
+$modalPumpTable_1_15 = '15'; 
 
-$modalPumpDesc_16 = '<p class="burners-modal-info__content-right_description main-desc">16</p>';
-$modalPumpTable_16 = '16'; 
+$modalPumpDesc_1_16 = '<p class="burners-modal-info__content-right_description main-desc">16</p>';
+$modalPumpTable_1_16 = '16'; 
 
-$modalPumpDesc_17 = '<p class="burners-modal-info__content-right_description main-desc">17</p>';
-$modalPumpTable_17 = '17'; 
+$modalPumpDesc_1_17 = '<p class="burners-modal-info__content-right_description main-desc">17</p>';
+$modalPumpTable_1_17 = '17'; 
 
-$modalPumpDesc_18 = '<p class="burners-modal-info__content-right_description main-desc">18</p>';
-$modalPumpTable_18 = '18'; 
+$modalPumpDesc_1_18 = '<p class="burners-modal-info__content-right_description main-desc">18</p>';
+$modalPumpTable_1_18 = '18'; 
 
-$modalPumpDesc_19 = '<p class="burners-modal-info__content-right_description main-desc">19</p>';
-$modalPumpTable_19 = '19'; 
+$modalPumpDesc_1_19 = '<p class="burners-modal-info__content-right_description main-desc">19</p>';
+$modalPumpTable_1_19 = '19'; 
 
-$modalPumpDesc_20 = '<p class="burners-modal-info__content-right_description main-desc">20</p>';
-$modalPumpTable_20 = '20'; 
+$modalPumpDesc_1_20 = '<p class="burners-modal-info__content-right_description main-desc">20</p>';
+$modalPumpTable_1_20 = '20'; 
 
-$modalPumpDesc_21 = '<p class="burners-modal-info__content-right_description main-desc">21</p>';
-$modalPumpTable_21 = '21'; 
+$modalPumpDesc_1_21 = '<p class="burners-modal-info__content-right_description main-desc">21</p>';
+$modalPumpTable_1_21 = '21'; 
 
-$modalPumpDesc_22 = '<p class="burners-modal-info__content-right_description main-desc">22</p>';
-$modalPumpTable_22 = '22'; 
+$modalPumpDesc_1_22 = '<p class="burners-modal-info__content-right_description main-desc">22</p>';
+$modalPumpTable_1_22 = '22'; 
 
 
 
@@ -148,8 +148,8 @@ $modalPumpTable_2_2 = '2';
 $modalPumpDesc_2_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
 $modalPumpTable_2_3 = '3'; 
 
-$modalPumpDesc_2_4 = '<p class="burners-modal-info__content-right_description main-desc">4</p>';
-$modalPumpTable_2_4 = '4'; 
+$modalPumpDesc_2_4 = '<p class="burners-modal-info__content-right_description main-desc">4ds</p>';
+$modalPumpTable_2_4 = '4fd'; 
 
 $modalPumpDesc_2_5 = '<p class="burners-modal-info__content-right_description main-desc">5</p>';
 $modalPumpTable_2_5 = '5'; 
@@ -583,7 +583,364 @@ $modalPumpTable_10_11 = '10 - 11';
 $modalPumpDesc_10_12 = '<p class="burners-modal-info__content-right_description main-desc">10 - 12</p>';
 $modalPumpTable_10_12 = '10 - 12';
 
-// Газомазутные горелки F.B.R. KN /M
+
+// Газовые горелки F.B.R. GAS P /M
+
+$modalPumpDesc_11_1 = '<p class="burners-modal-info__content-right_description main-desc">11 - 1</p>';
+$modalPumpTable_11_1 = '11 - 1';
+
+$modalPumpDesc_11_2 = '<p class="burners-modal-info__content-right_description main-desc">11 - 2</p>';
+$modalPumpTable_11_2 = '11 - 2';
+
+$modalPumpDesc_11_3 = '<p class="burners-modal-info__content-right_description main-desc">11 - 3</p>';
+$modalPumpTable_11_3 = '11 - 3';
+
+$modalPumpDesc_11_4 = '<p class="burners-modal-info__content-right_description main-desc">11 - 4</p>';
+$modalPumpTable_11_4 = '11 - 4';
+
+$modalPumpDesc_11_5 = '<p class="burners-modal-info__content-right_description main-desc">11 - 5</p>';
+$modalPumpTable_11_5 = '11 - 5';
+
+$modalPumpDesc_11_6 = '<p class="burners-modal-info__content-right_description main-desc">11 - 6</p>';
+$modalPumpTable_11_6 = '11 - 6';
+
+$modalPumpDesc_11_7 = '<p class="burners-modal-info__content-right_description main-desc">11 - 7</p>';
+$modalPumpTable_11_7 = '11 - 7';
+
+$modalPumpDesc_11_8 = '<p class="burners-modal-info__content-right_description main-desc">11 - 8</p>';
+$modalPumpTable_11_8 = '11 - 8';
+
+$modalPumpDesc_11_9 = '<p class="burners-modal-info__content-right_description main-desc">11 - 9</p>';
+$modalPumpTable_11_9 = '11 - 9';
+
+$modalPumpDesc_11_10 = '<p class="burners-modal-info__content-right_description main-desc">11 - 10</p>';
+$modalPumpTable_11_10 = '11 - 10';
+
+$modalPumpDesc_11_11 = '<p class="burners-modal-info__content-right_description main-desc">11 - 11</p>';
+$modalPumpTable_11_11 = '11 - 11';
+
+$modalPumpDesc_11_12 = '<p class="burners-modal-info__content-right_description main-desc">11 - 12</p>';
+$modalPumpTable_11_12 = '11 - 12';
+
+$modalPumpDesc_11_13 = '<p class="burners-modal-info__content-right_description main-desc">11 - 13</p>';
+$modalPumpTable_11_13 = '11 - 13';
+
+$modalPumpDesc_11_14 = '<p class="burners-modal-info__content-right_description main-desc">11 - 14</p>';
+$modalPumpTable_11_14 = '11 - 14';
+
+$modalPumpDesc_11_15 = '<p class="burners-modal-info__content-right_description main-desc">11 - 15</p>';
+$modalPumpTable_11_15 = '11 - 15';
+
+$modalPumpDesc_11_16 = '<p class="burners-modal-info__content-right_description main-desc">11 - 16</p>';
+$modalPumpTable_11_16 = '11 - 16';
+
+$modalPumpDesc_11_17 = '<p class="burners-modal-info__content-right_description main-desc">11 - 17</p>';
+$modalPumpTable_11_17 = '11 - 17';
+
+$modalPumpDesc_11_18 = '<p class="burners-modal-info__content-right_description main-desc">11 - 18</p>';
+$modalPumpTable_11_18 = '11 - 18';
+
+$modalPumpDesc_11_19 = '<p class="burners-modal-info__content-right_description main-desc">11 - 19</p>';
+$modalPumpTable_11_19 = '11 - 19';
+
+$modalPumpDesc_11_20 = '<p class="burners-modal-info__content-right_description main-desc">11 - 20</p>';
+$modalPumpTable_11_20 = '11 - 20';
+
+$modalPumpDesc_11_21 = '<p class="burners-modal-info__content-right_description main-desc">11 - 21</p>';
+$modalPumpTable_11_21 = '11 - 21';
+
+$modalPumpDesc_11_22 = '<p class="burners-modal-info__content-right_description main-desc">11 - 22</p>';
+$modalPumpTable_11_22 = '11 - 22';
+
+$modalPumpDesc_11_23 = '<p class="burners-modal-info__content-right_description main-desc">11 - 23</p>';
+$modalPumpTable_11_23 = '11 - 23';
+
+$modalPumpDesc_11_24 = '<p class="burners-modal-info__content-right_description main-desc">11 - 24</p>';
+$modalPumpTable_11_24 = '11 - 24';
+
+$modalPumpDesc_11_25 = '<p class="burners-modal-info__content-right_description main-desc">11 - 25</p>';
+$modalPumpTable_11_25 = '11 - 25';
+
+$modalPumpDesc_11_26 = '<p class="burners-modal-info__content-right_description main-desc">11 - 26</p>';
+$modalPumpTable_11_26 = '11 - 26';
+
+$modalPumpDesc_11_27 = '<p class="burners-modal-info__content-right_description main-desc">11 - 27</p>';
+$modalPumpTable_11_27 = '11 - 27';
+
+$modalPumpDesc_11_28 = '<p class="burners-modal-info__content-right_description main-desc">11 - 28</p>';
+$modalPumpTable_11_28 = '11 - 28';
+
+$modalPumpDesc_11_29 = '<p class="burners-modal-info__content-right_description main-desc">11 - 29</p>';
+$modalPumpTable_11_29 = '11 - 29';
+
+$modalPumpDesc_11_30 = '<p class="burners-modal-info__content-right_description main-desc">11 - 30</p>';
+$modalPumpTable_11_30 = '11 - 30';
+
+$modalPumpDesc_11_31 = '<p class="burners-modal-info__content-right_description main-desc">11 - 31</p>';
+$modalPumpTable_11_31 = '11 - 31';
+
+$modalPumpDesc_11_32 = '<p class="burners-modal-info__content-right_description main-desc">11 - 32</p>';
+$modalPumpTable_11_32 = '11 - 32';
+
+$modalPumpDesc_11_33 = '<p class="burners-modal-info__content-right_description main-desc">11 - 33</p>';
+$modalPumpTable_11_33 = '11 - 33';
+
+$modalPumpDesc_11_34 = '<p class="burners-modal-info__content-right_description main-desc">11 - 34</p>';
+$modalPumpTable_11_34 = '11 - 34';
+
+$modalPumpDesc_11_35 = '<p class="burners-modal-info__content-right_description main-desc">11 - 35</p>';
+$modalPumpTable_11_35 = '11 - 35';
+
+$modalPumpDesc_11_36 = '<p class="burners-modal-info__content-right_description main-desc">11 - 36</p>';
+$modalPumpTable_11_36 = '11 - 36';
+
+$modalPumpDesc_11_37 = '<p class="burners-modal-info__content-right_description main-desc">11 - 37</p>';
+$modalPumpTable_11_37 = '11 - 37';
+
+$modalPumpDesc_11_38 = '<p class="burners-modal-info__content-right_description main-desc">11 - 38</p>';
+$modalPumpTable_11_38 = '11 - 38';
+
+$modalPumpDesc_11_39 = '<p class="burners-modal-info__content-right_description main-desc">11 - 39</p>';
+$modalPumpTable_11_39 = '11 - 39';
+
+$modalPumpDesc_11_40 = '<p class="burners-modal-info__content-right_description main-desc">11 - 40</p>';
+$modalPumpTable_11_40 = '11 - 40';
+
+$modalPumpDesc_11_41 = '<p class="burners-modal-info__content-right_description main-desc">11 - 41</p>';
+$modalPumpTable_11_41 = '11 - 41';
+
+$modalPumpDesc_11_42 = '<p class="burners-modal-info__content-right_description main-desc">11 - 42</p>';
+$modalPumpTable_11_42 = '11 - 42';
+
+$modalPumpDesc_11_43 = '<p class="burners-modal-info__content-right_description main-desc">11 - 43</p>';
+$modalPumpTable_11_43 = '11 - 43';
+
+$modalPumpDesc_11_44 = '<p class="burners-modal-info__content-right_description main-desc">11 - 44</p>';
+$modalPumpTable_11_44 = '11 - 44';
+
+$modalPumpDesc_11_45 = '<p class="burners-modal-info__content-right_description main-desc">11 - 45</p>';
+$modalPumpTable_11_45 = '11 - 45';
+
+$modalPumpDesc_11_46 = '<p class="burners-modal-info__content-right_description main-desc">11 - 46</p>';
+$modalPumpTable_11_46 = '11 - 46';
+
+$modalPumpDesc_11_47 = '<p class="burners-modal-info__content-right_description main-desc">11 - 47</p>';
+$modalPumpTable_11_47 = '11 - 47';
+
+$modalPumpDesc_11_48 = '<p class="burners-modal-info__content-right_description main-desc">11 - 48</p>';
+$modalPumpTable_11_48 = '11 - 48';
+
+$modalPumpDesc_11_49 = '<p class="burners-modal-info__content-right_description main-desc">11 - 49</p>';
+$modalPumpTable_11_49 = '11 - 49';
+
+$modalPumpDesc_11_50 = '<p class="burners-modal-info__content-right_description main-desc">11 - 50</p>';
+$modalPumpTable_11_50 = '11 - 50';
+
+$modalPumpDesc_11_51 = '<p class="burners-modal-info__content-right_description main-desc">11 - 51</p>';
+$modalPumpTable_11_51 = '11 - 51';
+
+$modalPumpDesc_11_52 = '<p class="burners-modal-info__content-right_description main-desc">11 - 52</p>';
+$modalPumpTable_11_52 = '11 - 52';
+
+$modalPumpDesc_11_53 = '<p class="burners-modal-info__content-right_description main-desc">11 - 53</p>';
+$modalPumpTable_11_53 = '11 - 53';
+
+$modalPumpDesc_11_54 = '<p class="burners-modal-info__content-right_description main-desc">11 - 54</p>';
+$modalPumpTable_11_54 = '11 - 54';
+
+$modalPumpDesc_11_55 = '<p class="burners-modal-info__content-right_description main-desc">11 - 55</p>';
+$modalPumpTable_11_55 = '11 - 55';
+
+$modalPumpDesc_11_56 = '<p class="burners-modal-info__content-right_description main-desc">11 - 56</p>';
+$modalPumpTable_11_56 = '11 - 56';
+
+$modalPumpDesc_11_57 = '<p class="burners-modal-info__content-right_description main-desc">11 - 57</p>';
+$modalPumpTable_11_57 = '11 - 57';
+
+$modalPumpDesc_11_58 = '<p class="burners-modal-info__content-right_description main-desc">11 - 58</p>';
+$modalPumpTable_11_58 = '11 - 58';
+
+$modalPumpDesc_11_59 = '<p class="burners-modal-info__content-right_description main-desc">11 - 59</p>';
+$modalPumpTable_11_59 = '11 - 59';
+
+$modalPumpDesc_11_60 = '<p class="burners-modal-info__content-right_description main-desc">11 - 60</p>';
+$modalPumpTable_11_60 = '11 - 60';
+
+$modalPumpDesc_11_61 = '<p class="burners-modal-info__content-right_description main-desc">11 - 61</p>';
+$modalPumpTable_11_61 = '11 - 61';
+
+$modalPumpDesc_11_62 = '<p class="burners-modal-info__content-right_description main-desc">11 - 62</p>';
+$modalPumpTable_11_62 = '11 - 62';
+
+$modalPumpDesc_11_63 = '<p class="burners-modal-info__content-right_description main-desc">11 - 63</p>';
+$modalPumpTable_11_63 = '11 - 63';
+
+$modalPumpDesc_11_64 = '<p class="burners-modal-info__content-right_description main-desc">11 - 64</p>';
+$modalPumpTable_11_64 = '11 - 64';
+
+$modalPumpDesc_11_65 = '<p class="burners-modal-info__content-right_description main-desc">11 - 65</p>';
+$modalPumpTable_11_65 = '11 - 65';
+
+$modalPumpDesc_11_66 = '<p class="burners-modal-info__content-right_description main-desc">11 - 66</p>';
+$modalPumpTable_11_66 = '11 - 66';
+
+$modalPumpDesc_11_67 = '<p class="burners-modal-info__content-right_description main-desc">11 - 67</p>';
+$modalPumpTable_11_67 = '11 - 67';
+
+$modalPumpDesc_11_68 = '<p class="burners-modal-info__content-right_description main-desc">11 - 68</p>';
+$modalPumpTable_11_68 = '11 - 68';
+
+$modalPumpDesc_11_69 = '<p class="burners-modal-info__content-right_description main-desc">11 - 69</p>';
+$modalPumpTable_11_69 = '11 - 69';
+
+$modalPumpDesc_11_70 = '<p class="burners-modal-info__content-right_description main-desc">11 - 70</p>';
+$modalPumpTable_11_70 = '11 - 70';
+
+$modalPumpDesc_11_71 = '<p class="burners-modal-info__content-right_description main-desc">11 - 71</p>';
+$modalPumpTable_11_71 = '11 - 71';
+
+$modalPumpDesc_11_72 = '<p class="burners-modal-info__content-right_description main-desc">11 - 72</p>';
+$modalPumpTable_11_72 = '11 - 72';
+
+$modalPumpDesc_11_73 = '<p class="burners-modal-info__content-right_description main-desc">11 - 73</p>';
+$modalPumpTable_11_73 = '11 - 73';
+
+$modalPumpDesc_11_74 = '<p class="burners-modal-info__content-right_description main-desc">11 - 74</p>';
+$modalPumpTable_11_74 = '11 - 74';
+
+$modalPumpDesc_11_75 = '<p class="burners-modal-info__content-right_description main-desc">11 - 75</p>';
+$modalPumpTable_11_75 = '11 - 75';
+
+$modalPumpDesc_11_76 = '<p class="burners-modal-info__content-right_description main-desc">11 - 76</p>';
+$modalPumpTable_11_76 = '11 - 76';
+
+$modalPumpDesc_11_77 = '<p class="burners-modal-info__content-right_description main-desc">11 - 77</p>';
+$modalPumpTable_11_77 = '11 - 77';
+
+$modalPumpDesc_11_78 = '<p class="burners-modal-info__content-right_description main-desc">11 - 78</p>';
+$modalPumpTable_11_78 = '11 - 78';
+
+$modalPumpDesc_11_79 = '<p class="burners-modal-info__content-right_description main-desc">11 - 79</p>';
+$modalPumpTable_11_79 = '11 - 79';
+
+$modalPumpDesc_11_80 = '<p class="burners-modal-info__content-right_description main-desc">11 - 80</p>';
+$modalPumpTable_11_80 = '11 - 80';
+
+$modalPumpDesc_11_81 = '<p class="burners-modal-info__content-right_description main-desc">11 - 81</p>';
+$modalPumpTable_11_81 = '11 - 81';
+
+$modalPumpDesc_11_82 = '<p class="burners-modal-info__content-right_description main-desc">11 - 82</p>';
+$modalPumpTable_11_82 = '11 - 82';
+
+$modalPumpDesc_11_83 = '<p class="burners-modal-info__content-right_description main-desc">11 - 83</p>';
+$modalPumpTable_11_83 = '11 - 83';
+
+$modalPumpDesc_11_84 = '<p class="burners-modal-info__content-right_description main-desc">11 - 84</p>';
+$modalPumpTable_11_84 = '11 - 84';
+
+$modalPumpDesc_11_85 = '<p class="burners-modal-info__content-right_description main-desc">11 - 85</p>';
+$modalPumpTable_11_85 = '11 - 85';
+
+$modalPumpDesc_11_86 = '<p class="burners-modal-info__content-right_description main-desc">11 - 86</p>';
+$modalPumpTable_11_86 = '11 - 86';
+
+$modalPumpDesc_11_87 = '<p class="burners-modal-info__content-right_description main-desc">11 - 87</p>';
+$modalPumpTable_11_87 = '11 - 87';
+
+$modalPumpDesc_11_88 = '<p class="burners-modal-info__content-right_description main-desc">11 - 88</p>';
+$modalPumpTable_11_88 = '11 - 88';
+
+$modalPumpDesc_11_89 = '<p class="burners-modal-info__content-right_description main-desc">11 - 89</p>';
+$modalPumpTable_11_89 = '11 - 89';
+
+$modalPumpDesc_11_90 = '<p class="burners-modal-info__content-right_description main-desc">11 - 90</p>';
+$modalPumpTable_11_90 = '11 - 90';
+
+$modalPumpDesc_11_91 = '<p class="burners-modal-info__content-right_description main-desc">11 - 91</p>';
+$modalPumpTable_11_91 = '11 - 91';
+
+$modalPumpDesc_11_92 = '<p class="burners-modal-info__content-right_description main-desc">11 - 92</p>';
+$modalPumpTable_11_92 = '11 - 92';
+
+$modalPumpDesc_11_93 = '<p class="burners-modal-info__content-right_description main-desc">11 - 93</p>';
+$modalPumpTable_11_93 = '11 - 93';
+
+$modalPumpDesc_11_94 = '<p class="burners-modal-info__content-right_description main-desc">11 - 94</p>';
+$modalPumpTable_11_94 = '11 - 94';			
+
+
+// Газовые горелки F.B.R. GAS P /M EL
+
+$modalPumpDesc_12_1 = '<p class="burners-modal-info__content-right_description main-desc">12 - 1</p>';
+$modalPumpTable_12_1 = '12 - 1';
+
+$modalPumpDesc_12_2 = '<p class="burners-modal-info__content-right_description main-desc">12 - 2</p>';
+$modalPumpTable_12_2 = '12 - 2';
+
+$modalPumpDesc_12_3 = '<p class="burners-modal-info__content-right_description main-desc">12 - 3</p>';
+$modalPumpTable_12_3 = '12 - 3';
+
+$modalPumpDesc_12_4 = '<p class="burners-modal-info__content-right_description main-desc">12 - 4</p>';
+$modalPumpTable_12_4 = '12 - 4';
+
+$modalPumpDesc_12_5 = '<p class="burners-modal-info__content-right_description main-desc">12 - 5</p>';
+$modalPumpTable_12_5 = '12 - 5';
+
+$modalPumpDesc_12_6 = '<p class="burners-modal-info__content-right_description main-desc">12 - 6</p>';
+$modalPumpTable_12_6 = '12 - 6';
+
+$modalPumpDesc_12_7 = '<p class="burners-modal-info__content-right_description main-desc">12 - 7</p>';
+$modalPumpTable_12_7 = '12 - 7';
+
+$modalPumpDesc_12_8 = '<p class="burners-modal-info__content-right_description main-desc">12 - 8</p>';
+$modalPumpTable_12_8 = '12 - 8';
+
+$modalPumpDesc_12_9 = '<p class="burners-modal-info__content-right_description main-desc">12 - 9</p>';
+$modalPumpTable_12_9 = '12 - 9';
+
+$modalPumpDesc_12_10 = '<p class="burners-modal-info__content-right_description main-desc">12 - 10</p>';
+$modalPumpTable_12_10 = '12 - 10';
+
+// Газовые горелки F.B.R. HI
+
+$modalPumpDesc_13_1 = '<p class="burners-modal-info__content-right_description main-desc">13 - 1</p>';
+$modalPumpTable_13_1 = '13 - 1';
+
+$modalPumpDesc_13_2 = '<p class="burners-modal-info__content-right_description main-desc">13 - 2</p>';
+$modalPumpTable_13_2 = '13 - 2';
+
+$modalPumpDesc_13_3 = '<p class="burners-modal-info__content-right_description main-desc">13 - 3</p>';
+$modalPumpTable_13_3 = '13 - 3';
+
+$modalPumpDesc_13_4 = '<p class="burners-modal-info__content-right_description main-desc">13 - 4</p>';
+$modalPumpTable_13_4 = '13 - 4';
+
+$modalPumpDesc_13_5 = '<p class="burners-modal-info__content-right_description main-desc">13 - 5</p>';
+$modalPumpTable_13_5 = '13 - 5';
+
+$modalPumpDesc_13_6 = '<p class="burners-modal-info__content-right_description main-desc">13 - 6</p>';
+$modalPumpTable_13_6 = '13 - 6';
+
+$modalPumpDesc_13_7 = '<p class="burners-modal-info__content-right_description main-desc">13 - 7</p>';
+$modalPumpTable_13_7 = '13 - 7';
+
+$modalPumpDesc_13_8 = '<p class="burners-modal-info__content-right_description main-desc">13 - 8</p>';
+$modalPumpTable_13_8 = '13 - 8';
+
+$modalPumpDesc_13_9 = '<p class="burners-modal-info__content-right_description main-desc">13 - 9</p>';
+$modalPumpTable_13_9 = '13 - 9';
+
+$modalPumpDesc_13_10 = '<p class="burners-modal-info__content-right_description main-desc">13 - 10</p>';
+$modalPumpTable_13_10 = '13 - 10';
+
+$modalPumpDesc_13_11 = '<p class="burners-modal-info__content-right_description main-desc">13 - 11</p>';
+$modalPumpTable_13_11 = '13 - 11';
+
+$modalPumpDesc_13_12 = '<p class="burners-modal-info__content-right_description main-desc">13 - 12</p>';
+$modalPumpTable_13_12 = '13 - 12';
+
+
+// Мазутные горелки F.B.R. FNL
 
 $modalPumpDesc_4_1_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
 $modalPumpTable_4_1_1 = '1';
@@ -603,47 +960,7 @@ $modalPumpTable_4_1_5 = '5';
 $modalPumpDesc_4_1_6 = '<p class="burners-modal-info__content-right_description main-desc">6</p>';
 $modalPumpTable_4_1_6 = '6'; 
 
-$modalPumpDesc_4_1_7 = '<p class="burners-modal-info__content-right_description main-desc">7</p>';
-$modalPumpTable_4_1_7 = '7'; 
-
-$modalPumpDesc_4_1_8 = '<p class="burners-modal-info__content-right_description main-desc">8</p>';
-$modalPumpTable_4_1_8 = '8'; 
-
-$modalPumpDesc_4_1_9 = '<p class="burners-modal-info__content-right_description main-desc">9</p>';
-$modalPumpTable_4_1_9 = '9'; 
-
-$modalPumpDesc_4_1_10 = '<p class="burners-modal-info__content-right_description main-desc">10</p>';
-$modalPumpTable_4_1_10 = '10'; 
-
-$modalPumpDesc_4_1_11 = '<p class="burners-modal-info__content-right_description main-desc">11</p>';
-$modalPumpTable_4_1_11 = '11'; 
-
-$modalPumpDesc_4_1_12 = '<p class="burners-modal-info__content-right_description main-desc">12</p>';
-$modalPumpTable_4_1_12 = '12'; 
-
-$modalPumpDesc_4_1_13 = '<p class="burners-modal-info__content-right_description main-desc">13</p>';
-$modalPumpTable_4_1_13 = '13'; 
-
-$modalPumpDesc_4_1_14 = '<p class="burners-modal-info__content-right_description main-desc">14</p>';
-$modalPumpTable_4_1_14 = '14'; 
-
-$modalPumpDesc_4_1_15 = '<p class="burners-modal-info__content-right_description main-desc">15</p>';
-$modalPumpTable_4_1_15 = '15'; 
-
-$modalPumpDesc_4_1_16 = '<p class="burners-modal-info__content-right_description main-desc">16</p>';
-$modalPumpTable_4_1_16 = '16'; 
-
-$modalPumpDesc_4_1_17 = '<p class="burners-modal-info__content-right_description main-desc">17</p>';
-$modalPumpTable_4_1_17 = '17'; 
-
-$modalPumpDesc_4_1_18 = '<p class="burners-modal-info__content-right_description main-desc">18</p>';
-$modalPumpTable_4_1_18 = '18'; 
-
-$modalPumpDesc_4_1_19 = '<p class="burners-modal-info__content-right_description main-desc">19</p>';
-$modalPumpTable_4_1_19 = '19';
-
-
-// Газомазутные горелки F.B.R. KN /M EL
+// Мазутные горелки F.B.R. FNDL
 
 $modalPumpDesc_4_2_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
 $modalPumpTable_4_2_1 = '1';
@@ -663,19 +980,481 @@ $modalPumpTable_4_2_5 = '5';
 $modalPumpDesc_4_2_6 = '<p class="burners-modal-info__content-right_description main-desc">6</p>';
 $modalPumpTable_4_2_6 = '6'; 
 
-$modalPumpDesc_4_2_7 = '<p class="burners-modal-info__content-right_description main-desc">7</p>';
-$modalPumpTable_4_2_7 = '7'; 
 
-$modalPumpDesc_4_2_8 = '<p class="burners-modal-info__content-right_description main-desc">8</p>';
-$modalPumpTable_4_2_8 = '8'; 
-
-$modalPumpDesc_4_2_9 = '<p class="burners-modal-info__content-right_description main-desc">9</p>';
-$modalPumpTable_4_2_9 = '9'; 
-
-$modalPumpDesc_4_2_10 = '<p class="burners-modal-info__content-right_description main-desc">10</p>';
-$modalPumpTable_4_2_10 = '10'; 
-
-// HI-KN /M TL
+// Мазутные горелки F.B.R. FNP /2
 
 $modalPumpDesc_4_3_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
 $modalPumpTable_4_3_1 = '1';
+
+$modalPumpDesc_4_3_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_4_3_2 = '2'; 
+
+$modalPumpDesc_4_3_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_4_3_3 = '3'; 
+
+$modalPumpDesc_4_3_4 = '<p class="burners-modal-info__content-right_description main-desc">4</p>';
+$modalPumpTable_4_3_4 = '4'; 
+
+$modalPumpDesc_4_3_5 = '<p class="burners-modal-info__content-right_description main-desc">5</p>';
+$modalPumpTable_4_3_5 = '5'; 
+
+$modalPumpDesc_4_3_6 = '<p class="burners-modal-info__content-right_description main-desc">6</p>';
+$modalPumpTable_4_3_6 = '6'; 
+
+$modalPumpDesc_4_3_7 = '<p class="burners-modal-info__content-right_description main-desc">7</p>';
+$modalPumpTable_4_3_7 = '7'; 
+
+$modalPumpDesc_4_3_8 = '<p class="burners-modal-info__content-right_description main-desc">8</p>';
+$modalPumpTable_4_3_8 = '8'; 
+
+$modalPumpDesc_4_3_9 = '<p class="burners-modal-info__content-right_description main-desc">9</p>';
+$modalPumpTable_4_3_9 = '9'; 
+
+$modalPumpDesc_4_3_10 = '<p class="burners-modal-info__content-right_description main-desc">10</p>';
+$modalPumpTable_4_3_10 = '10'; 
+
+$modalPumpDesc_4_3_11 = '<p class="burners-modal-info__content-right_description main-desc">11</p>';
+$modalPumpTable_4_3_11 = '11'; 
+
+$modalPumpDesc_4_3_12 = '<p class="burners-modal-info__content-right_description main-desc">12</p>';
+$modalPumpTable_4_3_12 = '12'; 
+
+
+// Мазутные горелки F.B.R. FNDP /2
+
+$modalPumpDesc_4_4_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_4_4_1 = '1';
+
+$modalPumpDesc_4_4_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_4_4_2 = '2'; 
+
+$modalPumpDesc_4_4_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_4_4_3 = '3'; 
+
+$modalPumpDesc_4_4_4 = '<p class="burners-modal-info__content-right_description main-desc">4</p>';
+$modalPumpTable_4_4_4 = '4'; 
+
+$modalPumpDesc_4_4_5 = '<p class="burners-modal-info__content-right_description main-desc">5</p>';
+$modalPumpTable_4_4_5 = '5'; 
+
+$modalPumpDesc_4_4_6 = '<p class="burners-modal-info__content-right_description main-desc">6</p>';
+$modalPumpTable_4_4_6 = '6'; 
+
+$modalPumpDesc_4_4_7 = '<p class="burners-modal-info__content-right_description main-desc">7</p>';
+$modalPumpTable_4_4_7 = '7'; 
+
+$modalPumpDesc_4_4_8 = '<p class="burners-modal-info__content-right_description main-desc">8</p>';
+$modalPumpTable_4_4_8 = '8'; 
+
+$modalPumpDesc_4_4_9 = '<p class="burners-modal-info__content-right_description main-desc">9</p>';
+$modalPumpTable_4_4_9 = '9'; 
+
+$modalPumpDesc_4_4_10 = '<p class="burners-modal-info__content-right_description main-desc">10</p>';
+$modalPumpTable_4_4_10 = '10'; 
+
+$modalPumpDesc_4_4_11 = '<p class="burners-modal-info__content-right_description main-desc">11</p>';
+$modalPumpTable_4_4_11 = '11'; 
+
+$modalPumpDesc_4_4_12 = '<p class="burners-modal-info__content-right_description main-desc">12</p>';
+$modalPumpTable_4_4_12 = '12'; 
+
+$modalPumpDesc_4_4_13 = '<p class="burners-modal-info__content-right_description main-desc">13</p>';
+$modalPumpTable_4_4_13 = '13'; 
+
+$modalPumpDesc_4_4_14 = '<p class="burners-modal-info__content-right_description main-desc">14</p>';
+$modalPumpTable_4_4_14 = '14'; 
+
+// Мазутные горелки F.B.R. FNDP /3
+
+$modalPumpDesc_4_5_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_4_5_1 = '1';
+
+$modalPumpDesc_4_5_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_4_5_2 = '2'; 
+
+$modalPumpDesc_4_5_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_4_5_3 = '3'; 
+
+
+// Мазутные горелки F.B.R. FNDP /M
+
+$modalPumpDesc_4_6_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_4_6_1 = '1';
+
+$modalPumpDesc_4_6_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_4_6_2 = '2'; 
+
+$modalPumpDesc_4_6_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_4_6_3 = '3'; 
+
+$modalPumpDesc_4_6_4 = '<p class="burners-modal-info__content-right_description main-desc">4</p>';
+$modalPumpTable_4_6_4 = '4'; 
+
+$modalPumpDesc_4_6_5 = '<p class="burners-modal-info__content-right_description main-desc">5</p>';
+$modalPumpTable_4_6_5 = '5'; 
+
+$modalPumpDesc_4_6_6 = '<p class="burners-modal-info__content-right_description main-desc">6</p>';
+$modalPumpTable_4_6_6 = '6'; 
+
+$modalPumpDesc_4_6_7 = '<p class="burners-modal-info__content-right_description main-desc">7</p>';
+$modalPumpTable_4_6_7 = '7'; 
+
+$modalPumpDesc_4_6_8 = '<p class="burners-modal-info__content-right_description main-desc">8</p>';
+$modalPumpTable_4_6_8 = '8'; 
+
+$modalPumpDesc_4_6_9 = '<p class="burners-modal-info__content-right_description main-desc">9</p>';
+$modalPumpTable_4_6_9 = '9'; 
+
+$modalPumpDesc_4_6_10 = '<p class="burners-modal-info__content-right_description main-desc">10</p>';
+$modalPumpTable_4_6_10 = '10'; 
+
+$modalPumpDesc_4_6_11 = '<p class="burners-modal-info__content-right_description main-desc">11</p>';
+$modalPumpTable_4_6_11 = '11'; 
+
+$modalPumpDesc_4_6_12 = '<p class="burners-modal-info__content-right_description main-desc">12</p>';
+$modalPumpTable_4_6_12 = '12'; 
+
+$modalPumpDesc_4_6_13 = '<p class="burners-modal-info__content-right_description main-desc">13</p>';
+$modalPumpTable_4_6_13 = '13'; 
+
+// Мазутные горелки F.B.R. FNDP /M EL
+
+$modalPumpDesc_4_7_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_4_7_1 = '1';
+
+$modalPumpDesc_4_7_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_4_7_2 = '2'; 
+
+$modalPumpDesc_4_7_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_4_7_3 = '3'; 
+
+// Мазутные горелки F.B.R. HI
+
+$modalPumpDesc_4_8_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_4_8_1 = '1';
+
+// 
+
+$modalPumpDesc_5_1_1 = '<p class="burners-modal-info__content-right_description main-desc">1fdfdffs</p>';
+$modalPumpTable_5_1_1 = '1fdfdf';
+
+$modalPumpDesc_5_1_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_5_1_2 = '2'; 
+
+$modalPumpDesc_5_1_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_5_1_3 = '3'; 
+
+$modalPumpDesc_5_1_4 = '<p class="burners-modal-info__content-right_description main-desc">4</p>';
+$modalPumpTable_5_1_4 = '4'; 
+
+$modalPumpDesc_5_1_5 = '<p class="burners-modal-info__content-right_description main-desc">5</p>';
+$modalPumpTable_5_1_5 = '5'; 
+
+$modalPumpDesc_5_1_6 = '<p class="burners-modal-info__content-right_description main-desc">6</p>';
+$modalPumpTable_5_1_6 = '6'; 
+
+$modalPumpDesc_5_1_7 = '<p class="burners-modal-info__content-right_description main-desc">7</p>';
+$modalPumpTable_5_1_7 = '7'; 
+
+$modalPumpDesc_5_1_8 = '<p class="burners-modal-info__content-right_description main-desc">8</p>';
+$modalPumpTable_5_1_8 = '8'; 
+
+$modalPumpDesc_5_1_9 = '<p class="burners-modal-info__content-right_description main-desc">9</p>';
+$modalPumpTable_5_1_9 = '9'; 
+
+$modalPumpDesc_5_1_10 = '<p class="burners-modal-info__content-right_description main-desc">10</p>';
+$modalPumpTable_5_1_10 = '10'; 
+
+// 
+
+$modalPumpDesc_5_2_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_5_2_1 = '1';
+
+$modalPumpDesc_5_2_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_5_2_2 = '2'; 
+
+$modalPumpDesc_5_2_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_5_2_3 = '3'; 
+
+// 
+
+$modalPumpDesc_5_3_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_5_3_1 = '1';
+
+$modalPumpDesc_5_3_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_5_3_2 = '2'; 
+
+$modalPumpDesc_5_3_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_5_3_3 = '3'; 
+
+// 
+
+$modalPumpDesc_5_4_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_5_4_1 = '1';
+
+$modalPumpDesc_5_4_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_5_4_2 = '2'; 
+
+$modalPumpDesc_5_4_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_5_4_3 = '3'; 
+
+// 
+
+$modalPumpDesc_5_5_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_5_5_1 = '1';
+
+$modalPumpDesc_5_5_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_5_5_2 = '2'; 
+
+$modalPumpDesc_5_5_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_5_5_3 = '3'; 
+
+// 
+
+$modalPumpDesc_5_6_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_5_6_1 = '1';
+
+$modalPumpDesc_5_6_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_5_6_2 = '2'; 
+
+$modalPumpDesc_5_6_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_5_6_3 = '3'; 
+
+$modalPumpDesc_5_6_4 = '<p class="burners-modal-info__content-right_description main-desc">4</p>';
+$modalPumpTable_5_6_4 = '4'; 
+
+$modalPumpDesc_5_6_5 = '<p class="burners-modal-info__content-right_description main-desc">5</p>';
+$modalPumpTable_5_6_5 = '5'; 
+
+$modalPumpDesc_5_6_6 = '<p class="burners-modal-info__content-right_description main-desc">6</p>';
+$modalPumpTable_5_6_6 = '6'; 
+
+$modalPumpDesc_5_6_7 = '<p class="burners-modal-info__content-right_description main-desc">7</p>';
+$modalPumpTable_5_6_7 = '7'; 
+
+$modalPumpDesc_5_6_8 = '<p class="burners-modal-info__content-right_description main-desc">8</p>';
+$modalPumpTable_5_6_8 = '8'; 
+
+$modalPumpDesc_5_6_9 = '<p class="burners-modal-info__content-right_description main-desc">9</p>';
+$modalPumpTable_5_6_9 = '9'; 
+
+$modalPumpDesc_5_6_10 = '<p class="burners-modal-info__content-right_description main-desc">10</p>';
+$modalPumpTable_5_6_10 = '10'; 
+
+// 
+
+$modalPumpDesc_5_7_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_5_7_1 = '1s	\zd';
+
+$modalPumpDesc_5_7_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_5_7_2 = '2s	\zd'; 
+
+// 
+
+$modalPumpDesc_5_8_1 = '<p class="burners-modal-info__content-right_description main-desc">1 - 8</p>';
+$modalPumpTable_5_8_1 = '1 -8';
+
+$modalPumpDesc_5_8_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_5_8_2 = '2'; 
+
+$modalPumpDesc_5_8_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_5_8_3 = '3'; 
+
+$modalPumpDesc_5_8_4 = '<p class="burners-modal-info__content-right_description main-desc">4</p>';
+$modalPumpTable_5_8_4 = '4'; 
+
+$modalPumpDesc_5_8_5 = '<p class="burners-modal-info__content-right_description main-desc">5</p>';
+$modalPumpTable_5_8_5 = '5'; 
+
+$modalPumpDesc_5_8_6 = '<p class="burners-modal-info__content-right_description main-desc">6</p>';
+$modalPumpTable_5_8_6 = '6'; 
+
+$modalPumpDesc_5_8_7 = '<p class="burners-modal-info__content-right_description main-desc">7</p>';
+$modalPumpTable_5_8_7 = '7'; 
+
+$modalPumpDesc_5_8_8 = '<p class="burners-modal-info__content-right_description main-desc">8</p>';
+$modalPumpTable_5_8_8 = '8'; 
+
+// 
+
+$modalPumpDesc_5_9_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_5_9_1 = '1';
+
+$modalPumpDesc_5_9_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_5_9_2 = '2'; 
+
+$modalPumpDesc_5_9_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_5_9_3 = '3'; 
+
+// 
+
+$modalPumpDesc_5_10_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_5_10_1 = '1';
+
+$modalPumpDesc_5_10_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_5_10_2 = '2'; 
+
+$modalPumpDesc_5_10_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_5_10_3 = '3'; 
+
+$modalPumpDesc_5_10_4 = '<p class="burners-modal-info__content-right_description main-desc">4</p>';
+$modalPumpTable_5_10_4 = '4'; 
+
+$modalPumpDesc_5_10_5 = '<p class="burners-modal-info__content-right_description main-desc">5</p>';
+$modalPumpTable_5_10_5 = '5'; 
+
+$modalPumpDesc_5_10_6 = '<p class="burners-modal-info__content-right_description main-desc">6</p>';
+$modalPumpTable_5_10_6 = '6'; 
+
+$modalPumpDesc_5_10_7 = '<p class="burners-modal-info__content-right_description main-desc">7</p>';
+$modalPumpTable_5_10_7 = '7'; 
+
+$modalPumpDesc_5_10_8 = '<p class="burners-modal-info__content-right_description main-desc">8</p>';
+$modalPumpTable_5_10_8 = '8'; 
+
+$modalPumpDesc_5_10_9 = '<p class="burners-modal-info__content-right_description main-desc">9</p>';
+$modalPumpTable_5_10_9 = '9'; 
+
+// 
+
+$modalPumpDesc_5_11_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_5_11_1 = '1';
+
+// 
+
+$modalPumpDesc_5_12_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_5_12_1 = '1';
+
+
+// 
+
+$modalPumpDesc_5_13_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_5_13_1 = '1';
+
+$modalPumpDesc_5_13_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_5_13_2 = '2'; 
+
+$modalPumpDesc_5_13_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_5_13_3 = '3'; 
+
+$modalPumpDesc_5_13_4 = '<p class="burners-modal-info__content-right_description main-desc">4</p>';
+$modalPumpTable_5_13_4 = '4'; 
+
+//
+
+$modalPumpDesc_5_14_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_5_14_1 = '1';
+
+$modalPumpDesc_5_14_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_5_14_2 = '2'; 
+
+$modalPumpDesc_5_14_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_5_14_3 = '3'; 
+
+$modalPumpDesc_5_14_4 = '<p class="burners-modal-info__content-right_description main-desc">4</p>';
+$modalPumpTable_5_14_4 = '4'; 
+
+$modalPumpDesc_5_14_5 = '<p class="burners-modal-info__content-right_description main-desc">5</p>';
+$modalPumpTable_5_14_5 = '5'; 
+
+$modalPumpDesc_5_14_6 = '<p class="burners-modal-info__content-right_description main-desc">6</p>';
+$modalPumpTable_5_14_6 = '6'; 
+
+$modalPumpDesc_5_14_7 = '<p class="burners-modal-info__content-right_description main-desc">7</p>';
+$modalPumpTable_5_14_7 = '7'; 
+
+$modalPumpDesc_5_14_8 = '<p class="burners-modal-info__content-right_description main-desc">8</p>';
+$modalPumpTable_5_14_8 = '8'; 
+
+$modalPumpDesc_5_14_9 = '<p class="burners-modal-info__content-right_description main-desc">9</p>';
+$modalPumpTable_5_14_9 = '9'; 
+
+$modalPumpDesc_5_14_10 = '<p class="burners-modal-info__content-right_description main-desc">10</p>';
+$modalPumpTable_5_14_10 = '10'; 
+
+$modalPumpDesc_5_14_11 = '<p class="burners-modal-info__content-right_description main-desc">11</p>';
+$modalPumpTable_5_14_11 = '11'; 
+
+$modalPumpDesc_5_14_12 = '<p class="burners-modal-info__content-right_description main-desc">12</p>';
+$modalPumpTable_5_14_12 = '12'; 
+
+//
+
+$modalPumpDesc_5_15_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_5_15_1 = '1';
+
+$modalPumpDesc_5_15_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_5_15_2 = '2'; 
+
+$modalPumpDesc_5_15_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_5_15_3 = '3'; 
+
+$modalPumpDesc_5_15_4 = '<p class="burners-modal-info__content-right_description main-desc">4</p>';
+$modalPumpTable_5_15_4 = '4'; 
+
+
+//
+
+$modalPumpDesc_5_16_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_5_16_1 = '1';
+
+$modalPumpDesc_5_16_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_5_16_2 = '2'; 
+
+$modalPumpDesc_5_16_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_5_16_3 = '3'; 
+
+$modalPumpDesc_5_16_4 = '<p class="burners-modal-info__content-right_description main-desc">4</p>';
+$modalPumpTable_5_16_4 = '4'; 
+
+$modalPumpDesc_5_16_5 = '<p class="burners-modal-info__content-right_description main-desc">5</p>';
+$modalPumpTable_5_16_5 = '5'; 
+
+$modalPumpDesc_5_16_6 = '<p class="burners-modal-info__content-right_description main-desc">6</p>';
+$modalPumpTable_5_16_6 = '6'; 
+
+$modalPumpDesc_5_16_7 = '<p class="burners-modal-info__content-right_description main-desc">7</p>';
+$modalPumpTable_5_16_7 = '7'; 
+
+$modalPumpDesc_5_16_8 = '<p class="burners-modal-info__content-right_description main-desc">8</p>';
+$modalPumpTable_5_16_8 = '8'; 
+
+$modalPumpDesc_5_16_9 = '<p class="burners-modal-info__content-right_description main-desc">9</p>';
+$modalPumpTable_5_16_9 = '9'; 
+
+$modalPumpDesc_5_16_10 = '<p class="burners-modal-info__content-right_description main-desc">10</p>';
+$modalPumpTable_5_16_10 = '10'; 
+
+$modalPumpDesc_5_16_11 = '<p class="burners-modal-info__content-right_description main-desc">11</p>';
+$modalPumpTable_5_16_11 = '11'; 
+
+$modalPumpDesc_5_16_12 = '<p class="burners-modal-info__content-right_description main-desc">12</p>';
+$modalPumpTable_5_16_12 = '12'; 
+
+$modalPumpDesc_5_16_13 = '<p class="burners-modal-info__content-right_description main-desc">13</p>';
+$modalPumpTable_5_16_13 = '13'; 
+
+$modalPumpDesc_5_16_14 = '<p class="burners-modal-info__content-right_description main-desc">14</p>';
+$modalPumpTable_5_16_14 = '14'; 
+
+$modalPumpDesc_5_16_15 = '<p class="burners-modal-info__content-right_description main-desc">15</p>';
+$modalPumpTable_5_16_15 = '15'; 
+
+$modalPumpDesc_5_16_16 = '<p class="burners-modal-info__content-right_description main-desc">16</p>';
+$modalPumpTable_5_16_16 = '16'; 
+
+//
+
+$modalPumpDesc_5_17_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_5_17_1 = '1';
+
+$modalPumpDesc_5_17_2 = '<p class="burners-modal-info__content-right_description main-desc">2</p>';
+$modalPumpTable_5_17_2 = '2'; 
+
+$modalPumpDesc_5_17_3 = '<p class="burners-modal-info__content-right_description main-desc">3</p>';
+$modalPumpTable_5_17_3 = '3'; 
+
+//
+
+$modalPumpDesc_5_18_1 = '<p class="burners-modal-info__content-right_description main-desc">1</p>';
+$modalPumpTable_5_18_1 = '1';
