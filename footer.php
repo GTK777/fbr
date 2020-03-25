@@ -40,28 +40,29 @@
 					<div class="content-footer-line">
 						<div class="footer-line-link"> 
 							<span class="footer-line-block">
-								<span class="footer-line-link-title">Популярные насосы:</span>
-								<a href="turbo-tm-1100-2200-a" class="footer-line-link">TURBO TM 1100 - 2200 A</a><span class="footer-line-space"> , </span>
-								<a href="tyr-wt-0100-0730-bv-bp" class="footer-line-link">TYR WT 0100 - 0730 BV/BP</a><span class="footer-line-space"> , </span>
-								<a href="cobra-ns-0070-0600-c" class="footer-line-link">COBRA NS 0070 - 0600 C</a><span class="footer-line-space"> , </span>
-								<a href="r-5-ra-0025-0040-f" class="footer-line-link">R 5 RA 0025 / 0040 F</a><span class="footer-line-space"> , </span>
-								<a href="samos-sb-0050-0200-d0" class="footer-line-link">SAMOS SB 0050 - 0200 D0</a><span class="footer-line-space"> , </span>
-								<a href="dolphin-la-0053-0143-a" class="footer-line-link">DOLPHIN LA 0053–0143 A</a><span class="footer-line-space"> , </span>
-								<a href="dolphin-lm-0100-0270-a" class="footer-line-link">DOLPHIN LM 0100–0270 A</a><span class="footer-line-space"> , </span>
-								<a href="puma-wpa-040-075-a" class="footer-line-link">PUMA WPA 040 - 075 A</a>
+								<span class="footer-line-link-title">Популярные горелки:</span>
+								<a href="gas-x2-ce-tl-r-ce-d3-4-s" class="footer-line-link">Газовая горелка GAS X2 CE TL + R. CE D3/4"- S</a><span class="footer-line-space"> , </span>
+								<a href="gas-x-1-2-ce-tl-r-ce-d1-2-s" class="footer-line-link">Газовая горелка GAS X 1/2 CE TL + R. CE D1/2" - S</a><span class="footer-line-space"> , </span>
+								<a href="g-0sr-lx-txc" class="footer-line-link">Дизельная горелка G 0SR LX TXC</a><span class="footer-line-space"> , </span>
+								<a href="g-0hr-2001-tc" class="footer-line-link">Дизельная горелка G 0HR 2001 TC</a><span class="footer-line-space"> , </span>
+								<a href="fndl-25-tc" class="footer-line-link">Мазутная горелка FNDL 25 TC</a><span class="footer-line-space"> , </span>
+								<a href="fndl-25-tl" class="footer-line-link">Мазутная горелка FNDL 25 TL</a><span class="footer-line-space"> , </span>
+								<a href="k-4-2-tc-r-ce-d1-s" class="footer-line-link">Комбинированная горелка K 4/2 TC + R. CE D1"-S</a><span class="footer-line-space"> , </span>
+								<a href="kn1250-m-tl-el-r-ce-ct-dn80-s-f80" class="footer-line-link">Комбинированная горелка KN1250/M TL EL + R. CE-CT DN80-S-F80</a>
 							</span>
 						</div>
 						<div class="footer-line">
 							<span class="footer-line-block">
 								<span class="footer-line-link-title">Популярные разделы:</span>
-								<a href="maslyanye-plastinchato-rotornye-vakuumnye-nasosy" class="footer-line-link">Масляные пластинчато-роторные вакуумные насосы</a><span class="footer-line-space"> , </span>
-								<a href="suhie-kulachkovye-vakuumnye-nasosy-i-kompressory" class="footer-line-link">Сухие кулачковые вакуумные насосы и компрессоры</a><span class="footer-line-space"> , </span>
-								<a href="suhie-vintovye-vakuumnye-nasosy" class="footer-line-link">Сухие винтовые вакуумные насосы</a><span class="footer-line-space"> , </span>
-								<a href="dvuhrotornye-busternye-vakuumnye-nasosy-rutsa" class="footer-line-link">Двухроторные бустерные вакуумные насосы Рутса</a><span class="footer-line-space"> , </span>
-								<a href="suhie-plastinchato-rotornye-vakuumnye-nasosy-i-kompressory" class="footer-line-link">Сухие пластинчато-роторные вакуумные насосы и компрессоры</a><span class="footer-line-space"> , </span>
-								<a href="dvuhrotornye-vozduhoduvki" class="footer-line-link">Двухроторные воздуходувки</a><span class="footer-line-space"> , </span>
-								<a href="zhidkostno-koltsevye-nasosy-i-kompressory" class="footer-line-link">Жидкостно-кольцевые вакуумные насосы и компрессоры</a><span class="footer-line-space"> , </span>
-								<a href="vihrevye-vozduhoduvki" class="footer-line-link">Вихревые воздуходувки</a><span class="footer-line-space"> , </span>
+								<a href="gazovye-gorelki" class="footer-line-link">Газовые горелки F.B.R.</a><span class="footer-line-space"> , </span>
+								<a href="gazovye-gorelki-gas-x-f" class="footer-line-link">Газовые горелки F.B.R. GAS X F</a><span class="footer-line-space"> , </span>
+								<a href="gazovye-gorelki-gas-p-m" class="footer-line-link">Газовые горелки F.B.R. GAS P /M</a><span class="footer-line-space"> , </span>
+								<a href="dizelnye-gorelki" class="footer-line-link">Дизельные горелки F.B.R.</a><span class="footer-line-space"> , </span>
+								<a href="dizelnye-gorelki-g-s" class="footer-line-link">Дизельные горелки F.B.R. G S</a><span class="footer-line-space"> , </span>
+								<a href="dizelnye-gorelki-g-h" class="footer-line-link">Дизельные горелки F.B.R. G H</a><span class="footer-line-space"> , </span>
+								<a href="mazutnye-gorelki" class="footer-line-link">Мазутные горелки F.B.R.</a><span class="footer-line-space"> , </span>
+								<a href="mazutnye-gorelki-fnp-2" class="footer-line-link">Мазутные горелки F.B.R. FNP /2</a><span class="footer-line-space"> , </span>
+								<a href="mazutnye-gorelki-fnl" class="footer-line-link">Мазутные горелки F.B.R. FNL</a><span class="footer-line-space"> , </span>
 								<a href="spare-parts" class="footer-line-link">Запчасти</a>
 							</span>
 						</div>

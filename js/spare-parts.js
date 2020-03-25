@@ -252,8 +252,8 @@ $('.add-to-shopping-сart').on('click', function() {
           $(this).prev().children('.number').html('0');
 
         /* -----  Если товар найден в списке добавленных в корзине, то ----- */  
-      } else {
-
+      } else if ($(this).parent('.to-order-block-sp').find('.number').text() != 0) {
+          console.log($(this).parent('.to-order-block-sp').find('.number').text());
           /* -----  Показываем ошибку "Данный товар уже добавлен!" ----- */
           $('.text-error-goods').text('Данный товар уже добавлен!');
           $('.error-goods-container').fadeIn(1000);
@@ -262,6 +262,19 @@ $('.add-to-shopping-сart').on('click', function() {
           setTimeout(closeErrorGoods, 2500);
 
           /* -----  Скрываем ошибку "Данный товар уже добавлен!" ----- */
+          function closeErrorGoods() {
+            $('.error-goods-container').fadeOut(1000);
+          }
+      } else if ($(this).parent('.to-order-block-sp').find('.number').text() == 0) {
+          
+          /* -----  Показываем ошибку "Укажите количество товаров!" ----- */
+          $('.text-error-goods').text('Укажите количество товаров!');
+          $('.error-goods-container').fadeIn(1000);
+
+          /* -----  Вызываем функцию closeErrorGoods() через 2,5 сек. ----- */
+          setTimeout(closeErrorGoods, 2500);
+
+          /* -----  Скрываем ошибку "Укажите количество товаров!" ----- */
           function closeErrorGoods() {
             $('.error-goods-container').fadeOut(1000);
           }
@@ -401,7 +414,7 @@ $('.close-window-btn-sp').on('click', function() {
 
 $('.basket-block').on('click', function() {
 
-  if($('.basket').hasClass('basket-active') === false) {
+  if($('.basket').hasClass('basket-active') === false ) {
 
     /* -----  Показываем ошибку "Данный товар уже добавлен!" ----- */
     $('.text-error-goods').text('Вы не добавили ни одной запчасти в корзину');

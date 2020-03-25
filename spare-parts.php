@@ -708,7 +708,7 @@
  			</div>
  		</div> -->
  		
-	<script src="js/onimput.js"></script>
+	<script src="js/oninput.js"></script>
 <?php 
 	require 'footer.php';
 ?>

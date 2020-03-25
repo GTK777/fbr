@@ -490,7 +490,7 @@ main {
     min-height: 245px;
     max-height: none;
     margin: 0;
-    margin: 0;
+    margin: 0 20px 0 auto;
     padding: 20px;
 
     transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
@@ -1239,6 +1239,7 @@ main {
 
 .table-block table th {
     text-align: left;
+    border: none;
 }
 
 .table-block table th:nth-child(1) {
@@ -1255,6 +1256,10 @@ main {
 
 .table-block tr th:nth-child(3) {
     text-align: center;
+}
+
+.table-block thead tr {
+    background-color: #fff;
 }
 
 .basket-block {
@@ -1889,6 +1894,7 @@ main {
     background: #fff;
     border-radius: 4px;
     box-shadow: 0 17px 43px #e1e4e5;
+    z-index: 99999;
 }
 
 .error-goods {
@@ -4788,5 +4794,5 @@ a.support-hover:hover + .tip-block .tip {
 }
 
 .burners-modal-info__content-right_description.main-desc {
-    margin-bottom: 50px;
+    margin-bottom: 75px;
 }

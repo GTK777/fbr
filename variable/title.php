@@ -4,51 +4,51 @@
 // Страница:
 // index.php
 
-$mainTitle = "Главаня";
-$mainDesc = "Главаня";
+$mainTitle = "Газовые, жидкотопливные, мазутные горелки F.B.R. Bruciatori. Купить в России по выгодной цене.";
+$mainDesc = "Горелки газомазутные F.B.R. gas x, xf, xp, c, thls, x/2, gas p/2, x/m, xp/m, p/m, p/mel, hi. Доставка по РФ СНГ. ";
 
 // Страница:
 // spare-parts.php
 
-$sparePartsTitle = "Запчасти";
-$sparePartsDesc = "Запчасти";
+$sparePartsTitle = "Запчасти для газовых, жидкотопливных, мазутных горелок F.B.R. Bruciatori. Доставка по РФ и СНГ. ";
+$sparePartsDesc = "Запасные части для газомазутных, газодизельных горелок F.B.R. Bruciatori. В наличие на складе, выгодные цены, оригинальное оборудование. ";
 
 // Страница:
 // catalog.php
 
-$catalogPartsTitle = "Каталог";
-$catalogPartsDesc = "Каталог";
+$catalogPartsTitle = "Каталог горелок F.B.R. Bruciatori GAS X, GAS X F, GAS XP, GAS /C, GAS X0 THLS, GAS X /2, GAS XP /2, GAS P /2, GAS X /M, GAS P /M, GAS P /M EL, HI.";
+$catalogPartsDesc = "Газовые, дизельные, жидкотопливные горелки, газомазутные, газодизельные горелки F.B.R. Bruciatori по выгодным ценам. Доставка по РФ и СНГ.";
 
 // Страница:
 // delivery.php
 
-$deliveryPartsTitle = "Доставка";
-$deliveryPartsDesc = "Доставка";
+$deliveryPartsTitle = "Доставка газовых горелок, дизельных, газомазутных, газодизельных горелок F.B.R. по всей Россиии и СНГ. Оригинальное оборудование.";
+$deliveryPartsDesc = "Доставка в срок по всей России. Горелки F.B.R. Bruciatori. Звоните по тел. +7 (495)-131-57-49 режим работы.";
 
 // Страница:
 // about-us.php
 
-$aboutUsTitle = "О нас";
-$aboutUsDesc = "О нас";
+$aboutUsTitle = "Компания ООО ГТК. Поставки газового, насосного оборудования по выгодным ценам. Доставка по всей Москве и СНГ. Оригинальное оборудование.";
+$aboutUsDesc = "Компания ООО «ГТК» с 2011 года занимается поставками горелочного и насосного оборудования известных европейских производителей.";
 
 // Страница:
 // contacts.php
 
-$contactsTitle = "Контакты";
-$contactsDesc = "Контакты";
+$contactsTitle = "Контакты компании ООО «ГТК» Тел. для связи 8 (495)-131-57-49 Режим работы Пн-Пт 9.00 - 18.00.";
+$contactsDesc = "Компания ООО «ГТК» с 2011 года занимается поставками горелочного и насосного оборудования известных европейских производителей.";
 
 
 // Страница:
 // requisites.php
 
-$requisitesTitle = "Реквизиты";
-$requisitesDesc = "Реквизиты";
+$requisitesTitle = "Реквизиты компании ООО ГТК поставки газового и насосного оборудования.";
+$requisitesDesc = "Реквизиты компании ООО ГТК. поставки газового и насосного оборудования.";
 
 // Страница:
 // politika.php
 
-$politikaTitle = "Политика";
-$politikaDescription = "Политика";
+$politikaTitle = "Политика конфиденциальности ООО ГТК";
+$politikaDescription = "Политика конфиденциальности ООО ГТК";
 
 // Страница:
 // 404.php
@@ -64,32 +64,32 @@ $error_404_Description = "404";
 // Страница: Газовые горелки для котлов F.B.R.
 //gazovye-gorelki.php
 
-$producteTitle_1 = "Основная 1";
-$producteDesc_1 = "Основная 1";
+$producteTitle_1 = "Газовые горелки F.B.R. Bruciatori Купить по выгодным ценам. Доставка по РФ и СНГ. ";
+$producteDesc_1 = "Газовые горелки и запчасти F.B.R. GAS X, X F, XP, C, X/2, P/2, X/M, XP/M, P/M, P/M EL, HI. Купить по выгодным ценам в РФ и СНГ.";
 
 // Страница: Дизельные горелки F.B.R.
 // dizelnye-gorelki.php
 
-$producteTitle_2 = "Основная 2";
-$producteDesc_2 = "Основная 2";
+$producteTitle_2 = "Дизельные горелки F.B.R. Bruciatori Купить по выгодным ценам в РФ и СНГ. Доставка в срок в наличии на складе. Запасные части для горелок";
+$producteDesc_2 = "Дизельные горелки G S, G S 2003, G SR 2003, G S LX, G SR LX, G H, G HR, G F, G THLS, G 22, G 22 LX, G 22 RLX, G/2. FGR/2, FGP/3, FGP/M, FGP/M EL, HI. Купить по выгодным ценам РФ и СНГ";
 
 // Страница: Мазутные горелки F.B.R.
 // mazutnye-gorelki.php
 
-$producteTitle_3 = "Основная 3";
-$producteDesc_3 = "Основная 3";
+$producteTitle_3 = "Мазутные горелки F.B.R. Bruciatori Купить в Москве и РФ по выгодным ценам. Доставка в срок в наличии на складе. Запасные части для горелок. ";
+$producteDesc_3 = "Мазутные горелки F.B.R. FNL, FNDL, FNP/2, FNDP/2, FNDP/3, FNDP/M, FNDP/M EL, HI. Весь ассортимент горелок. Запчасти на складе.";
 
 // Страница: Газодизельные горелки F.B.R.
 // gazodizelnye-gorelki.php
 
-$producteTitle_4 = "Основная 4";
-$producteDesc_4 = "Основная 4";
+$producteTitle_4 = "Газодизельные горелки F.B.R. Bruciatori Купить в Москве и РФ по выгодным ценам. Доставка в срок в наличии на складе. Запасные части для горелок.";
+$producteDesc_4 = " Газодизельные горелки F.B.R. GM X, K/2, K/M, K/M EL, HI. Весь ассортимент горелок. Запчасти на складе.";
 
 // Страница: Газомазутные горелки F.B.R.
 // gazomazutnye-gorelki.php
 
-$producteTitle_5 = "Основная 5";
-$producteDesc_5 = "Основная 5";
+$producteTitle_5 = "Газомазутные горелки F.B.R. Bruciatori Купить в Москве и РФ по выгодным ценам. Доставка в срок в наличии на складе. Запасные части для горелок. ";
+$producteDesc_5 = "Комбинированные горелки F.B.R. Двухступенчатые KN /M, KN /M EL, HI. Весь ассортимент горелок. Запчасти на складе. ";
 
 // ------------------------- Начало страниц разделов каталога -------------------------
 
@@ -98,80 +98,80 @@ $producteDesc_5 = "Основная 5";
 // Страница: Газовые горелки F.B.R. GAS X
 // gazovye-gorelki-gas-x.php
 
-$producteSectionTitle_1_1 = "Секция 1";
-$producteSectiomDescription_1_1 = "Секция 1";
+$producteSectionTitle_1_1 = "Купить газовые горелки F.B.R. Bruciatori GAS X и запчасти. Доставка РФ и СНГ. В наличии на складе. Италия ";
+$producteSectiomDescription_1_1 = "Газовые горелки GAS X0 CE TC, GAS X0 CE TL, GAS X1 CE TC, GAS X1 CE TL, GAS X2 CE TC, GAS X3 CE TL, GAS X5 CE TC, GAS X5 CE TL. Весь ассортимент горелок";
 
 // Страница: Газовые горелки F.B.R. GAS X F
 // gazovye-gorelki-gas-x-f.php
 
-$producteSectionTitle_1_2 = "Секция 2";
-$producteSectiomDescription_1_2 = "Секция 2";
+$producteSectionTitle_1_2 = "Купить газовые горелки F.B.R. Bruciatori GAS X F и запчасти. Доставка РФ и СНГ. В наличии на складе.";
+$producteSectiomDescription_1_2 = "Газовые горелки GAS X 1 CE F + R. CE D1/2, GAS X 2 CE F + R. CE D3/4, GAS X 3 CE F + R. CE-CT D1, GAS X 4 CE F + R. CE-CT D1. Весь ассортимент горелок";
 
 // Страница: Газовые горелки F.B.R. GAS XP
 // gazovye-gorelki-gas-xp.php
 
-$producteSectionTitle_1_3 = "Секция 3";
-$producteSectiomDescription_1_3 = "Секция 3";
+$producteSectionTitle_1_3 = "Купить газовые горелки F.B.R. Bruciatori GAS XP и запчасти. Доставка РФ и СНГ. В наличии на складе.";
+$producteSectiomDescription_1_3 = "Газовые горелки GAS XP 60 CE TC + R. CE D1, GAS XP 60 CE TL + R. CE D1, GAS XP 60 CE TC + R. CE-CT D1, GAS XP 60 CE TC + R. CE-CT D1, GAS XP 60 CE TL + R. CE-CT D1" ;
 
 // Страница: Газовые горелки F.B.R. GAS /C
 // gazovye-gorelki-gas-c.php
 
-$producteSectionTitle_1_4 = "Секция 4";
-$producteSectiomDescription_1_4 = "Секция 4";
+$producteSectionTitle_1_4 = "Купить газовые горелки F.B.R. Bruciatori GAS /C и запчасти. Доставка РФ и СНГ. В наличии на складе.";
+$producteSectiomDescription_1_4 = "Газовые одноступенчатые горелки F.B.R. Bruciatori GAS 1/C TC, GAS 2/C TC.";
 
 // Страница: Газовые горелки F.B.R. GAS X0 THLS
 // gazovye-gorelki-gas-thls.php
 
-$producteSectionTitle_1_5 = "Секция 5";
-$producteSectiomDescription_1_5 = "Секция 5";
+$producteSectionTitle_1_5 = "Газовая одноступенчатая горелка GAS X0 THLS";
+$producteSectiomDescription_1_5 = "Купить горелку одноступенчатую F.B.R. Bruciatori GAS X0 THLS.";
 
 // Страница: Газовые горелки F.B.R. GAS X /2
 // gazovye-gorelki-gas-x-2.php
 
-$producteSectionTitle_1_6 = "Секция 6";
-$producteSectiomDescription_1_6 = "Секция 6";
+$producteSectionTitle_1_6 = "Газовые горелки F.B.R. Bruciatori GAS X /2. Запчасти. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_1_6 = "Горелки GAS X 1/2 CE TC + R. CE D1/2, GAS X 1/2 CE TL + R. CE D1/2, GAS X 2/2 CE TC + R. CE D3/4, GAS X 3/2 CE TC + R. CE-CT D1, GAS X5/2 CE TC + R. CE D1, GAS X5/2 CE TL + R. CE-CT D1";
 
 // Страница: Газовые горелки F.B.R. GAS XP /2
 // gazovye-gorelki-gas-xp-2.php
 
-$producteSectionTitle_1_7 = "Секция 7";
-$producteSectiomDescription_1_7 = "Секция 7";
+$producteSectionTitle_1_7 = "Газовые горелки F.B.R. Bruciatori GAS XP /2. Запчасти. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_1_7 = "Газовые горелки GAS XP 60/2 CE TC + R. CE D1, GAS XP 60/2 CE TL + R. CE D1, GAS XP 60/2 CE TC + R. CE-CT D1, GAS XP 60/2 CE TC + R. CE-CT D1";
 
 // Страница: Газовые горелки F.B.R. GAS P /2
 // gazovye-gorelki-gas-p-2.php
 
-$producteSectionTitle_1_8 = "Секция 8";
-$producteSectiomDescription_1_8 = "Секция 8";
+$producteSectionTitle_1_8 = "Газовые горелки F.B.R. Bruciatori GAS P /2. Запчасти. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_1_8 = "Газовые горелки GAS P 70/2 CE TC + R. CE D1, GAS P 70/2 CE TC + R. CE D2, GAS P 70/2 CE TC + R. CE CT D2, GAS P 100/2 CE TC + R. CE D2, GAS P 100/2 CE TC + R. CE-CT D1, GAS P 100/2 CE TC + R. CE-CT D2, GAS P 100/2 CE TC + R. CE DN65-FS65";
 
 // Страница: Моделирующие горелки газовые промышленные F.B.R. GAS X /M
 // gazovye-gorelki-gas-x-m.php
 
-$producteSectionTitle_1_9 = "Секция 9";
-$producteSectiomDescription_1_9 = "Секция 9";
+$producteSectionTitle_1_9 = "Газовые горелки F.B.R. Bruciatori GAS X /M. Запчасти. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_1_9 = "Газовые горелки GAS X2/M CE TC + R. CE D3/4, GAS X3/M CE TC, GAS X4/M CE TC, GAS X5/M CE TC, GAS X5/M CE TL + R. CE-CT D1";
 
 // Страница: Газовые горелки F.B.R. GAS XP /M
 // gazovye-gorelki-gas-xp-m.php
 
-$producteSectionTitle_1_10 = "Секция 10";
-$producteSectiomDescription_1_10 = "Секция 10";
+$producteSectionTitle_1_10 = "Газовые горелки F.B.R. Bruciatori GAS XP /M. Запчасти. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_1_10 = "Газовая горелка GAS XP 60/M CE TC + R. CE D1-S, GAS XP 60/M CE TC + R. CE D1 1/2-FS40, GAS XP 60/M CE TC + R. CE D1 1/2-FS50, GAS XP 60/M CE TC + R. CE-CT D1-S. ";
 
 // Страница: Газовые горелки F.B.R. GAS P /M
 // gazovye-gorelki-gas-p-m.php
 
-$producteSectionTitle_1_11 = "Секция 11";
-$producteSectiomDescription_1_11 = "Секция 11";
+$producteSectionTitle_1_11 = "Газовые горелки F.B.R. Bruciatori GAS P /M. Запчасти. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей. Ассортимент запчастей.";
+$producteSectiomDescription_1_11 = "Газовая горелка GAS P 70/M CE TC + R. CE D1 1/2-FS50,  GAS P 70/M CE TC + R. CE D2-FS50, GAS P 70/M CE TC + R. CE-CT D1 1/2-FS50, GAS P 100/M CE TC + R. CE D1, GAS P 100/M CE TL + R. CE D2-FS50, GAS P 100/M CE TL";
 
 // Страница: Газовые горелки F.B.R. GAS P /M EL
 // gazovye-gorelki-gas-p-m-el.php
 
-$producteSectionTitle_1_12 = "Секция 12";
-$producteSectiomDescription_1_12 = "Секция 12";
+$producteSectionTitle_1_12 = "Газовые горелки F.B.R. Bruciatori GAS P /M EL. Запчасти. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_1_12 = "Газовая горелка GAS P 750/M CE EL, GAS P 750/M CE EL, 1000/M CE EL,  750/M CE EL + R. CE-CT DN125-S-F125, GAS P 1250/M CE EL + R. CE-CT DN100-S-F100";
 
 // Страница: Газовые горелки F.B.R. HI
 // gazovye-gorelki-hi.php
 
-$producteSectionTitle_1_13 = "Секция 13";
-$producteSectiomDescription_1_13 = "Секция 13";
+$producteSectionTitle_1_13 = "Газовые горелки F.B.R. HI. Запчасти. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_1_13 = "Газовые горелки HI-GAS P190/M CE TL, HI-GAS P250/M CE TL, HI-GAS P300/M CE TL, HI-GAS P350/M CE TL, HI-GAS P450/M CE TL, HI-GAS P1500/M CE TL,  HI-GAS P1800/M CE TL.";
 
 
 // Дизельные
@@ -179,110 +179,110 @@ $producteSectiomDescription_1_13 = "Секция 13";
 // Страница: Горелки дизельные одноступенчатые серии G S
 // dizelnye-gorelki-g-s.php
 
-$producteSectionTitle_2_1 = "Секция 1";
-$producteSectiomDescription_2_1 = "Секция 1";
+$producteSectionTitle_2_1 = "Горелки дизельные одноступенчатые F.B.R. G S. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_2_1 = "Дизельная горелка F.B.R. G 0S 2001 TC 1, G 1S 2001 TC, G 2S MAXI TC, G X3S TC,  G X3S TL, G X4S TC, G X5S TC, G X5S TL.";
 
 // Страница: Короткофакельные горелки F.B.R. G S 2003
 //  dizelnye-gorelki-g-s-2003.php
 
-$producteSectionTitle_2_2 = "Секция 2";
-$producteSectiomDescription_2_2 = "Секция 2";
+$producteSectionTitle_2_2 = "Горелки дизельные  F.B.R. G S 2003 Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_2_2 = "Дизельная горелка F.B.R. G 0S 2003 TXC, G 0S 2003 TC, G 1S 2003 TC. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
 
 // Страница: Жидкотопливные горелки малой мощности F.B.R. G SR 2003
 // dizelnye-gorelki-g-sr-2003.php
 
-$producteSectionTitle_2_3 = "Секция 3";
-$producteSectiomDescription_2_3 = "Секция 3";
+$producteSectionTitle_2_3 = "Жидкотопливные горелки малой мощности F.B.R. G SR 2003";
+$producteSectiomDescription_2_3 = "Дизельная горелка F.B.R. G 0SR 2003 TXC, G 0SR 2003 TC, G 1SR 2003 TC. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
 
 // Страница: Короткофакельные горелки F.B.R. G S LX
 // dizelnye-gorelki-g-s-lx.php
 
-$producteSectionTitle_2_4 = "Секция 4";
-$producteSectiomDescription_2_4 = "Секция 4";
+$producteSectionTitle_2_4 = "F.B.R. дизельные горелки G S LX. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_2_4 = "Купить Дизельная горелка F.B.R. G 1S LX, G 0S LX TXC, G 0S LX TC. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
 
 // Страница: Короткофакельные горелки F.B.R. G SR LX
 // dizelnye-gorelki-g-sr-lx.php
 
-$producteSectionTitle_2_5 = "Секция 5";
-$producteSectiomDescription_2_5 = "Секция 5";
+$producteSectionTitle_2_5 = "Дизельные горелки F.B.R. G SR LX. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_2_5 = "Купить Дизельная горелка F.B.R. G 0SR LX TC, G 1SR LX, G 0SR LX TXC. Доставка РФ и СНГ. В наличии на складе.";
 
 // Страница: Горелки для котлов на жидком топливе F.B.R. G H
 // dizelnye-gorelki-g-h.php
 
-$producteSectionTitle_2_6 = "Секция 6";
-$producteSectiomDescription_2_6 = "Секция 6";
+$producteSectionTitle_2_6 = "Дизельная горелка F.B.R. G H. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_2_6 = "Купить Горелка F.B.R. G 0H 2001 TC, G 1H 2001 TC, G 2H MAXI TC, G 2H MAXI TL, G X3H TC, G X3H TL, G X4H TC, G X4H TL, G X5H TC, G X5H TL.";
 
 // Страница: Дизельные горелки F.B.R. G HR
 // dizelnye-gorelki-g-hr.php
 
-$producteSectionTitle_2_7 = "Секция 7";
-$producteSectiomDescription_2_7 = "Секция 7";
+$producteSectionTitle_2_7 = "Дизельные горелки F.B.R. G HR. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_2_7 = "Купить Горелки F.B.R. G 0HR 2001 TC, G 1HR 2001 TC. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
 
 // Страница: Жидкотопливные горелки для котлов и печей F.B.R. F
 // dizelnye-gorelki-g-f.php
 
-$producteSectionTitle_2_8 = "Секция 8";
-$producteSectiomDescription_2_8 = "Секция 8";
+$producteSectionTitle_2_8 = "Дизельные горелки F.B.R. G F. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_2_8 = "Купить Горелки F.B.R. G 1 F 2001 TC, G 2 F MAXI TC, G X3 F TC, G X3 F TL, G X4 F TC, G X5 F TC, G X5 F TL. Доставка РФ и СНГ.";
 
 // Страница: Дизельные горелки F.B.R. G THLS
 // dizelnye-gorelki-g-thls.php
 
-$producteSectionTitle_2_9 = "Секция 9";
-$producteSectiomDescription_2_9 = "Секция 9";
+$producteSectionTitle_2_9 = " Дизельные горелки F.B.R. G THLS. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_2_9 = "Купить Горелки F.B.R. G 0S 2001 MIN TC, G 0S 2001 THLS TC, G 0SR 2001 THLS TC. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
 
 // Страница: Двухступенчатые дизельные горелки F.B.R. G 22
 // dizelnye-gorelki-g-22.php
 
-$producteSectionTitle_2_10 = "Секция 10";
-$producteSectiomDescription_2_10 = "Секция 10";
+$producteSectionTitle_2_10 = "Двухступенчатые дизельные горелки серии F.B.R. G 22. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_2_10 = "Купить горелки G 1.22 2001 TC, G 2.22 MAXI, G 2.22 MAXI TXL, G X3.22 TC, G X3.22 TL, G X4.22 TC, G X4.22 TL, G X5.22 TC, G X5.22 TL.";
 
 // Страница: Дизельные горелки F.B.R. G 22 LX
 // dizelnye-gorelki-g-22-lx.php
 
-$producteSectionTitle_2_11 = "Секция 11";
-$producteSectiomDescription_2_11 = "Секция 11";
+$producteSectionTitle_2_11 = "Дизельные горелки серии F.B.R. G 22 LX. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_2_11 = "Купить горелки F.B.R. G 2.22 LX TC. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей. ";
 
 // Страница: Дизельные горелки F.B.R. G 22 RLX
 // dizelnye-gorelki-g-22-rlx.php
 
-$producteSectionTitle_2_12 = "Секция 12";
-$producteSectiomDescription_2_12 = "Секция 12";
+$producteSectionTitle_2_12 = "Дизельные горелки F.B.R. G 22 RLX. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_2_12 = "Дизельные горелки F.B.R. G X4/2 TC, G X4/2 TL, G X5/2 TC, G X5/2 TL. В наличии на складе. Ассортимент запчастей.";
 
 // Страница: Дизельные горелки F.B.R. G /2
 // dizelnye-gorelki-g-2.php
 
-$producteSectionTitle_2_13 = "Секция 13";
-$producteSectiomDescription_2_13 = "Секция 13";
+$producteSectionTitle_2_13 = "Дизельные горелки F.B.R. G /2. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_2_13 = "Дизельные горелки F.B.R. G /2. G X4/2 TC, G X4/2 TL, G X5/2 TC, G X5/2 TL. В наличии на складе. Ассортимент запчастей.";
 
 // Страница: Горелки на дизтопливе F.B.R. FGP/2
 // dizelnye-gorelki-fgp-2.php
 
-$producteSectionTitle_2_14 = "Секция 14";
-$producteSectiomDescription_2_14 = "Секция 14";
+$producteSectionTitle_2_14 = "Дизельные горелки  F.B.R. FGP/2. Доставка РФ и СНГ. В наличии на складе. Ассортимент запчастей. ";
+$producteSectiomDescription_2_14 = "Дизельные горелки F.B.R. FGP 50/2 TC, FGP 50/2 TC EVO, FGP 50/2 TL, FGP 70/2 TC, FGP 70/2 TL, FGP 100/2 TC, FGP 120/2 TC, FGP 150/2 TC. ";
 
 // Страница: Горелки дизельные трехступенчатые F.B.R. FGP/3
 // dizelnye-gorelki-fgp-3.php
 
-$producteSectionTitle_2_15 = "Секция 15";
-$producteSectiomDescription_2_15 = "Секция 15";
+$producteSectionTitle_2_15 = "Горелки дизельные трехступенчатые F.B.R. FGP/3. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_2_15 = "Горелки F.B.R. FGP 190/3 TL, FGP 250/3 TL, FGP 350/3 TL, FGP 450/3 TL. В наличии на складе. Ассортимент запчастей. ";
 
 // Страница: Горелки дизельные промышленные F.B.R. FGP M
 // dizelnye-gorelki-fgp-m.php
 
-$producteSectionTitle_2_16 = "Секция 16";
-$producteSectiomDescription_2_16 = "Секция 16";
+$producteSectionTitle_2_16 = "Горелки дизельные промышленные F.B.R. FGP M. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_2_16 = "Горелки F.B.R. FGP 50/M TC, FGP 50/M TL, FGP 70/M TCK, FGP 70/M TL, FGP 100/M TCK, FGP 100/M TLK, FGP 120/M TC, FGP 120/M TL, FGP 150/M TC, FGP 150/M TL, FGP 190/M TL MEC.";
 
 // Страница: Дизельные горелки F.B.R. FGP /M EL
 // dizelnye-gorelki-fgp-m-el.php
 
-$producteSectionTitle_2_17 = "Секция 17";
-$producteSectiomDescription_2_17 = "Секция 17";
+$producteSectionTitle_2_17 = "Дизельные горелки F.B.R. FGP /M EL. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_2_17 = "Горелки F.B.R. FGP 750/M TL EC, FGP 1000/M TL EC, FGP 1250/M TL EC. В наличии на складе. Ассортимент запчастей.";
 
 // Страница: Дизельные промышленные горелки F.B.R. HI
 // dizelnye-gorelki-hi.php
 
-$producteSectionTitle_2_18 = "Секция 18";
-$producteSectiomDescription_2_18 = "Секция 18";
+$producteSectionTitle_2_18 = "Дизельные промышленные горелки F.B.R. HI. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_2_18 = "Жидкотопливные горелки F.B.R. HI-FGP 650/M MEC, HI-FGP 650/M MEC";
 
 
 // Мазутные горелки F.B.R.
@@ -290,102 +290,102 @@ $producteSectiomDescription_2_18 = "Секция 18";
 // Страница: Мазутные горелки F.B.R. FNL
 // mazutnye-gorelki-fnl.php
 
-$producteSectionTitle_3_1 = "Секция 1";
-$producteSectiomDescription_3_1 = "Секция 1";
+$producteSectionTitle_3_1 = "Мазутные горелки F.B.R. FNL. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_3_1 = "Мазутная горелка F.B.R. FNL 8 TC, FNL 8 TL, FNL 16 TC, FNL 16 TL, FNL 25 TC, FNL 25 TL. В наличии на складе. Ассортимент запчастей.";
 
 // Страница: Мазутные горелки F.B.R. FNDL
 // mazutnye-gorelki-fndl.php
 
-$producteSectionTitle_3_2 = "Секция 2";
-$producteSectiomDescription_3_2 = "Секция 2";
+$producteSectionTitle_3_2 = "Мазутные горелки F.B.R. FNDL. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_3_2 = "Мазутная горелка F.B.R. FNDL 8 TC, FNDL 8 TL, FNDL 16 TC, FNDL 16 TL, FNDL 25 TC, FNDL 25 TL. В наличии на складе. Ассортимент запчастей.";
 
 // Страница: Мазутные горелки F.B.R. FNP /2
 // mazutnye-gorelki-fnp-2.php
 
-$producteSectionTitle_3_3 = "Секция 3";
-$producteSectiomDescription_3_3 = "Секция 3";
+$producteSectionTitle_3_3 = "Мазутные горелки F.B.R. FNP /2. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_3_3 = "Мазутные горелки F.B.R. FNP 25/2 TC, FNP 25/2 TL, FNP 45/2 TC, FNP 45/2 TL, FNP 70/2 TC, FNP 70/2 TL, FNP 100/2 TC, FNP 100/2 TL, FNP 125/2 TC, FNP 125/2 TL, FNP 150/2 TC.";
 
 // Страница: Мазутные горелки F.B.R. FNDP /2
 // mazutnye-gorelki-fndp-2.php
 
-$producteSectionTitle_3_4 = "Секция 4";
-$producteSectiomDescription_3_4 = "Секция 4";
+$producteSectionTitle_3_4 = "Мазутные горелки F.B.R. FNDP /2. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_3_4 = "Мазутные горелки F.B.R. FNDP 25/2 TC, FNDP 25/2 TL, FNDP 45/2 TC, FNDP 45/2 TL, FNDP 70/2 TC, FNDP 70/2 TL, FNDP 100/2 TC, FNDP 100/2 TL, FNDP 125/2 TC, FNDP 125/2 TL.";
 
 // Страница: Мазутные горелки F.B.R. FNDP /3
 // mazutnye-gorelki-fndp-3.php
 
-$producteSectionTitle_3_5 = "Секция 5";
-$producteSectiomDescription_3_5 = "Секция 5";
+$producteSectionTitle_3_5 = "Мазутные горелки F.B.R. FNDP /3. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_3_5 = "Мазутные горелки F.B.R. FNDP 190/3 TL, FNDP 250/3 TL, FNDP 350/3 TL. В наличии на складе. Ассортимент запчастей.";
 
 // Страница: Мазутные горелки F.B.R. FNDP /M
 // mazutnye-gorelki-fndp-m.php
 
-$producteSectionTitle_3_6 = "Секция 6";
-$producteSectiomDescription_3_6 = "Секция 6";
+$producteSectionTitle_3_6 = "Мазутные горелки F.B.R. FNDP /M. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_3_6 = "Мазутные горелки F.B.R. FNDP 70/M TC, FNDP 70/M TL, FNDP 100/M TC, FNDP 100/M TL, FNDP 125/M TC, FNDP 125/M TL, FNDP 150/M TC, FNDP 150/M TL,  FNDP 190/M TL MEC, FNDP 550/M TL MEC.";
 
 // Страница: Мазутные горелки F.B.R. FNDP /M EL 
 // mazutnye-gorelki-fndp-m-el.php
 
-$producteSectionTitle_3_7 = "Секция 7";
-$producteSectiomDescription_3_7 = "Секция 7";
+$producteSectionTitle_3_7 = "Мазутные горелки F.B.R. FNDP /M EL. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_3_7 = "Мазутная горелка F.B.R. FNDP 750/M TL EL, FNDP 1000/M TL EL, FNDP 1250/M TL EL. В наличии на складе. Ассортимент запчастей.";
 
 // Страница: Мазутные горелки F.B.R. HI
 // mazutnye-gorelki-hi.php
 
-$producteSectionTitle_3_8 = "Секция 8";
-$producteSectiomDescription_3_8 = "Секция 8";
+$producteSectionTitle_3_8 = "Мазутные горелки F.B.R. HI. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_3_8 = "Мазутная горелка F.B.R. HI-FNDP 250/M CE TL, HI-FNDP 650/M CE TL, HI-FNDP 1800/M TL. В наличии на складе. Ассортимент запчастей.";
 
 // Газодизельные
 
 // Страница: Газодизельные горелки GM X
 // gazodizelnye-gorelki-gm-x.php
 
-$producteSectionTitle_4_1 = "Секция 1";
-$producteSectiomDescription_4_1 = "Секция 1";
+$producteSectionTitle_4_1 = "Газодизельные горелки F.B.R. GM X. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_4_1 = "Комбинированные горелки F.B.R. GM XGM X 0 TC + R. CE D1/2- S, GM X 0 TL + R. CE D1/2- S, GM X 1 TC + R. CE D1/2 - S, M X 1 TL + R. CE D1/2 - S, GM X 3 TC + R. CE D1- S, GM X 3 TL + R. CE D1 - S.";
 
 // Страница: Газодизельные горелки F.B.R. K /2
 // gazodizelnye-gorelki-k-2.php
 
-$producteSectionTitle_4_2 = "Секция 2";
-$producteSectiomDescription_4_2 = "Секция 2";
+$producteSectionTitle_4_2 = "Газодизельные горелки F.B.R. K /2. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_4_2 = "Комбинированные горелки F.B.R. K 3/2 TC + R. CE D1-S, K 3/2 TL + R. CE D1-S, K 3/2 TC + R. CE-CT D1-S, K 3/2 TL + R. CE-CT D1-S, K 4/2 TC + R. CE D1-S, K 4/2 TC + R. CE D1 1/2-FS40.";
 
 // Страница: Газодизельные горелки F.B.R. K /M
 // gazodizelnye-gorelki-k-m.php
 
-$producteSectionTitle_4_3 = "Секция 3";
-$producteSectiomDescription_4_3 = "Секция 3";
+$producteSectionTitle_4_3 = "Газодизельные горелки F.B.R. K /M. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_4_3 = "Комбинированные горелки F.B.R. K 6/M TL + R. N D2, K 6/M TL + R. CE-CT D2-FS50, K 6/M TL + R. N DN65, K 6/M TL + R. CE-CT DN65-FS65, K 190/M TL MEC + R. CE-CT D2-FS50.";
 
 // Страница: Газодизельные горелки K /M EL
 // gazodizelnye-gorelki-k-m-el.php
 
-$producteSectionTitle_4_4 = "Секция 4";
-$producteSectiomDescription_4_4 = "Секция 4";
+$producteSectionTitle_4_4 = "Газодизельные горелки F.B.R. K /M EL. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_4_4 = "Комбинированные горелки F.B.R. K750/M TL EL + R. CE-CT DN65-S-F65, K750/M TL EL + R. CE-CT DN80-S-F80, K750/M TL EL + R. CE-CT DN100-S-F100, K1000/M TL EL + R. CE-CT DN80-S-F80, K1000/M TL EL+ R. CE-CT DN100-S-F100";
 
 // Страница: Газодизельные горелки HI
 // gazodizelnye-gorelki-hi.php
 
-$producteSectionTitle_4_5 = "Секция 5";
-$producteSectiomDescription_4_5 = "Секция 5";
+$producteSectionTitle_4_5 = "Газодизельные горелки F.B.R. HI. В наличии на складе. Ассортимент запчастей. ";
+$producteSectiomDescription_4_5 = "Комбинированные горелки F.B.R. HI-K 190/M TL, HI-K 250/M TL, HI-K 350/M TL, HI-K 650/M TL, HI-K 750/M TL, HI-K 1000/M TL, HI-K 1300/M TL, HI-K 1500/M TL.";
 
 // Газомазутные горелки F.B.R.
 
 // Страница: Газомазутные горелки F.B.R. KN /M
 // gazomazutnye-gorelki-kn-m.php
 
-$producteSectionTitle_5_1 = "Секция 1";
-$producteSectiomDescription_5_1 = "Секция 1";
+$producteSectionTitle_5_1 = "Газомазутные горелки F.B.R. KN /M. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_5_1 = "Комбинированные горелки KN 190/M TL MEC + R. CE-CT D2-FS50, KN 250/M TL MEC + R. CE-CT D2-FS50, KN 190/M TL MEC + R. CE-CT DN65-FS65, KN 190/M TL MEC + R. CE-CT DN80-FS80.";
 
 // Страница: Газомазутные горелки F.B.R. KN /M EL
 // gazomazutnye-gorelki-kn-m-el.php
 
-$producteSectionTitle_5_2 = "Секция 2";
-$producteSectiomDescription_5_2 = "Секция 2";
+$producteSectionTitle_5_2 = "Газомазутные горелки F.B.R. KN /M EL. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_5_2 = "Комбинированные горелки F.B.R. KN750/M TL EL + R. CE-CT DN65-S-F65, KN1250/M TL EL + R. CE-CT DN80-S-F80, KN1250/M TL EL+ R. CE-CT DN100-S-F100, KN750/M TL EL + R. CE-CT DN100-S-F100.";
 
 // Страница: Газомазутные горелки F.B.R. KN /M
 // gazomazutnye-gorelki-hi.php
 
-$producteSectionTitle_5_3 = "Секция 3";
-$producteSectiomDescription_5_3 = "Секция 3";
+$producteSectionTitle_5_3 = "Газомазутные горелки F.B.R. KN /M. В наличии на складе. Ассортимент запчастей.";
+$producteSectiomDescription_5_3 = "Комбинированные горелки F.B.R. HI-KN 190/M TL, HI-KN 250/M TL, HI-KN 350/M TL, HI-KN 650/M TL, HI-KN 1000/M TL, HI-KN 1500/M TL.";
 
 // ------------------------- Конец страниц разделов каталога -------------------------
 
@@ -396,134 +396,134 @@ $producteSectiomDescription_5_3 = "Секция 3";
 // Страница:
 //
 
-$producteTitle_1_1 = "1";
-$producteDesc_1_1 = "1";
+$producteTitle_1_1 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_1_1 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_1_2 = "2";
-$producteDesc_1_2 = "2";
+$producteTitle_1_2 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_1_2 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_1_3 = "3";
-$producteDesc_1_3 = "3";
+$producteTitle_1_3 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_1_3 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_1_4 = "4";
-$producteDesc_1_4 = "4";
+$producteTitle_1_4 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_1_4 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_1_5 = "5";
-$producteDesc_1_5 = "5";
+$producteTitle_1_5 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_1_5 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_1_6 = "6";
-$producteDesc_1_6 = "6";
+$producteTitle_1_6 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_1_6 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_1_7 = "7";
-$producteDesc_1_7 = "7";
+$producteTitle_1_7 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_1_7 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_1_8 = "8";
-$producteDesc_1_8 = "8";
+$producteTitle_1_8 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_1_8 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_1_9 = "9";
-$producteDesc_1_9 = "9";
+$producteTitle_1_9 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_1_9 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_1_10 = "10";
-$producteDesc_1_10 = "10";
+$producteTitle_1_10 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_1_10 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_1_11 = "11";
-$producteDesc_1_11 = "11";
+$producteTitle_1_11 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_1_11 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_1_12 = "12";
-$producteDesc_1_12 = "12";
+$producteTitle_1_12 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_1_12 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_1_13 = "13";
-$producteDesc_1_13 = "13";
+$producteTitle_1_13 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_1_13 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_1_14 = "14";
-$producteDesc_1_14 = "14";
+$producteTitle_1_14 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_1_14 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_1_15 = "15";
-$producteDesc_1_15 = "15";
+$producteTitle_1_15 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_1_15 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_1_16 = "16";
-$producteDesc_1_16 = "16";
+$producteTitle_1_16 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_1_16 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_1_17 = "17";
-$producteDesc_1_17 = "17";
+$producteTitle_1_17 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_1_17 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_1_18 = "18";
-$producteDesc_1_18 = "18";
+$producteTitle_1_18 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_1_18 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_1_19 = "19";
-$producteDesc_1_19 = "19";
+$producteTitle_1_19 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_1_19 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_1_20 = "20";
-$producteDesc_1_20 = "20";
+$producteTitle_1_20 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_1_20 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_1_21 = "21";
-$producteDesc_1_21 = "21";
+$producteTitle_1_21 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_1_21 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_1_22 = "22";
-$producteDesc_1_22 = "22";
+$producteTitle_1_22 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_1_22 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // --------- БЛОК (Газовые горелки F.B.R. GAS X) Конец --------
@@ -533,38 +533,38 @@ $producteDesc_1_22 = "22";
 // Страница:
 // gas-x-1-ce-f-r-ce-d1-2-s.php
 
-$producteTitle_2_1 = "2 - 1";
-$producteDesc_2_1 = "2 - 1";
+$producteTitle_2_1 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_2_1 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-x-2-ce-f-r-ce-d3-4-s.php
 
-$producteTitle_2_2 = "2 - 2";
-$producteDesc_2_2 = "2 - 2";
+$producteTitle_2_2 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_2_2 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-x-3-ce-f-r-ce-ct-d1-s.php
 
-$producteTitle_2_3 = "2 - 3";
-$producteDesc_2_3 = "2 - 3";
+$producteTitle_2_3 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_2_3 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-x-3-ce-f-r-ce-d1-s.php
 
-$producteTitle_2_4 = "2 - 4";
-$producteDesc_2_4 = "2 - 4";
+$producteTitle_2_4 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_2_4 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-x-4-ce-f-r-ce-ct-d1-s.php
 
-$producteTitle_2_5 = "2 - 5";
-$producteDesc_2_5 = "2 - 5";
+$producteTitle_2_5 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_2_5 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-x-4-ce-f-r-ce-d1-s.php
 
-$producteTitle_2_6 = "2 - 6";
-$producteDesc_2_6 = "2 - 6";
+$producteTitle_2_6 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_2_6 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // --------- БЛОК (Газовые горелки F.B.R. GAS X F) Конец --------
@@ -575,74 +575,74 @@ $producteDesc_2_6 = "2 - 6";
 // Страница:
 // gas-xp-60-ce-tc-r-ce-ct-d1-1-2-fs40.php
 
-$producteTitle_3_1 = "3 - 1";
-$producteDesc_3_1 = "3 - 1";
+$producteTitle_3_1 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_3_1 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-xp-60-ce-tc-r-ce-ct-d1-1-2-fs50.php
 
-$producteTitle_3_2 = "3 - 2";
-$producteDesc_3_2 = "3 - 2";
+$producteTitle_3_2 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_3_2 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-xp-60-ce-tc-r-ce-ct-d1-s.php
 
-$producteTitle_3_3 = "3 - 3";
-$producteDesc_3_3 = "3 - 3";
+$producteTitle_3_3 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_3_3 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-xp-60-ce-tc-r-ce-d1-1-2-fs40.php
 
-$producteTitle_3_4 = "3 - 4";
-$producteDesc_3_4 = "3 - 4";
+$producteTitle_3_4 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_3_4 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-xp-60-ce-tc-r-ce-d1-1-2-fs50.php
 
-$producteTitle_3_5 = "3 - 5";
-$producteDesc_3_5 = "3 - 5";
+$producteTitle_3_5 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_3_5 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-xp-60-ce-tc-r-ce-d1-s.php
 
-$producteTitle_3_6 = "3 - 6";
-$producteDesc_3_6 = "3 - 6";
+$producteTitle_3_6 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_3_6 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-xp-60-ce-tl-r-ce-ct-d1-1-2-fs40.php
 
-$producteTitle_3_7 = "3 - 7";
-$producteDesc_3_7 = "3 - 7";
+$producteTitle_3_7 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_3_7 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-xp-60-ce-tl-r-ce-ct-d1-1-2-fs50.php
 
-$producteTitle_3_8 = "3 - 8";
-$producteDesc_3_8 = "3 - 8";
+$producteTitle_3_8 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_3_8 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-xp-60-ce-tl-r-ce-ct-d1-s.php
 
-$producteTitle_3_9 = "3 - 9";
-$producteDesc_3_9 = "3 - 9";
+$producteTitle_3_9 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_3_9 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-xp-60-ce-tl-r-ce-d1-1-2-fs40.php
 
-$producteTitle_3_10 = "3 - 10";
-$producteDesc_3_10 = "3 - 10";
+$producteTitle_3_10 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_3_10 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-xp-60-ce-tl-r-ce-d1-1-2-fs50.php
 
-$producteTitle_3_11 = "3 - 11";
-$producteDesc_3_11 = "3 - 11";
+$producteTitle_3_11 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_3_11 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-xp-60-ce-tl-r-ce-d1-s.php
 
-$producteTitle_3_12 = "3 - 12";
-$producteDesc_3_12 = "3 - 12";
+$producteTitle_3_12 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_3_12 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // --------- БЛОК (Газовые горелки F.B.R. GAS XP) Конец --------
@@ -654,15 +654,15 @@ $producteDesc_3_12 = "3 - 12";
 // Страница:
 // gas-1-c-tc.php
 
-$producteTitle_4_1 = "4 - 1";
-$producteDesc_4_1 = "4 - 1";
+$producteTitle_4_1 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_4_1 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 // gas-2-c-tc.php
 
-$producteTitle_4_2 = "4 - 2";
-$producteDesc_4_2 = "4 - 2";
+$producteTitle_4_2 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_4_2 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // --------- БЛОК (Газовые горелки F.B.R. GAS /C) Конец --------
@@ -672,8 +672,8 @@ $producteDesc_4_2 = "4 - 2";
 // Страница:
 // gas-x0-thls.php
 
-$producteTitle_5_1 = "5 - 1";
-$producteDesc_5_1 = "5 - 1";
+$producteTitle_5_1 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_5_1 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // --------- БЛОК (Газовые горелки F.B.R. GAS X0 THLS) Конец --------
@@ -683,141 +683,141 @@ $producteDesc_5_1 = "5 - 1";
 // Страница:
 // gas-x-1-2-ce-tc-r-ce-d1-2-s.php
 
-$producteTitle_6_1 = "6 - 1";
-$producteDesc_6_1 = "6 - 1";
+$producteTitle_6_1 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_6_1 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 // gas-x-1-2-ce-tl-r-ce-d1-2-s.php
 
-$producteTitle_6_2 = "6 - 2";
-$producteDesc_6_2 = "6 - 2";
+$producteTitle_6_2 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_6_2 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 // gas-x-2-2-ce-tc-r-ce-d3-4-fs25.php
 
-$producteTitle_6_3 = "6 - 3";
-$producteDesc_6_3 = "6 - 3";
+$producteTitle_6_3 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_6_3 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 // gas-x-2-2-ce-tl-r-ce-d3-4-fs25.php
 
-$producteTitle_6_4 = "6 - 4";
-$producteDesc_6_4 = "6 - 4";
+$producteTitle_6_4 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_6_4 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 // gas-x-3-2-ce-tc-r-ce-ct-d1-s.php
 
-$producteTitle_6_5 = "6 - 5";
-$producteDesc_6_5 = "6 - 5";
+$producteTitle_6_5 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_6_5 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 // gas-x-3-2-ce-tc-r-ce-d1-s.php
 
-$producteTitle_6_6 = "6 - 6";
-$producteDesc_6_6 = "6 - 6";
+$producteTitle_6_6 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_6_6 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 // gas-x-3-2-ce-tl-r-ce-ct-d1-s.php
 
-$producteTitle_6_7 = "6 - 7";
-$producteDesc_6_7 = "6 - 7";
+$producteTitle_6_7 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_6_7 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 // gas-x-3-2-ce-tl-r-ce-d1-s.php
 
-$producteTitle_6_8 = "6 - 8";
-$producteDesc_6_8 = "6 - 8";
+$producteTitle_6_8 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_6_8 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 // gas-x-4-2-ce-tc-r-ce-ct-d1-s.php
 
-$producteTitle_6_9 = "6 - 9";
-$producteDesc_6_9 = "6 - 9";
+$producteTitle_6_9 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_6_9 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 // gas-x-4-2-ce-tc-r-ce-d1-s.php
 
-$producteTitle_6_10 = "6 - 10";
-$producteDesc_6_10 = "6 - 10";
+$producteTitle_6_10 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_6_10 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 // gas-x-4-2-ce-tl-r-ce-ct-d1-s.php
 
-$producteTitle_6_11 = "6 - 11";
-$producteDesc_6_11 = "6 - 11";
+$producteTitle_6_11 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_6_11 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 // gas-x-4-2-ce-tl-r-ce-d1-s.php
 
-$producteTitle_6_12 = "6 - 12";
-$producteDesc_6_12 = "6 - 12";
+$producteTitle_6_12 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_6_12 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 // gas-x5-2-ce-tc-r-ce-ct-d1-s.php
 
-$producteTitle_6_13 = "6 - 13";
-$producteDesc_6_13 = "6 - 13";
+$producteTitle_6_13 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_6_13 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 // gas-x5-2-ce-tc-r-ce-ct-d11-4-s.php
 
-$producteTitle_6_14 = "6 - 14";
-$producteDesc_6_14 = "6 - 14";
+$producteTitle_6_14 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_6_14 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 // gas-x5-2-ce-tc-r-ce-d1-s.php
 
-$producteTitle_6_15 = "6 - 15";
-$producteDesc_6_15 = "6 - 15";
+$producteTitle_6_15 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_6_15 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 // gas-x5-2-ce-tc-r-ce-d11-4-s.php
 
-$producteTitle_6_16 = "6 - 16";
-$producteDesc_6_16 = "6 - 16";
+$producteTitle_6_16 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_6_16 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 // gas-x5-2-ce-tl-r-ce-ct-d1-s.php
 
-$producteTitle_6_17 = "6 - 17";
-$producteDesc_6_17 = "6 - 17";
+$producteTitle_6_17 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_6_17 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 // gas-x5-2-ce-tl-r-ce-ct-d11-4-s.php
 
-$producteTitle_6_18 = "6 - 18";
-$producteDesc_6_18 = "6 - 18";
+$producteTitle_6_18 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_6_18 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 // gas-x5-2-ce-tl-r-ce-d1-s.php
 
-$producteTitle_6_19 = "6 - 19";
-$producteDesc_6_19 = "6 - 19";
+$producteTitle_6_19 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_6_19 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 // gas-x5-2-ce-tl-r-ce-d11-4-s.php
 
-$producteTitle_6_20 = "6 - 20";
-$producteDesc_6_20 = "6 - 20";
+$producteTitle_6_20 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_6_20 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // --------- БЛОК (Газовые горелки F.B.R. GAS X /2) Конец --------
@@ -828,74 +828,74 @@ $producteDesc_6_20 = "6 - 20";
 // Страница:
 // gas-xp-60-2-ce-tc-r-ce-ct-d1-s
 
-$producteTitle_7_1 = "7 - 1";
-$producteDesc_7_1 = "7 - 1";
+$producteTitle_7_1 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_7_1 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-xp-60-2-ce-tc-r-ce-ct-d11-2-fs40
 
-$producteTitle_7_2 = "7 - 2";
-$producteDesc_7_2 = "7 - 2";
+$producteTitle_7_2 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_7_2 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-xp-60-2-ce-tc-r-ce-ct-d11-2-fs50
 
-$producteTitle_7_3 = "7 - 3";
-$producteDesc_7_3 = "7 - 3";
+$producteTitle_7_3 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_7_3 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-xp-60-2-ce-tc-r-ce-d1-s
 
-$producteTitle_7_4 = "7 - 4";
-$producteDesc_7_4 = "7 - 4";
+$producteTitle_7_4 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_7_4 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-xp-60-2-ce-tc-r-ce-d11-2-fs40
 
-$producteTitle_7_5 = "7 - 5";
-$producteDesc_7_5 = "7 - 5";
+$producteTitle_7_5 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_7_5 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-xp-60-2-ce-tc-r-ce-d11-2-fs50
 
-$producteTitle_7_6 = "7 - 6";
-$producteDesc_7_6 = "7 - 6";
+$producteTitle_7_6 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_7_6 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-xp-60-2-ce-tl-r-ce-ct-d1-s
 
-$producteTitle_7_7 = "7 - 7";
-$producteDesc_7_7 = "7 - 7";
+$producteTitle_7_7 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_7_7 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-xp-60-2-ce-tl-r-ce-ct-d11-2-fs40
 
-$producteTitle_7_8 = "7 - 8";
-$producteDesc_7_8 = "7 - 8";
+$producteTitle_7_8 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_7_8 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-xp-60-2-ce-tl-r-ce-ct-d11-2-fs50
 
-$producteTitle_7_9 = "7 - 9";
-$producteDesc_7_9 = "7 - 9";
+$producteTitle_7_9 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_7_9 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-xp-60-2-ce-tl-r-ce-d1-s
 
-$producteTitle_7_10 = "7 - 10";
-$producteDesc_7_10 = "7 - 10";
+$producteTitle_7_10 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_7_10 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-xp-60-2-ce-tl-r-ce-d11-2-fs40
 
-$producteTitle_7_11 = "7 - 11";
-$producteDesc_7_11 = "7 - 11";
+$producteTitle_7_11 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_7_11 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 // gas-xp-60-2-ce-tl-r-ce-d11-2-fs50
 
-$producteTitle_7_12 = "7 - 12";
-$producteDesc_7_12 = "7 - 12";
+$producteTitle_7_12 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_7_12 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // --------- БЛОК (Газовые горелки F.B.R. GAS XP /2) Конец --------
@@ -906,409 +906,409 @@ $producteDesc_7_12 = "7 - 12";
 // Страница:
 //
 
-$producteTitle_8_1 = '8 - 1';
-$producteDesc_8_1 = '8 - 1';
+$producteTitle_8_1 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_1 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_2 = '8 - 2';
-$producteDesc_8_2 = '8 - 2';
+$producteTitle_8_2 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_2 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_3 = '8 - 3';
-$producteDesc_8_3 = '8 - 3';
+$producteTitle_8_3 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_3 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_4 = '8 - 4';
-$producteDesc_8_4 = '8 - 4';
+$producteTitle_8_4 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_4 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_5 = '8 - 5';
-$producteDesc_8_5 = '8 - 5';
+$producteTitle_8_5 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_5 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_6 = '8 - 6';
-$producteDesc_8_6 = '8 - 6';
+$producteTitle_8_6 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_6 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_7 = '8 - 7';
-$producteDesc_8_7 = '8 - 7';
+$producteTitle_8_7 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_7 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_8 = '8 - 8';
-$producteDesc_8_8 = '8 - 8';
+$producteTitle_8_8 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_8 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_9 = '8 - 9';
-$producteDesc_8_9 = '8 - 9';
+$producteTitle_8_9 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_9 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_10 = '8 - 10';
-$producteDesc_8_10 = '8 - 10';
+$producteTitle_8_10 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_10 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_11 = '8 - 11';
-$producteDesc_8_11 = '8 - 11';
+$producteTitle_8_11 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_11 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_12 = '8 - 12';
-$producteDesc_8_12 = '8 - 12';
+$producteTitle_8_12 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_12 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_13 = '8 - 13';
-$producteDesc_8_13 = '8 - 13';
+$producteTitle_8_13 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_13 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_14 = '8 - 14';
-$producteDesc_8_14 = '8 - 14';
+$producteTitle_8_14 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_14 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_15 = '8 - 15';
-$producteDesc_8_15 = '8 - 15';
+$producteTitle_8_15 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_15 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_16 = '8 - 16';
-$producteDesc_8_16 = '8 - 16';
+$producteTitle_8_16 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_16 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_17 = '8 - 17';
-$producteDesc_8_17 = '8 - 17';
+$producteTitle_8_17 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_17 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_18 = '8 - 18';
-$producteDesc_8_18 = '8 - 18';
+$producteTitle_8_18 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_18 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_19 = '8 - 19';
-$producteDesc_8_19 = '8 - 19';
+$producteTitle_8_19 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_19 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_20 = '8 - 20';
-$producteDesc_8_20 = '8 - 20';
+$producteTitle_8_20 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_20 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_21 = '8 - 21';
-$producteDesc_8_21 = '8 - 21';
+$producteTitle_8_21 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_21 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_22 = '8 - 22';
-$producteDesc_8_22 = '8 - 22';
+$producteTitle_8_22 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_22 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_23 = '8 - 23';
-$producteDesc_8_23 = '8 - 23';
+$producteTitle_8_23 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_23 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_24 = '8 - 24';
-$producteDesc_8_24 = '8 - 24';
+$producteTitle_8_24 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_24 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_25 = '8 - 25';
-$producteDesc_8_25 = '8 - 25';
+$producteTitle_8_25 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_25 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_26 = '8 - 26';
-$producteDesc_8_26 = '8 - 26';
+$producteTitle_8_26 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_26 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_27 = '8 - 27';
-$producteDesc_8_27 = '8 - 27';
+$producteTitle_8_27 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_27 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_28 = '8 - 28';
-$producteDesc_8_28 = '8 - 28';
+$producteTitle_8_28 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_28 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_29 = '8 - 29';
-$producteDesc_8_29 = '8 - 29';
+$producteTitle_8_29 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_29 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_30 = '8 - 30';
-$producteDesc_8_30 = '8 - 30';
+$producteTitle_8_30 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_30 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_31 = '8 - 31';
-$producteDesc_8_31 = '8 - 31';
+$producteTitle_8_31 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_31 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_32 = '8 - 32';
-$producteDesc_8_32 = '8 - 32';
+$producteTitle_8_32 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_32 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_33 = '8 - 33';
-$producteDesc_8_33 = '8 - 33';
+$producteTitle_8_33 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_33 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_34 = '8 - 34';
-$producteDesc_8_34 = '8 - 34';
+$producteTitle_8_34 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_34 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_35 = '8 - 35';
-$producteDesc_8_35 = '8 - 35';
+$producteTitle_8_35 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_35 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_36 = '8 - 36';
-$producteDesc_8_36 = '8 - 36';
+$producteTitle_8_36 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_36 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_37 = '8 - 37';
-$producteDesc_8_37 = '8 - 37';
+$producteTitle_8_37 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_37 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_38 = '8 - 38';
-$producteDesc_8_38 = '8 - 38';
+$producteTitle_8_38 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_38 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_39 = '8 - 39';
-$producteDesc_8_39 = '8 - 39';
+$producteTitle_8_39 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_39 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_40 = '8 - 40';
-$producteDesc_8_40 = '8 - 40';
+$producteTitle_8_40 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_40 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_41 = '8 - 41';
-$producteDesc_8_41 = '8 - 41';
+$producteTitle_8_41 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_41 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_42 = '8 - 42';
-$producteDesc_8_42 = '8 - 42';
+$producteTitle_8_42 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_42 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_43 = '8 - 43';
-$producteDesc_8_43 = '8 - 43';
+$producteTitle_8_43 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_43 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_44 = '8 - 44';
-$producteDesc_8_44 = '8 - 44';
+$producteTitle_8_44 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_44 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_45 = '8 - 45';
-$producteDesc_8_45 = '8 - 45';
+$producteTitle_8_45 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_45 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_46 = '8 - 46';
-$producteDesc_8_46 = '8 - 46';
+$producteTitle_8_46 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_46 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_47 = '8 - 47';
-$producteDesc_8_47 = '8 - 47';
+$producteTitle_8_47 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_47 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_48 = '8 - 48';
-$producteDesc_8_48 = '8 - 48';
+$producteTitle_8_48 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_48 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_49 = '8 - 49';
-$producteDesc_8_49 = '8 - 49';
+$producteTitle_8_49 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_49 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_50 = '8 - 50';
-$producteDesc_8_50 = '8 - 50';
+$producteTitle_8_50 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_50 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_51 = '8 - 51';
-$producteDesc_8_51 = '8 - 51';
+$producteTitle_8_51 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_51 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_52 = '8 - 52';
-$producteDesc_8_52 = '8 - 52';
+$producteTitle_8_52 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_52 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_53 = '8 - 53';
-$producteDesc_8_53 = '8 - 53';
+$producteTitle_8_53 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_53 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_54 = '8 - 54';
-$producteDesc_8_54 = '8 - 54';
+$producteTitle_8_54 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_54 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_55 = '8 - 55';
-$producteDesc_8_55 = '8 - 55';
+$producteTitle_8_55 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_55 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_56 = '8 - 56';
-$producteDesc_8_56 = '8 - 56';
+$producteTitle_8_56 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_56 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_57 = '8 - 57';
-$producteDesc_8_57 = '8 - 57';
+$producteTitle_8_57 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_57 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_8_58 = '8 - 58';
-$producteDesc_8_58 = '8 - 58';										
+$producteTitle_8_58 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_8_58 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";		
 
-// --------- БЛОК (Газовые горелки F.B.R. GAS P /2) Конец --------
+//--------- БЛОК (Газовые горелки F.B.R. GAS P /2) Конец --------
 
 
 // --------- БЛОК (Моделирующие горелки газовые промышленные F.B.R. GAS X /M) Начало --------
@@ -1316,127 +1316,127 @@ $producteDesc_8_58 = '8 - 58';
 // Страница:
 //
 
-$producteTitle_9_1 = '9 - 1';
-$producteDesc_9_1 = '9 - 1';
+$producteTitle_9_1 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_9_1 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_9_2 = '9 - 2';
-$producteDesc_9_2 = '9 - 2';
+$producteTitle_9_2 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_9_2 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_9_3 = '9 - 3';
-$producteDesc_9_3 = '9 - 3';
+$producteTitle_9_3 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_9_3 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_9_4 = '9 - 4';
-$producteDesc_9_4 = '9 - 4';
+$producteTitle_9_4 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_9_4 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_9_5 = '9 - 5';
-$producteDesc_9_5 = '9 - 5';
+$producteTitle_9_5 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_9_5 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_9_6 = '9 - 6';
-$producteDesc_9_6 = '9 - 6';
+$producteTitle_9_6 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_9_6 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_9_7 = '9 - 7';
-$producteDesc_9_7 = '9 - 7';
+$producteTitle_9_7 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_9_7 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_9_8 = '9 - 8';
-$producteDesc_9_8 = '9 - 8';
+$producteTitle_9_8 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_9_8 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_9_9 = '9 - 9';
-$producteDesc_9_9 = '9 - 9';
+$producteTitle_9_9 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_9_9 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_9_10 = '9 - 10';
-$producteDesc_9_10 = '9 - 10';
+$producteTitle_9_10 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_9_10 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_9_11 = '9 - 11';
-$producteDesc_9_11 = '9 - 11';
+$producteTitle_9_11 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_9_11 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_9_12 = '9 - 12';
-$producteDesc_9_12 = '9 - 12';
+$producteTitle_9_12 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_9_12 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_9_13 = '9 - 13';
-$producteDesc_9_13 = '9 - 13';
+$producteTitle_9_13 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_9_13 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_9_14 = '9 - 14';
-$producteDesc_9_14 = '9 - 14';
+$producteTitle_9_14 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_9_14 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_9_15 = '9 - 15';
-$producteDesc_9_15 = '9 - 15';
+$producteTitle_9_15 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_9_15 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_9_16 = '9 - 16';
-$producteDesc_9_16 = '9 - 16';
+$producteTitle_9_16 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_9_16 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_9_17 = '9 - 17';
-$producteDesc_9_17 = '9 - 17';
+$producteTitle_9_17 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_9_17 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_9_18 = '9 - 18';
-$producteDesc_9_18 = '9 - 18';										
+$producteTitle_9_18 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_9_18 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";										
 
 // --------- БЛОК (Моделирующие горелки газовые промышленные F.B.R. GAS X /M) Конец --------
 
@@ -1446,85 +1446,85 @@ $producteDesc_9_18 = '9 - 18';
 //
 
 
-$producteTitle_10_1 = '10 - 1';
-$producteDesc_10_1 = '10 - 1';
+$producteTitle_10_1 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_10_1 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_10_2 = '10 - 2';
-$producteDesc_10_2 = '10 - 2';
+$producteTitle_10_2 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_10_2 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_10_3 = '10 - 3';
-$producteDesc_10_3 = '10 - 3';
+$producteTitle_10_3 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_10_3 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_10_4 = '10 - 4';
-$producteDesc_10_4 = '10 - 4';
+$producteTitle_10_4 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_10_4 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_10_5 = '10 - 5';
-$producteDesc_10_5 = '10 - 5';
+$producteTitle_10_5 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_10_5 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_10_6 = '10 - 6';
-$producteDesc_10_6 = '10 - 6';
+$producteTitle_10_6 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_10_6 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_10_7 = '10 - 7';
-$producteDesc_10_7 = '10 - 7';
+$producteTitle_10_7 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_10_7 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_10_8 = '10 - 8';
-$producteDesc_10_8 = '10 - 8';
+$producteTitle_10_8 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_10_8 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_10_9 = '10 - 9';
-$producteDesc_10_9 = '10 - 9';
+$producteTitle_10_9 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_10_9 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_10_10 = '10 - 10';
-$producteDesc_10_10 = '10 - 10';
+$producteTitle_10_10 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_10_10 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_10_11 = '10 - 11';
-$producteDesc_10_11 = '10 - 11';
+$producteTitle_10_11 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_10_11 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // Страница:
 //
 
-$producteTitle_10_12 = '10 - 12';
-$producteDesc_10_12 = '10 - 12';
+$producteTitle_10_12 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_10_12 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 
 // --------- БЛОК (Газовые горелки F.B.R. GAS XP /M) Конец --------
@@ -1535,566 +1535,566 @@ $producteDesc_10_12 = '10 - 12';
 // Страница:
 //
 
-$producteTitle_11_1 = '11 - 1';
-$producteDesc_11_1 = '11 - 1';
+$producteTitle_11_1 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_1 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_2 = '11 - 2';
-$producteDesc_11_2 = '11 - 2';
+$producteTitle_11_2 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_2 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_3 = '11 - 3';
-$producteDesc_11_3 = '11 - 3';
+$producteTitle_11_3 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_3 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_4 = '11 - 4';
-$producteDesc_11_4 = '11 - 4';
+$producteTitle_11_4 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_4 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_5 = '11 - 5';
-$producteDesc_11_5 = '11 - 5';
+$producteTitle_11_5 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_5 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_6 = '11 - 6';
-$producteDesc_11_6 = '11 - 6';
+$producteTitle_11_6 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_6 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_7 = '11 - 7';
-$producteDesc_11_7 = '11 - 7';
+$producteTitle_11_7 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_7 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_8 = '11 - 8';
-$producteDesc_11_8 = '11 - 8';
+$producteTitle_11_8 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_8 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_9 = '11 - 9';
-$producteDesc_11_9 = '11 - 9';
+$producteTitle_11_9 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_9 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_10 = '11 - 10';
-$producteDesc_11_10 = '11 - 10';
+$producteTitle_11_10 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_10 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_11 = '11 - 11';
-$producteDesc_11_11 = '11 - 11';
+$producteTitle_11_11 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_11 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_12 = '11 - 12';
-$producteDesc_11_12 = '11 - 12';
+$producteTitle_11_12 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_12 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_13 = '11 - 13';
-$producteDesc_11_13 = '11 - 13';
+$producteTitle_11_13 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_13 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_14 = '11 - 14';
-$producteDesc_11_14 = '11 - 14';
+$producteTitle_11_14 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_14 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_15 = '11 - 15';
-$producteDesc_11_15 = '11 - 15';
+$producteTitle_11_15 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_15 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_16 = '11 - 16';
-$producteDesc_11_16 = '11 - 16';
+$producteTitle_11_16 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_16 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_17 = '11 - 17';
-$producteDesc_11_17 = '11 - 17';
+$producteTitle_11_17 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_17 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_18 = '11 - 18';
-$producteDesc_11_18 = '11 - 18';
+$producteTitle_11_18 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_18 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_19 = '11 - 19';
-$producteDesc_11_19 = '11 - 19';
+$producteTitle_11_19 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_19 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_20 = '11 - 20';
-$producteDesc_11_20 = '11 - 20';
+$producteTitle_11_20 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_20 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_21 = '11 - 21';
-$producteDesc_11_21 = '11 - 21';
+$producteTitle_11_21 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_21 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_22 = '11 - 22';
-$producteDesc_11_22 = '11 - 22';
+$producteTitle_11_22 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_22 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_23 = '11 - 23';
-$producteDesc_11_23 = '11 - 23';
+$producteTitle_11_23 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_23 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_24 = '11 - 24';
-$producteDesc_11_24 = '11 - 24';
+$producteTitle_11_24 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_24 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_25 = '11 - 25';
-$producteDesc_11_25 = '11 - 25';
+$producteTitle_11_25 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_25 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_26 = '11 - 26';
-$producteDesc_11_26 = '11 - 26';
+$producteTitle_11_26 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_26 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_27 = '11 - 27';
-$producteDesc_11_27 = '11 - 27';
+$producteTitle_11_27 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_27 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_28 = '11 - 28';
-$producteDesc_11_28 = '11 - 28';
+$producteTitle_11_28 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_28 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_29 = '11 - 29';
-$producteDesc_11_29 = '11 - 29';
+$producteTitle_11_29 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_29 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_30 = '11 - 30';
-$producteDesc_11_30 = '11 - 30';
+$producteTitle_11_30 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_30 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_31 = '11 - 31';
-$producteDesc_11_31 = '11 - 31';
+$producteTitle_11_31 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_31 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_32 = '11 - 32';
-$producteDesc_11_32 = '11 - 32';
+$producteTitle_11_32 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_32 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_33 = '11 - 33';
-$producteDesc_11_33 = '11 - 33';
+$producteTitle_11_33 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_33 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_34 = '11 - 34';
-$producteDesc_11_34 = '11 - 34';
+$producteTitle_11_34 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_34 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_35 = '11 - 35';
-$producteDesc_11_35 = '11 - 35';
+$producteTitle_11_35 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_35 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_36 = '11 - 36';
-$producteDesc_11_36 = '11 - 36';
+$producteTitle_11_36 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_36 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_37 = '11 - 37';
-$producteDesc_11_37 = '11 - 37';
+$producteTitle_11_37 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_37 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_38 = '11 - 38';
-$producteDesc_11_38 = '11 - 38';
+$producteTitle_11_38 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_38 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_39 = '11 - 39';
-$producteDesc_11_39 = '11 - 39';
+$producteTitle_11_39 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_39 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_40 = '11 - 40';
-$producteDesc_11_40 = '11 - 40';
+$producteTitle_11_40 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_40 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_41 = '11 - 41';
-$producteDesc_11_41 = '11 - 41';
+$producteTitle_11_41 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_41 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_42 = '11 - 42';
-$producteDesc_11_42 = '11 - 42';
+$producteTitle_11_42 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_42 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_43 = '11 - 43';
-$producteDesc_11_43 = '11 - 43';
+$producteTitle_11_43 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_43 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_44 = '11 - 44';
-$producteDesc_11_44 = '11 - 44';
+$producteTitle_11_44 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_44 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_45 = '11 - 45';
-$producteDesc_11_45 = '11 - 45';
+$producteTitle_11_45 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_45 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_46 = '11 - 46';
-$producteDesc_11_46 = '11 - 46';
+$producteTitle_11_46 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_46 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_47 = '11 - 47';
-$producteDesc_11_47 = '11 - 47';
+$producteTitle_11_47 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_47 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_48 = '11 - 48';
-$producteDesc_11_48 = '11 - 48';
+$producteTitle_11_48 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_48 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_49 = '11 - 49';
-$producteDesc_11_49 = '11 - 49';
+$producteTitle_11_49 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_49 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_50 = '11 - 50';
-$producteDesc_11_50 = '11 - 50';
+$producteTitle_11_50 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_50 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_51 = '11 - 51';
-$producteDesc_11_51 = '11 - 51';
+$producteTitle_11_51 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_51 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_52 = '11 - 52';
-$producteDesc_11_52 = '11 - 52';
+$producteTitle_11_52 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_52 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_53 = '11 - 53';
-$producteDesc_11_53 = '11 - 53';
+$producteTitle_11_53 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_53 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_54 = '11 - 54';
-$producteDesc_11_54 = '11 - 54';
+$producteTitle_11_54 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_54 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_55 = '11 - 55';
-$producteDesc_11_55 = '11 - 55';
+$producteTitle_11_55 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_55 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_56 = '11 - 56';
-$producteDesc_11_56 = '11 - 56';
+$producteTitle_11_56 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_56 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_57 = '11 - 57';
-$producteDesc_11_57 = '11 - 57';
+$producteTitle_11_57 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_57 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_58 = '11 - 58';
-$producteDesc_11_58 = '11 - 58';
+$producteTitle_11_58 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_58 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_59 = '11 - 59';
-$producteDesc_11_59 = '11 - 59';
+$producteTitle_11_59 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_59 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_60 = '11 - 60';
-$producteDesc_11_60 = '11 - 60';
+$producteTitle_11_60 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_60 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_61 = '11 - 61';
-$producteDesc_11_61 = '11 - 61';
+$producteTitle_11_61 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_61 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_62 = '11 - 62';
-$producteDesc_11_62 = '11 - 62';
+$producteTitle_11_62 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_62 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_63 = '11 - 63';
-$producteDesc_11_63 = '11 - 63';
+$producteTitle_11_63 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_63 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_64 = '11 - 64';
-$producteDesc_11_64 = '11 - 64';
+$producteTitle_11_64 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_64 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_65 = '11 - 65';
-$producteDesc_11_65 = '11 - 65';
+$producteTitle_11_65 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_65 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_66 = '11 - 66';
-$producteDesc_11_66 = '11 - 66';
+$producteTitle_11_66 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_66 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_67 = '11 - 67';
-$producteDesc_11_67 = '11 - 67';
+$producteTitle_11_67 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_67 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_68 = '11 - 68';
-$producteDesc_11_68 = '11 - 68';
+$producteTitle_11_68 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_68 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_69 = '11 - 69';
-$producteDesc_11_69 = '11 - 69';
+$producteTitle_11_69 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_69 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_70 = '11 - 70';
-$producteDesc_11_70 = '11 - 70';
+$producteTitle_11_70 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_70 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_71 = '11 - 71';
-$producteDesc_11_71 = '11 - 71';
+$producteTitle_11_71 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_71 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_72 = '11 - 72';
-$producteDesc_11_72 = '11 - 72';
+$producteTitle_11_72 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_72 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_73 = '11 - 73';
-$producteDesc_11_73 = '11 - 73';
+$producteTitle_11_73 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_73 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_74 = '11 - 74';
-$producteDesc_11_74 = '11 - 74';
+$producteTitle_11_74 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_74 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_75 = '11 - 75';
-$producteDesc_11_75 = '11 - 75';
+$producteTitle_11_75 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_75 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_76 = '11 - 76';
-$producteDesc_11_76 = '11 - 76';
+$producteTitle_11_76 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_76 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_77 = '11 - 77';
-$producteDesc_11_77 = '11 - 77';
+$producteTitle_11_77 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_77 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_78 = '11 - 78';
-$producteDesc_11_78 = '11 - 78';
+$producteTitle_11_78 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_78 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_79 = '11 - 79';
-$producteDesc_11_79 = '11 - 79';
+$producteTitle_11_79 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_79 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_80 = '11 - 80';
-$producteDesc_11_80 = '11 - 80';
+$producteTitle_11_80 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_80 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_81 = '11 - 81';
-$producteDesc_11_81 = '11 - 81';
+$producteTitle_11_81 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_81 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_82 = '11 - 82';
-$producteDesc_11_82 = '11 - 82';
+$producteTitle_11_82 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_82 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_83 = '11 - 83';
-$producteDesc_11_83 = '11 - 83';
+$producteTitle_11_83 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_83 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_84 = '11 - 84';
-$producteDesc_11_84 = '11 - 84';
+$producteTitle_11_84 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_84 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_85 = '11 - 85';
-$producteDesc_11_85 = '11 - 85';
+$producteTitle_11_85 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_85 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_86 = '11 - 86';
-$producteDesc_11_86 = '11 - 86';
+$producteTitle_11_86 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_86 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_87 = '11 - 87';
-$producteDesc_11_87 = '11 - 87';
+$producteTitle_11_87 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_87 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_88 = '11 - 88';
-$producteDesc_11_88 = '11 - 88';
+$producteTitle_11_88 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_88 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_89 = '11 - 89';
-$producteDesc_11_89 = '11 - 89';
+$producteTitle_11_89 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_89 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_90 = '11 - 90';
-$producteDesc_11_90 = '11 - 90';
+$producteTitle_11_90 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_90 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_91 = '11 - 91';
-$producteDesc_11_91 = '11 - 91';
+$producteTitle_11_91 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_91 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_92 = '11 - 92';
-$producteDesc_11_92 = '11 - 92';
+$producteTitle_11_92 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_92 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_93 = '11 - 93';
-$producteDesc_11_93 = '11 - 93';
+$producteTitle_11_93 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_93 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_11_94 = '11 - 94';
-$producteDesc_11_94 = '11 - 94';
+$producteTitle_11_94 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_11_94 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // --------- БЛОК (Газовые горелки F.B.R. GAS P /M) Конец --------
 
@@ -2103,62 +2103,62 @@ $producteDesc_11_94 = '11 - 94';
 // Страница:
 //
 
-$producteTitle_12_1 = '12 - 1';
-$producteDesc_12_1 = '12 - 1';
+$producteTitle_12_1 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_12_1 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_12_2 = '12 - 2';
-$producteDesc_12_2 = '12 - 2';
+$producteTitle_12_2 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_12_2 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_12_3 = '12 - 3';
-$producteDesc_12_3 = '12 - 3';
+$producteTitle_12_3 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_12_3 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_12_4 = '12 - 4';
-$producteDesc_12_4 = '12 - 4';
+$producteTitle_12_4 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_12_4 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_12_5 = '12 - 5';
-$producteDesc_12_5 = '12 - 5';
+$producteTitle_12_5 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_12_5 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_12_6 = '12 - 6';
-$producteDesc_12_6 = '12 - 6';
+$producteTitle_12_6 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_12_6 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_12_7 = '12 - 7';
-$producteDesc_12_7 = '12 - 7';
+$producteTitle_12_7 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_12_7 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_12_8 = '12 - 8';
-$producteDesc_12_8 = '12 - 8';
+$producteTitle_12_8 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_12_8 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_12_9 = '12 - 9';
-$producteDesc_12_9 = '12 - 9';
+$producteTitle_12_9 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_12_9 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_12_10 = '12 - 10';
-$producteDesc_12_10 = '12 - 10';
+$producteTitle_12_10 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_12_10 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // --------- БЛОК (Газовые горелки F.B.R. GAS P /M EL) Конец --------
 
@@ -2167,74 +2167,74 @@ $producteDesc_12_10 = '12 - 10';
 // Страница:
 //
 
-$producteTitle_13_1 = '13 - 1';
-$producteDesc_13_1 = '13 - 1';
+$producteTitle_13_1 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_13_1 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_13_2 = '13 - 2';
-$producteDesc_13_2 = '13 - 2';
+$producteTitle_13_2 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_13_2 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_13_3 = '13 - 3';
-$producteDesc_13_3 = '13 - 3';
+$producteTitle_13_3 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_13_3 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_13_4 = '13 - 4';
-$producteDesc_13_4 = '13 - 4';
+$producteTitle_13_4 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_13_4 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_13_5 = '13 - 5';
-$producteDesc_13_5 = '13 - 5';
+$producteTitle_13_5 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_13_5 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_13_6 = '13 - 6';
-$producteDesc_13_6 = '13 - 6';
+$producteTitle_13_6 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_13_6 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_13_7 = '13 - 7';
-$producteDesc_13_7 = '13 - 7';
+$producteTitle_13_7 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_13_7 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_13_8 = '13 - 8';
-$producteDesc_13_8 = '13 - 8';
+$producteTitle_13_8 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_13_8 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_13_9 = '13 - 9';
-$producteDesc_13_9 = '13 - 9';
+$producteTitle_13_9 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_13_9 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_13_10 = '13 - 10';
-$producteDesc_13_10 = '13 - 10';
+$producteTitle_13_10 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_13_10 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_13_11 = '13 - 11';
-$producteDesc_13_11 = '13 - 11';
+$producteTitle_13_11 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_13_11 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // Страница:
 //
 
-$producteTitle_13_12 = '13 - 12';
-$producteDesc_13_12 = '13 - 12';
+$producteTitle_13_12 = "Газовые, дизельные, комбинированные горелки F.B.R. Доставка в РФ и СНГ.";
+$producteDesc_13_12 = "Купить газомазутные, газодизельные горелки F.B.R. по выгодным ценам. Ассортимент запчастей и комлектующих.";
 
 // --------- БЛОК (Газовые горелки F.B.R. HI) Конец --------
 
